@@ -6,6 +6,40 @@
 
 page 1 of 2 · [Next →](catalog.en.2.md)
 
+### [One photo to a 3D model: an AI orb UI motion loop](https://wandy3d.com/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/wandy-orb-photo-to-3d-ui-motion.webp" width="640" alt="One photo to a 3D model: an AI orb UI motion loop"></a>
+
+**Claude Opus 5.5** · Animation · by [Wandy3D](https://wandy3d.com) · 2026-10-11
+
+A 16-second seamless loop: an AI orb, a photo dropped in by hand, live progress and the real 3D model turning. All code, rendered frame by frame.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Ask me for: (1) the product and its real interface copy (default: Wandy3D, wandy3d.com, an AI that turns one photo into a textured 3D model; use only strings that exist in its UI: "Upload a photo", "Drop to upload", "Textures" 1K / 2K / 4K, "Polygons" 10K–1M, "Generate", the progress rail "Start · Shape · Texture · Finish" with its step lines, "Model ready", "Drag to turn it", "GLB · FBX · OBJ · USDZ · STL", "Download GLB", "GLB is ready"); (2) one input photo and the GLB the product really made from it (default: the sneaker photo and sneaker.glb in ./assets; never show a model the product did not make, never invent numbers, speeds or user counts); (3) the palette (default: warm off-white canvas #F2EDE6, white cards, pure black/white UI; the orb is the only coloured thing: molten amber #E8A33D → coral → violet); (4) the music (default: compose an original 8-bar loop at 120 BPM in numpy, plus synthesized UI sounds; nothing downloaded). Use AskUserQuestion, at most 4 questions per round, recommended option first. If I answer "defaults", stop asking.
+
+Make a Dribbble-grade UI-motion film, 16 s, 1440×1440, 60 fps, a seamless loop, for an AI that turns one photo into a 3D model. A single white card carries the whole story and never cuts: every state is the same element changing size, corner radius and content. The hero is a GLSL "AI orb", a fluid, breathing, iridescent blob that lives outside the card's content as the continuity element and changes job: idle hero → shrinks into the upload pill → sits beside "Generate" → swirls faster while the model is being made → becomes the knob of the download swipe → blooms when the file is ready → grows back into the idle hero. A cursor causes every change with real clicks and drags. The photo and the 3D model are real: the photo is dropped in by hand, dissolves into points that rise into 3D, and the real GLB, rendered live with Three.js, turns in the card. Type: Hanken Grotesk for UI, JetBrains Mono for numbers and file formats. Springs everywhere, at most a hint of overshoot; a virtual camera zooms so every state fills about 70 % of the frame; the orb pulses lightly on every beat; the last frame is the first frame. Banned: bouncy easing, particle bursts, glows or gradients on UI chrome (the orb, the photo and the model are content, not chrome), mismatched icon strokes, dead time, stock-template looks.
+
+120 BPM, 8 bars = 32 beats = 16 s; beat n lands at (n−1)·0.5 s and something happens on every beat:
+
+| Bar | Beat 1 | Beat 2 | Beat 3 | Beat 4 |
+|---|---|---|---|---|
+| 1 | Orb idle at hero size with a soft floor shadow, cursor resting lower right | Cursor glides in; hover, the orb leans toward it | Click: the white shape stretches out of the orb into a pill, the orb shrinks into its left end | "Upload a photo" (with an upload icon) fades in |
+| 2 | Cursor leaves the frame to the right | It comes back carrying the real photo as a tilted file card | Over the pill: copy swaps to "Drop to upload", the pill swells and shows a dashed drop outline, the orb wobbles | Release: the photo flies into the shape, which becomes a photo card with the orb and a black "Generate" button under the photo |
+| 3 | Settings slide in between photo and button: "Textures" 1K 2K 4K (2K selected) and "Polygons" (250K, ends labelled 10K and 1M) | Click 4K: the black indicator slides over | Grab the polygon knob and drag right, the readout rolls through the real rungs | Past 1M the knob rubber-bands; release, it springs back to 1M |
+| 4 | Click "Generate": settings leave, the rail Start · Shape · Texture · Finish arrives, "Starting the engine", the orb starts to swirl | Shape, "Sculpting the shape": the photo dissolves into grey points that lift off the picture plane into 3D and turn | Texture, "Painting from your photo": a sweep paints the points in the model's own colours | Finish, "Finishing touches": the points condense into the solid textured model |
+```
+
+[… (cut here — the full prompt is on Wandy3D)](https://wandy3d.com/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+---
+
 ### [Isometric floating mine island in Blender with looping animation](https://wandy3d.com/prompts/isometric-floating-mine-island-in-blender-with-looping-2105672083908825404?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
 <a href="https://wandy3d.com/prompts/isometric-floating-mine-island-in-blender-with-looping-2105672083908825404?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/isometric-floating-mine-island-in-blender-with-looping-2105672083908825404.webp" width="640" alt="Isometric floating mine island in Blender with looping animation"></a>
@@ -1408,56 +1442,6 @@ Blenderでモルモットを作って
 </details>
 
 [View on Wandy3D ↗](https://wandy3d.com/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/kayokojoe/status/2103482826519986544)
-
----
-
-### [Walkable anime cherry blossom town with shops, shrine and trains](https://wandy3d.com/prompts/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/prompts/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353.webp" width="640" alt="Walkable anime cherry blossom town with shops, shrine and trains"></a>
-
-**Claude Opus 5.5** · Scenes · by [Good FortuneX](https://x.com/pound75423) · 2026-09-25
-
-With a long, structured prompt, Claude Opus 5.5 built a procedural Three.js town: a shopping street, a shrine, and a station where trains stop.
-
-<details>
-<summary>Prompt</summary>
-
-```text
-Please use Three.js to build a "freely walkable 3D anime-style cherry blossom town" as a single HTML file, then publish it as a shareable web page.
-
-[Technical constraints]
-- Use only three.js r128 (UMD build) from cdnjs. Do not load any external models or images — generate all models, textures, and shop signs procedurally with code and Canvas.
-- Use original content for all shop names, signs, and characters. Do not imitate any real brand or existing work.
-- Use MeshStandardMaterial or MeshPhongMaterial. Avoid high metalness and environment reflection maps (on some computers they make objects render with no color).
-- Merge static objects by material into a small number of meshes so it runs on ordinary computers; provide a High / Medium / Low quality switch.
-
-[Scene: "桜ヶ丘 (Sakuragaoka)", a small Japanese town on a spring afternoon]
-1. Shopping street: a north–south main street with 20+ shops on both sides (ramen shop, café, bicycle shop, bookstore, florist, Japanese sweets shop, drugstore, convenience store, etc.). Each shop has: a multi-line sign (shop name + English name + phone number), a striped awning with a scalloped valance, a recessed storefront with an interior that has visible depth, and a sidewalk display (fruit crates, magazine rack, food-sample case, a spinning barber pole). Upper floors have windows, AC units, balconies with hanging laundry, and rooftop TV antennas.
-2. Street details: utility poles with lots of overhead wires, decorative street lamps with shopping-street banners, festival lantern strings, square sidewalk tiles with yellow tactile paving, drain grates, "止まれ" stop signs, and a bus stop.
-3. Level crossing and trains: a double-track railway. When a train approaches, the crossing's red lights flash alternately, the bell rings, and the gates lower. A two-car commuter train stops at the station for about 14 seconds and then departs. The windows are transparent, so the seats and hand straps inside are visible.
-4. Island-platform station: station name board, platform canopy, benches, and a vending machine.
-5. Sakura plaza: a 100-year-old cherry tree with a circular bench around it.
-6. Inari shrine: a large vermilion torii plus a row of small torii, stone lanterns, fox statues, a worship hall (copper-green roof, chigi, katsuogi, offering box, hanging bell), a purification fountain (temizuya), jizo statues, ema plaques, a sacred tree, and gravel ground.
-7. Riverside levee: two rows of cherry trees forming a blossom tunnel, lanterns, a river, houses on the far bank, and distant mountains.
-
-[How to build the cherry trees (key part)]
-- Model them on Somei-Yoshino: the trunk splits low into 3–4 main limbs, which branch recursively three more levels. Branches spread outward and droop slightly at the tips, giving an overall umbrella shape.
-- Build the canopy from tens of thousands of "blossom cluster cards": draw five-petal flowers on Canvas (notched petal tips, reddish centers, stamens) with a soft pink base layer behind the flowers. Use alphaTest and double-sided rendering for the cards.
-- Add a few pink filler clumps inside the canopy for volume. The outer and upper parts are brighter; the inner and lower parts have warm rose-toned shadows.
-- Use pale pink, not neon pink. The canopy sways gently in the wind, a carpet of fallen petals covers the ground under each tree, and petals keep falling through the air (done in a shader).
-
-[Characters]
-- 20+ anime-style students and townspeople: walking animation with knee and elbow joints, anime faces drawn on Canvas (large eyes, highlights, blush) that blink, bangs made of separate strands, a variety of hairstyles (long, bob, swinging ponytail, twin tails), sailor uniforms / blazer uniforms / casual clothes. Render characters with two-tone cel shading and a dark outline.
-- People walk along the street, chat in the plaza, wait on the platform, pray at the shrine, and ride bicycles along the levee.
-
-[Vehicles]
-```
-
-[… (cut here — the full prompt is on Wandy3D)](https://wandy3d.com/prompts/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-</details>
-
-[View on Wandy3D ↗](https://wandy3d.com/prompts/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/pound75423/status/2103480085319942353)
 
 ---
 
