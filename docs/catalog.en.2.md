@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Catalog 2/2
+# Awesome 3D Prompts — Catalog 2/3
 
 [← Awesome 3D Prompts](../README.md) · **English** · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Previous](catalog.en.1.md) · page 2 of 2
+[← Previous](catalog.en.1.md) · page 2 of 3 · [Next →](catalog.en.3.md)
 
 ### [Walkable anime cherry blossom town with shops, shrine and trains](https://wandy3d.com/prompts/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -332,6 +332,1437 @@ Return the completed standalone HTML file.
 
 ---
 
-[← Previous](catalog.en.1.md) · page 2 of 2
+### [Misty rainy autumn park you can walk through in Three.js](https://wandy3d.com/prompts/misty-rainy-autumn-park-you-can-walk-through-in-three-js-2103211135214256350?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/misty-rainy-autumn-park-you-can-walk-through-in-three-js-2103211135214256350?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/misty-rainy-autumn-park-you-can-walk-through-in-three-js-2103211135214256350.webp" width="640" alt="Misty rainy autumn park you can walk through in Three.js"></a>
+
+**Claude Opus 5.5** · Scenes · by [Simonas](https://x.com/SimonasLTU1) · 2026-09-24
+
+A comparison: one mood prompt given to Claude Opus 5.5 and GPT-6 Astra. Opus produced the richer rainy park with glowing lamps and a red umbrella.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+I want you to create me a misty, rainy, autumn-like mysterious atmosphere, nostalgic experience in an explorable Three.js in a single html/css/js file.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/misty-rainy-autumn-park-you-can-walk-through-in-three-js-2103211135214256350?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/SimonasLTU1/status/2103211135214256350)
+
+---
+
+### [Steerable Viking longship voyage through a Nordic fjord in Three.js](https://wandy3d.com/prompts/steerable-viking-longship-voyage-through-a-nordic-fjord-in-2103189762672611675?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/steerable-viking-longship-voyage-through-a-nordic-fjord-in-2103189762672611675?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/steerable-viking-longship-voyage-through-a-nordic-fjord-in-2103189762672611675.webp" width="640" alt="Steerable Viking longship voyage through a Nordic fjord in Three.js"></a>
+
+**GPT-6 Astra** · Interactive · by [Vib3Coded](https://x.com/vib3coded) · 2026-09-24
+
+GPT-6 Astra produced a single-file fjord journey: a rowed longship on reflective shader water, with oar splashes, waterfalls and three lighting moods.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create “Northbound” - a beautiful, interactive 3D journey through a Nordic fjord aboard a detailed Viking longship.
+
+Build a genuine real-time scene using Three.js and WebGL, delivered as a single standalone HTML file. This must be an explorable browser experience, not a pre-rendered video or a flat illustration.
+
+VISUAL DIRECTION
+
+Aim for a polished, cinematic environment with realistic materials, natural proportions, and restrained colors. Avoid a cartoon or low-poly appearance.
+
+A wooden longship travels through deep green-blue water between towering cliffs, dense forests, waterfalls, and small Nordic settlements. Use atmospheric perspective, subtle mist, soft shadows, and convincing depth. Compose beautiful views throughout the journey, not just from the initial camera position.
+
+THE LONGSHIP
+
+Construct a detailed, watertight hull with overlapping wooden planks, visible grain, ribs, benches, and a continuous interior.
+Add a carved dragon prow, striped cloth sail, mast, ropes, shields, supplies, and warm lanterns.
+Include proportionate Viking passengers and rowers with layered clothing, believable seated poses, and hands positioned near their oars.
+Keep every component physically connected. No floating passengers, intersecting accessories, or visible gaps through the hull.
+Animate subtle buoyancy, pitch, and roll. The sail should respond gently to the wind.
+
+WATER AND ROWING
+
+Make the water a central visual feature.
+
+Use a custom shader with planar reflections, refraction, Fresnel highlights, depth-dependent absorption, visible shallow areas, and layered surface ripples. Reflections must respond correctly to the moving camera and changing lighting.
+
+Create a believable wake behind the ship.
+
+Animate a complete rowing cycle: blades enter the water, pull backward, lift out, and return above the surface. Coordinate this with the rowers’ movement.
+
+Generate ripples, foam, and small droplets at the actual blade-water contact points. Trails must remain in world space and gradually dissipate. Avoid effects appearing while the blades are in the air.
+
+ENVIRONMENT AND MATERIALS
+
+Use detailed terrain, irregular rock formations, natural tree silhouettes, branching trunks, and individual leaf or needle clusters.
+
+Use PBR materials with normal and roughness maps for wood, stone, and ground. You may embed appropriately licensed textures; include attribution where required.
+
+Ensure the underwater terrain continues beneath the surface. No bright seams, shoreline gaps, floating vegetation, or trees obstructing the navigable route.
+
+CONTROLS
+
+A/D or arrow keys: steer left and right.
+W/S: adjust speed.
+Mouse drag: look around.
+Provide follow, orbit, and cinematic camera modes.
+Include an optional automatic journey mode.
+Add pause, reset, fullscreen, and hide-interface controls.
+Support touch steering and speed controls on mobile.
+Prevent the ship from passing through land and rocks.
+
+ATMOSPHERE AND INTERFACE
+
+Provide three smoothly transitioning lighting presets: Morning, Overcast, and Moonlight.
+
+Add optional ambient water, wind, birds, and rowing sounds. Audio must begin only after user interaction.
+
+Design a minimal editorial interface: “Northbound.” in an elegant serif typeface, subtle chapter labels, and a compact translucent control bar. Keep the scenery unobstructed.
+
+PERFORMANCE AND DELIVERY
+
+Use instancing, sensible geometry budgets, distance-based detail, and appropriately sized reflection targets. Adapt rendering quality to the device instead of promising a fixed frame rate.
+
+Deliver one HTML file with scripts and required assets embedded so it can open directly in a modern browser.
+
+Test steering, camera modes, lighting transitions, and rowing. Inspect the ship from multiple angles and check the shoreline from low viewpoints. Fix geometry intersections, reflection artifacts, excessive glare, and console errors before considering the scene finished.
+```
+
+[… (cut here — the full prompt is on Wandy3D)](https://wandy3d.com/prompts/steerable-viking-longship-voyage-through-a-nordic-fjord-in-2103189762672611675?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/steerable-viking-longship-voyage-through-a-nordic-fjord-in-2103189762672611675?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/vib3coded/status/2103189762672611675)
+
+---
+
+### [Vertical Three.js short film: word-blocks clear and a stained glass…](https://wandy3d.com/prompts/vertical-three-js-short-film-word-blocks-clear-and-a-stained-2103145567945986461?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/vertical-three-js-short-film-word-blocks-clear-and-a-stained-2103145567945986461?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/vertical-three-js-short-film-word-blocks-clear-and-a-stained-2103145567945986461.webp" width="640" alt="Vertical Three.js short film: word-blocks clear and a stained glass…"></a>
+
+**Claude Opus 5.5** · Animation · by [AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24
+
+Claude Opus 5.5 rendered a 36-second portrait film in code: gray blocks seal a cathedral window, then fall away and colored light fills the floor.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
+
+【作品名】
+余白
+
+【見せたい体験】
+効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
+
+【舞台】
+・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
+・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
+・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
+
+【時間の構成】
+0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
+3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
+11〜14秒：窓は完全にふさがれ、闇と静寂
+14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
+19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
+26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
+33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
+
+【言葉（明朝体、控えめに浮かんでは消える）】
+・「毎日、もっと速く。」
+・「もっと、効率よく。」
+・「気づけば、光が入らなくなっていた。」
+・「ひとつ、手放してみる。」
+・「空いたところから、光が入る。」
+・「その光は、前より豊かだった。」
+・最後に大きく：「豊かさは余白に宿る」
+
+【光と質感】
+・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
+・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
+・ブロックは無機質なマットグレー。言葉は白く刻印されている
+・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
+
+【技術条件】
+・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
+・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
+
+【仕上げ】
+各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/vertical-three-js-short-film-word-blocks-clear-and-a-stained-2103145567945986461?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/AGIOyaZ/status/2103145567945986461)
+
+---
+
+### [Genshin-style open-world action game set in San Francisco](https://wandy3d.com/prompts/genshin-style-open-world-action-game-set-in-san-francisco-2103144530157687114?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/genshin-style-open-world-action-game-set-in-san-francisco-2103144530157687114?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/genshin-style-open-world-action-game-set-in-san-francisco-2103144530157687114.webp" width="640" alt="Genshin-style open-world action game set in San Francisco"></a>
+
+**Claude Opus 5.5** · Games · by [Every 📧](https://x.com/every) · 2026-09-24
+
+Claude Opus 5.5 turned a one-sentence prompt into a playable open-world RPG, with a sourdough sword and a funding-round special move.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Build a Genshin Impact–style game set in San Francisco.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/genshin-style-open-world-action-game-set-in-san-francisco-2103144530157687114?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/every/status/2103144530157687114)
+
+---
+
+### [Eiffel Tower in Three.js: four models, one prompt](https://wandy3d.com/prompts/eiffel-tower-in-three-js-four-models-one-prompt-2103106070549757960?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/eiffel-tower-in-three-js-four-models-one-prompt-2103106070549757960?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/eiffel-tower-in-three-js-four-models-one-prompt-2103106070549757960.webp" width="640" alt="Eiffel Tower in Three.js: four models, one prompt"></a>
+
+**Claude Opus 5.5** · Assets · by [Pascual ⚡](https://x.com/0xPascual) · 2026-09-24
+
+A comparison: Claude Opus 5.5 led on detail and polish when four models each built a Three.js Eiffel Tower, set in a park with clouds.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+build the Eiffel Tower in Three.js
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/eiffel-tower-in-three-js-four-models-one-prompt-2103106070549757960?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/0xPascual/status/2103106070549757960)
+
+---
+
+### [Animated short of wooden letter tiles solving a crossword in Three.js](https://wandy3d.com/prompts/animated-short-of-wooden-letter-tiles-solving-a-crossword-in-2103087766662009118?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/animated-short-of-wooden-letter-tiles-solving-a-crossword-in-2103087766662009118?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/animated-short-of-wooden-letter-tiles-solving-a-crossword-in-2103087766662009118.webp" width="640" alt="Animated short of wooden letter tiles solving a crossword in Three.js"></a>
+
+**Claude Opus 5.5** · Animation · by [Anil Rao K](https://x.com/Anilraok) · 2026-09-24
+
+Claude Opus 5.5 invented and animated a Three.js short in which wooden letter tiles with eyes hop onto a crossword grid and finish with confetti.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/animated-short-of-wooden-letter-tiles-solving-a-crossword-in-2103087766662009118?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/Anilraok/status/2103087766662009118)
+
+---
+
+### [Seaside 3D game of a pelican cycling along a coast road](https://wandy3d.com/prompts/seaside-3d-game-of-a-pelican-cycling-along-a-coast-road-2103083781490176212?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/seaside-3d-game-of-a-pelican-cycling-along-a-coast-road-2103083781490176212?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/seaside-3d-game-of-a-pelican-cycling-along-a-coast-road-2103083781490176212.webp" width="640" alt="Seaside 3D game of a pelican cycling along a coast road"></a>
+
+**Claude Opus 5.5** · Games · by [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24
+
+A comparison of Codex and Claude Opus 5.5 on one prompt; Opus 5.5 was the pick, a browser game with a cycling pelican, waves and changing weather.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/seaside-3d-game-of-a-pelican-cycling-along-a-coast-road-2103083781490176212?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/code_hiyouga/status/2103083781490176212)
+
+---
+
+### [Interactive soft-body gummy citrus slice you can pull and bounce](https://wandy3d.com/prompts/interactive-soft-body-gummy-citrus-slice-you-can-pull-and-2103062415533371646?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-soft-body-gummy-citrus-slice-you-can-pull-and-2103062415533371646?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-soft-body-gummy-citrus-slice-you-can-pull-and-2103062415533371646.webp" width="640" alt="Interactive soft-body gummy citrus slice you can pull and bounce"></a>
+
+**Claude Opus 5.5** · Interactive · by [Vib3Coded](https://x.com/vib3coded) · 2026-09-24
+
+A comparison of Claude Opus 5.5 and GPT-6 Astra on one prompt; Opus gave a glossy, bright jelly slice in Three.js that wobbles and snaps back.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a beautiful, interactive 3D gummy citrus slice using WebGPU. Deliver the complete experience in one standalone HTML file with embedded JavaScript and WGSL shaders.
+
+This must be a real-time 3D simulation, not a video, image, or looping animation.
+
+APPEARANCE
+
+Create a thick, semicircular orange slice with translucent, juicy flesh, eight distinct segments, delicate internal membranes, tiny bubbles, a pale pith layer, and a soft orange rind.
+
+Make it look like premium gummy candy: saturated color, glossy highlights, light passing through the flesh, convincing refraction, and soft contact shadows. Avoid excessive bloom, washed-out colors, or a hard plastic appearance.
+
+Use a warm, light studio background and a clean editorial interface with generous whitespace. Add the large italic serif title “Citrus Jelly.” Keep controls compact and the slice clearly visible.
+
+SOFT-BODY PHYSICS
+
+The jelly feel is the most important part.
+
+- Grab any part of the slice with a mouse or finger.
+- Pull, lift, stretch, twist, and release it.
+- Make deformation local: pulling one edge should stretch nearby flesh while the rest follows naturally.
+- After release, the slice should wobble, overshoot, and gradually recover its original shape.
+- Include gravity, inertia, damping, ground collisions, and soft bouncing.
+- Preserve volume approximately and prevent the mesh from collapsing or turning inside out.
+- Make the rind slightly firmer than the flesh.
+- Internal segments, membranes, and bubbles must follow the deformation without floating outside the body.
+
+Use a stable volumetric soft-body solver, such as a tetrahedral mesh with XPBD constraints. Do not imitate softness by scaling or rotating the entire object.
+
+CONTROLS
+
+Include three color presets: Orange, Lemon, and Ruby.
+
+Add:
+- Firmness slider.
+- Internal damping slider.
+- “Give it a nudge” button.
+- Reset button.
+- Quarter-speed checkbox.
+- Show mesh checkbox.
+- Pause/resume button.
+
+Display small live readouts for mass, percentage of rest volume, and kinetic energy.
+
+TECHNICAL REQUIREMENTS
+
+Use genuine WebGPU rendering with WGSL shaders. Generate all geometry and visual details procedurally, without imported models or image files.
+
+Keep simulation updates independent of rendering frame rate. Support desktop and touch devices. Show a clear fallback message if WebGPU is unavailable.
+
+Test strong dragging, repeated releases, all controls, and narrow screens. Fix unstable physics, broken geometry, and visual artifacts before delivering the finished HTML.
+
+The result should feel like a tiny, tactile candy experiment that is genuinely satisfying to play with.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-soft-body-gummy-citrus-slice-you-can-pull-and-2103062415533371646?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/vib3coded/status/2103062415533371646)
+
+---
+
+### [Walkable 3D imperial island city with a giant white tower](https://wandy3d.com/prompts/walkable-3d-imperial-island-city-with-a-giant-white-tower-2103046279253168554?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/walkable-3d-imperial-island-city-with-a-giant-white-tower-2103046279253168554?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/walkable-3d-imperial-island-city-with-a-giant-white-tower-2103046279253168554.webp" width="640" alt="Walkable 3D imperial island city with a giant white tower"></a>
+
+**Claude Opus 5.5** · Scenes · by [EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24
+
+A three-model comparison; Claude Opus 5.5 built the densest version: a walled island city with domes, a district menu and street-level walking.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build an interactive 3D fantasy imperial city as one browser project, using Three.js or a similar WebGL library. Place a walled island capital with a very tall white central tower, domed palaces, ring walls, an arena, gardens, bridges and a waterfront, surrounded by water, hills and distant mountains. Use a muted stone, white and green palette with teal domes and warm terracotta roofs, and a dark, elegant UI with serif lettering. Add a side menu listing named districts; clicking one flies the camera to it. Include an orbit view over the whole city and a street-level walking mode with small townsfolk. Add a day and night toggle with lit windows after dark. Done means the camera moves smoothly between districts, the city feels dense and readable from far away and up close, and it runs at a steady frame rate in a normal desktop browser.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/walkable-3d-imperial-island-city-with-a-giant-white-tower-2103046279253168554?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/Enzoxbt01/status/2103046279253168554)
+
+---
+
+### [Voxel robot mascot on a floating island in Three.js](https://wandy3d.com/prompts/voxel-robot-mascot-on-a-floating-island-in-three-js-2102956424120979838?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/voxel-robot-mascot-on-a-floating-island-in-three-js-2102956424120979838?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/voxel-robot-mascot-on-a-floating-island-in-three-js-2102956424120979838.webp" width="640" alt="Voxel robot mascot on a floating island in Three.js"></a>
+
+**GPT-6 Luna** · Assets · by [Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24
+
+GPT-6 Luna turned a one-line prompt into a voxel robot with an animated screen face, standing on a floating island with a tree and a terminal desk.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+make yourself, codex in threejs using voxels, make everything from scratch, dont use any skills
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/voxel-robot-mascot-on-a-floating-island-in-three-js-2102956424120979838?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/be_arsh/status/2102956424120979838)
+
+---
+
+### [Realistic desert campfire at night in a single HTML file](https://wandy3d.com/prompts/realistic-desert-campfire-at-night-in-a-single-html-file-2102915567845794029?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/realistic-desert-campfire-at-night-in-a-single-html-file-2102915567845794029?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/realistic-desert-campfire-at-night-in-a-single-html-file-2102915567845794029.webp" width="640" alt="Realistic desert campfire at night in a single HTML file"></a>
+
+**Claude Opus 5.5** · Scenes · by [Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24
+
+A comparison: Claude Opus 5.5 and GPT 6 Sol got the same campfire prompt. Opus delivered the richer scene, with sparks, cacti, a starry sky and sound.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Do not reference any other file or previous work. This task must be fully original and not built as a cheat from any other work here.
+
+Create a single html file of a live campfire in the desert. It is night time and the stars are visible. there are log stumps set up as seats around the fire. no people are in the shot. different wildlife may periodically come into view and out.
+
+noises should also match the scene and be of high quality.
+Make everything hyper realistic
+
+name the file (based on model)
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/realistic-desert-campfire-at-night-in-a-single-html-file-2102915567845794029?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/Nixtrodamis/status/2102915567845794029)
+
+---
+
+### [First-person burger cooking simulator with a neon kitchen](https://wandy3d.com/prompts/first-person-burger-cooking-simulator-with-a-neon-kitchen-2102897258983313712?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/first-person-burger-cooking-simulator-with-a-neon-kitchen-2102897258983313712?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/first-person-burger-cooking-simulator-with-a-neon-kitchen-2102897258983313712.webp" width="640" alt="First-person burger cooking simulator with a neon kitchen"></a>
+
+**Claude Opus 5.5** · Games · by [noclipepe](https://x.com/noclipepe) · 2026-09-23
+
+A three-way comparison: Claude Opus 5.5, GPT-6 Sol and GPT-6 Luna each built a burger simulator. Opus led on lighting, hands and food detail.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+build a first-person burger simulator.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/first-person-burger-cooking-simulator-with-a-neon-kitchen-2102897258983313712?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/noclipepe/status/2102897258983313712)
+
+---
+
+### [Procedural two-tone blue hypercar built in Three.js](https://wandy3d.com/prompts/procedural-two-tone-blue-hypercar-built-in-three-js-2102828216289566725?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/procedural-two-tone-blue-hypercar-built-in-three-js-2102828216289566725?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-two-tone-blue-hypercar-built-in-three-js-2102828216289566725.webp" width="640" alt="Procedural two-tone blue hypercar built in Three.js"></a>
+
+**Claude Opus 5.5** · Assets · by [Sree](https://x.com/srikanthvaluri) · 2026-09-23
+
+Claude Opus 5.5 modeled a Bugatti Chiron Super Sport from code alone, with a two-tone blue body, silver accent line and twin-spoke wheels.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+build a Bugatti Chiron Super Sport in Three.js.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/procedural-two-tone-blue-hypercar-built-in-three-js-2102828216289566725?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/srikanthvaluri/status/2102828216289566725)
+
+---
+
+### [Infinite solarpunk city shader with green towers and roads](https://wandy3d.com/prompts/infinite-solarpunk-city-shader-with-green-towers-and-roads-2102826333550133520?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/infinite-solarpunk-city-shader-with-green-towers-and-roads-2102826333550133520?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/infinite-solarpunk-city-shader-with-green-towers-and-roads-2102826333550133520.webp" width="640" alt="Infinite solarpunk city shader with green towers and roads"></a>
+
+**GPT-6 Pro** · Scenes · by [Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23
+
+GPT-6 Pro wrote a GLSL shader for twigl: an endless solarpunk city of teal glass towers, leafy terraces and tree-lined roads under a soft breeze.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of solarpunk roads and towers with a visible breeze running continuously
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/infinite-solarpunk-city-shader-with-green-towers-and-roads-2102826333550133520?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/jonasfroeller/status/2102826333550133520)
+
+---
+
+### [30-second training montage animation made entirely in JavaScript](https://wandy3d.com/prompts/30-second-training-montage-animation-made-entirely-in-2102788832273801700?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/30-second-training-montage-animation-made-entirely-in-2102788832273801700?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/30-second-training-montage-animation-made-entirely-in-2102788832273801700.webp" width="640" alt="30-second training montage animation made entirely in JavaScript"></a>
+
+**Claude Opus 5.5** · Animation · by [Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23
+
+Claude Opus 5.5 produced a code-only animated montage of a blocky mascot training in a misty mountain temple, with generated models and music.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/30-second-training-montage-animation-made-entirely-in-2102788832273801700?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/ishuagra02/status/2102788832273801700)
+
+---
+
+### [Three.js animated short: a tin robot and a star in a toy-filled bedroom](https://wandy3d.com/prompts/three-js-animated-short-a-tin-robot-and-a-star-in-a-toy-2102788223835463902?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/three-js-animated-short-a-tin-robot-and-a-star-in-a-toy-2102788223835463902?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-js-animated-short-a-tin-robot-and-a-star-in-a-toy-2102788223835463902.webp" width="640" alt="Three.js animated short: a tin robot and a star in a toy-filled bedroom"></a>
+
+**Claude Opus 5.5** · Animation · by [Shimecki](https://x.com/scheemunai) · 2026-09-23
+
+Claude Opus 5.5 invented its own story and animated it in Three.js: a toy robot befriends a glowing star in a child's bedroom, over about 2.5 minutes.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/three-js-animated-short-a-tin-robot-and-a-star-in-a-toy-2102788223835463902?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/scheemunai/status/2102788223835463902)
+
+---
+
+### [Interactive 3D chess board web app for studying gambits and variations](https://wandy3d.com/prompts/interactive-3d-chess-board-web-app-for-studying-gambits-and-2102788013902213508?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-3d-chess-board-web-app-for-studying-gambits-and-2102788013902213508?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-chess-board-web-app-for-studying-gambits-and-2102788013902213508.webp" width="640" alt="Interactive 3D chess board web app for studying gambits and variations"></a>
+
+**GPT-6 Astra** · Interactive · by [Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23
+
+GPT-6 Astra built a chess gambit explorer: a rotatable 3D board with step-through moves, variation lists and a catalogue of hundreds of openings.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Crie uma aplicação web com um tabuleiro 3D interativo para estudar os principais gambitos do xadrez. Inclua animação dos movimentos, controles para avançar e voltar, variantes e explicações das ideias por trás de cada abertura.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-3d-chess-board-web-app-for-studying-gambits-and-2102788013902213508?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/diogosantosbr/status/2102788013902213508)
+
+---
+
+### [Seamless looping water cycle animation in a single HTML file](https://wandy3d.com/prompts/seamless-looping-water-cycle-animation-in-a-single-html-file-2102781807179735211?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/seamless-looping-water-cycle-animation-in-a-single-html-file-2102781807179735211?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/seamless-looping-water-cycle-animation-in-a-single-html-file-2102781807179735211.webp" width="640" alt="Seamless looping water cycle animation in a single HTML file"></a>
+
+**Claude Opus 5.5** · Animation · by [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23
+
+A comparison: Claude Opus 5.5 and GPT-6 Sol each animated a water droplet's journey through pond, clouds, snow and roots in one looping, in-browser scene.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a seamless looping animation of the water cycle, entirely in code.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/seamless-looping-water-cycle-animation-in-a-single-html-file-2102781807179735211?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/higgsfield_ai/status/2102781807179735211)
+
+---
+
+### [Browser 3D medieval castle with moat, drawbridge, towers and forest](https://wandy3d.com/prompts/browser-3d-medieval-castle-with-moat-drawbridge-towers-and-2102780850706567390?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/browser-3d-medieval-castle-with-moat-drawbridge-towers-and-2102780850706567390?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/browser-3d-medieval-castle-with-moat-drawbridge-towers-and-2102780850706567390.webp" width="640" alt="Browser 3D medieval castle with moat, drawbridge, towers and forest"></a>
+
+**GPT-5.6 Terra** · Scenes · by [もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23
+
+A castle benchmark comparing GPT-5.6 Terra with GPT-6 Astra Ultra on one prompt; the frames show a towered castle ringed by a moat and pines.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+ブラウザで操作できる3Dの中世ヨーロッパ風の城を作る。水堀、跳ね橋、塔、石壁、旗、森、昼夜切替を入れる。 
+これはベンチマークの一種であるから、どこまで見た目を盛れるか、3Dモデルの品質を最大限優先して。
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/browser-3d-medieval-castle-with-moat-drawbridge-towers-and-2102780850706567390?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/luxurytax150/status/2102780850706567390)
+
+---
+
+### [Cyberpunk megacity with a hero train, rendered as a Blender sequence](https://wandy3d.com/prompts/cyberpunk-megacity-with-a-hero-train-rendered-as-a-blender-2102740078347087940?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/cyberpunk-megacity-with-a-hero-train-rendered-as-a-blender-2102740078347087940?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/cyberpunk-megacity-with-a-hero-train-rendered-as-a-blender-2102740078347087940.webp" width="640" alt="Cyberpunk megacity with a hero train, rendered as a Blender sequence"></a>
+
+**Claude Opus 5.5** · Animation · by [BuilderHelm](https://x.com/builderhelmai) · 2026-09-23
+
+Claude Opus 5.5 scripted a rainy Blender megacity with elevated rails, a station and a train, shot as a multi-camera 1080p cinematic.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a complete cyberpunk megacity inside Blender using Python scripting, and render it as a short cinematic sequence. Include a hero train, procedurally generated skyscrapers with lit windows, elevated rail lines, a tunnel, and a large central station hall filled with small crowd figures. Set the mood with night rain, volumetric fog, neon and street lights and a dark, teal and warm orange palette. Define several camera setups and animate them: street-level shots, wide city reveals, a camera tracking the train, a tunnel transition, a station interior and a final pullback where the train looks tiny against the city. Deliver a .blend file or a Python script that regenerates the scene, plus a 1080p render of the animated sequence, with settings ready to raise to 4K. Done means the shots cut together into one coherent run with believable lighting and scale.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/cyberpunk-megacity-with-a-hero-train-rendered-as-a-blender-2102740078347087940?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/builderhelmai/status/2102740078347087940)
+
+---
+
+### [Voxel soccer goal animation in a colorful stadium, one Three.js file](https://wandy3d.com/prompts/voxel-soccer-goal-animation-in-a-colorful-stadium-one-three-2102739444256383089?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/voxel-soccer-goal-animation-in-a-colorful-stadium-one-three-2102739444256383089?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/voxel-soccer-goal-animation-in-a-colorful-stadium-one-three-2102739444256383089.webp" width="640" alt="Voxel soccer goal animation in a colorful stadium, one Three.js file"></a>
+
+**Claude Opus 5.5** · Animation · by [Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23
+
+Claude Opus 5.5 wrote a single HTML file where a blocky striker beats two defenders and scores, followed by confetti and slow motion.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/voxel-soccer-goal-animation-in-a-colorful-stadium-one-three-2102739444256383089?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/AGI_FromWalmart/status/2102739444256383089)
+
+---
+
+### [Interactive website about imaginary planets, built by two models](https://wandy3d.com/prompts/interactive-website-about-imaginary-planets-built-by-two-2102729710174196022?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-website-about-imaginary-planets-built-by-two-2102729710174196022?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-website-about-imaginary-planets-built-by-two-2102729710174196022.webp" width="640" alt="Interactive website about imaginary planets, built by two models"></a>
+
+**GPT-6 Sol** · Interactive · by [Kappaemme](https://x.com/Kappaemmedev) · 2026-09-23
+
+A head-to-head: GPT-6 Sol and Claude Opus 5.5 got the same prompt. Sol made three polished planets fast; Opus made a larger explorable system.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-website-about-imaginary-planets-built-by-two-2102729710174196022?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/Kappaemmedev/status/2102729710174196022)
+
+---
+
+### [Single-file 3D neon racer with loops and drift, two models compared](https://wandy3d.com/prompts/single-file-3d-neon-racer-with-loops-and-drift-two-models-2102652927177617564?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/single-file-3d-neon-racer-with-loops-and-drift-two-models-2102652927177617564?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/single-file-3d-neon-racer-with-loops-and-drift-two-models-2102652927177617564.webp" width="640" alt="Single-file 3D neon racer with loops and drift, two models compared"></a>
+
+**GPT-6 Astra** · Games · by [Anshul](https://x.com/realanshull) · 2026-09-23
+
+A comparison: GPT-6 Astra and Claude Opus 5.5 each built a 3D racer in one HTML file. Both run near 120 fps; Opus used fewer draw calls.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+build a 3D kart racer in a single HTML file.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/single-file-3d-neon-racer-with-loops-and-drift-two-models-2102652927177617564?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/realanshull/status/2102652927177617564)
+
+---
+
+### [GPU neon fluid simulator in a single zero-dependency HTML file](https://wandy3d.com/prompts/gpu-neon-fluid-simulator-in-a-single-zero-dependency-html-2102565612874596411?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/gpu-neon-fluid-simulator-in-a-single-zero-dependency-html-2102565612874596411?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/gpu-neon-fluid-simulator-in-a-single-zero-dependency-html-2102565612874596411.webp" width="640" alt="GPU neon fluid simulator in a single zero-dependency HTML file"></a>
+
+**Claude Opus 5.5** · Interactive · by [theailoser](https://x.com/theailoser) · 2026-09-23
+
+Claude Opus 5.5 wrote a WebGL fluid sim where cursor drags paint glowing dye that curls into vortices, with a glass HUD to tune the physics.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
+
+Strict Technical & Aesthetic Requirements:
+
+1. Architecture & Performance:
+   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
+   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
+   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
+     a) Advection (velocity & dye)
+     b) Divergence calculation
+     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
+     d) Gradient subtraction / velocity projection
+     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
+
+2. Visual Fidelity (The "Neon Smoke" Look):
+   - Pitch-black void background (`#050508`).
+   - Additive / High-Dynamic-Range blending for dye injection.
+   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
+   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
+
+3. Interaction:
+   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
+   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
+   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
+     * Viscosity slider
+     * Dye dissipation / persistence slider
+     * Splat radius slider
+     * "Clear Canvas" button
+     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
+
+4. Production Polish:
+   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
+   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
+   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
+
+Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/gpu-neon-fluid-simulator-in-a-single-zero-dependency-html-2102565612874596411?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/theailoser/status/2102565612874596411)
+
+---
+
+### [Voxel cherry blossom valley with river, red bridge and pagoda](https://wandy3d.com/prompts/voxel-cherry-blossom-valley-with-river-red-bridge-and-pagoda-2102565403109085669?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/voxel-cherry-blossom-valley-with-river-red-bridge-and-pagoda-2102565403109085669?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/voxel-cherry-blossom-valley-with-river-red-bridge-and-pagoda-2102565403109085669.webp" width="640" alt="Voxel cherry blossom valley with river, red bridge and pagoda"></a>
+
+**Claude Opus 5.5** · Scenes · by [宝玉](https://x.com/dotey) · 2026-09-23
+
+A side-by-side test: Claude Opus 5.5 and GPT 6 Astra each built a Three.js sakura valley from one prompt. Shown here is the Opus version.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
+
+主题：日式樱花山谷。
+使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
+不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
+
+【一、作品定位】
+
+这是一片完整、连续、有远近层次的山谷景观，
+不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
+
+风格是现代精细体素 / voxel art：
+保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
+不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
+
+视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
+
+【二、参考图的使用方式】
+
+如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
+仅借鉴氛围与视觉语言，重新设计场景，
+不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
+
+参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
+
+【三、场景构图】
+
+默认打开时就应呈现一幅完整、有吸引力的画面，
+不需要用户先旋转镜头才能找到好看的角度。
+
+采用透视相机，而不是沙盘式等距俯视相机。
+画面有明确的前景、中景、远景：
+
+前景：
+一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
+形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
+
+中景：
+一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
+村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
+地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
+
+远景：
+山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
+用尺度变化、遮挡、冷暖变化和空气透视表现距离，
+而不是仅仅把远处物体缩小。
+
+不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
+
+【四、造型与画面质量】
+
+樱花树：
+树干有转折、分叉和根部，树冠由不规则花簇组成，
+有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
+
+建筑：
+屋顶有层叠瓦片、挑檐、梁柱和窗格；
+不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
+
+地形：
+岸边有湿润石块、草丛和植被过渡。
+避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
+
+水面：
+必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
+尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
+不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
+
+细节：
+可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
+但都应服务于氛围，不能让画面显得嘈杂。
+不要为了宣称模型数量而堆砌细节。
+
+【五、色彩与氛围】
+
+默认是蓝调时刻：
+偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
+暖光集中在有人活动的地方，不要把整个环境染成橙色。
+
+需要柔和阴影、物体接触处的明暗、合理的曝光、
+克制的泛光、抗锯齿和有距离层次的薄雾。
+
+避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
+方块几何可以清晰，但渲染本身不能粗糙。
+
+另提供“清晨”和“雨中”两种氛围；
+切换时应同步改变天空、环境光、雾和局部效果，
+不是仅仅修改背景颜色。
+
+【六、交互与界面】
+
+提供四个经过设计的镜头：
+山谷全景、河边低机位、寺庙小径、山坡俯瞰。
+切换应平滑，每个镜头都需要有独立的构图价值。
+
+基础交互：
+鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
+提供重置视角、隐藏界面和保存当前画面的功能。
+
+可选增强：
+自由探索、缓慢镜头巡游、环境音。
+环境音默认关闭，只在用户主动点击后播放。
+额外功能不能影响默认画面的完成度。
+
+界面要克制、有设计感，以景观为主。
+标题和控制条放在边缘，不遮挡视觉焦点。
+桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
+
+【七、工程与性能】
+
+允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
+优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
+
+自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
+景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
+
+重复物体采用适合的批量或实例化绘制方式；
+合理控制细分、阴影、反射和渲染分辨率。
+提供高画质和轻量模式，手机默认使用较轻设置。
+不要靠无限增加体素数量换取细节。
+
+加入加载提示、WebGL 不支持时的提示和必要的错误处理。
+没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
+
+【八、交付前验收】
+
+不要写完代码就立即交付。
+
+如果当前环境支持浏览器运行和截图，请先实际打开页面，
+检查默认镜头、四个视角、氛围切换、桌面和手机布局，
+再根据截图修正明显的构图、曝光、遮挡和渲染问题。
+
+重点检查：
+是否存在空白画面、加载失败、控制台错误；
+是否有穿模、闪烁、阴影条纹、过曝、水面异常；
+默认画面是否真正像完整景观，而不是小型沙盘；
+功能按钮是否实际可用，移动端是否越界。
+
+可以使用浏览器截图验收，但不要调用图像生成工具。
+没有完成的测试要如实说明，不要声称已经验证。
+
+最终交付：
+1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
+2. 如能截图，附一张真实浏览器渲染截图。
+3. 简短说明操作方式和必要的运行条件。
+
+请直接完成制作；非关键细节自行作出一致的设计选择，
+不要把可以自行解决的实现问题反复交给我决定。
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/voxel-cherry-blossom-valley-with-river-red-bridge-and-pagoda-2102565403109085669?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/dotey/status/2102565403109085669)
+
+---
+
+### [Blender film recreating the Hindenburg airship disaster](https://wandy3d.com/prompts/blender-film-recreating-the-hindenburg-airship-disaster-2102547809140355250?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/blender-film-recreating-the-hindenburg-airship-disaster-2102547809140355250?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/blender-film-recreating-the-hindenburg-airship-disaster-2102547809140355250.webp" width="640" alt="Blender film recreating the Hindenburg airship disaster"></a>
+
+**Claude Opus 5.5** · Animation · by [AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22
+
+From a two-line request, Claude Opus 5.5 modelled the airship in Blender and rendered a short film with interiors, captions and the fire.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+make me a model of the Hundenberg on blender make me a realistic video of the accident
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/blender-film-recreating-the-hindenburg-airship-disaster-2102547809140355250?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/aimanhasnoname/status/2102547809140355250)
+
+---
+
+### [Self-running 3D Rube Goldberg machine with hand-written physics](https://wandy3d.com/prompts/self-running-3d-rube-goldberg-machine-with-hand-written-2102544081863717153?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/self-running-3d-rube-goldberg-machine-with-hand-written-2102544081863717153?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/self-running-3d-rube-goldberg-machine-with-hand-written-2102544081863717153.webp" width="640" alt="Self-running 3D Rube Goldberg machine with hand-written physics"></a>
+
+**Claude Opus 5.5** · Animation · by [leo](https://x.com/leogao25) · 2026-09-22
+
+A comparison: Claude Opus 5.5 and GPT-6 Astra each built a self-running Rube Goldberg machine from one prompt; Opus set its chain in a woodshop.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
+
+The chain, in order:
+1. A marble is released at the top and rolls down a series of zig-zag ramps.
+2. It knocks over a line of at least 12 dominoes.
+3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
+4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
+5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
+
+Rules:
+- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
+- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
+- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
+- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
+- Fill the browser window. It will be screen-recorded at 1280×720.
+- No on-screen text or UI of any kind.
+- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/self-running-3d-rube-goldberg-machine-with-hand-written-2102544081863717153?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/leogao25/status/2102544081863717153)
+
+---
+
+### [Storybook 3D farm animal game with an animal picker and booping](https://wandy3d.com/prompts/storybook-3d-farm-animal-game-with-an-animal-picker-and-2102538764749037738?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/storybook-3d-farm-animal-game-with-an-animal-picker-and-2102538764749037738?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/storybook-3d-farm-animal-game-with-an-animal-picker-and-2102538764749037738.webp" width="640" alt="Storybook 3D farm animal game with an animal picker and booping"></a>
+
+**Claude Opus 5.5** · Games · by [mblaso](https://x.com/blaso96) · 2026-09-22
+
+Claude Opus 5.5 turned one short prompt into a soft, picture-book farm game where you choose an animal, boop others, and eat fruit and hay.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a interactive farm animal game using the design/art style of "Peter Rabbit"
+main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
+esc = pause: reset back to spawn/main menu/
+wasd to move around
+spacebar to jump and to interact with other animals when near
+interactions are randomized upon proximity detection
+interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
+interactible with: water to drink, hay to eat, fruit to eat. 
+3rd person but as if the camera was slightly behind the animal and above it
+ambience animals are birds, airplanes in the sky (randomly)
+setting= farmland, barn, farming village with houses (cant enter houses)
+Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
+react, svg, js, webgl, threejs, whatever is necessary to make it feel "good"
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/storybook-3d-farm-animal-game-with-an-animal-picker-and-2102538764749037738?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/blaso96/status/2102538764749037738)
+
+---
+
+### [Cinematic pirate ship sailing a sunset ocean in one HTML file](https://wandy3d.com/prompts/cinematic-pirate-ship-sailing-a-sunset-ocean-in-one-html-2102534606121746589?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/cinematic-pirate-ship-sailing-a-sunset-ocean-in-one-html-2102534606121746589?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/cinematic-pirate-ship-sailing-a-sunset-ocean-in-one-html-2102534606121746589.webp" width="640" alt="Cinematic pirate ship sailing a sunset ocean in one HTML file"></a>
+
+**Claude Opus 5.5** · Scenes · by [Vib3Coded](https://x.com/vib3coded) · 2026-09-22
+
+A head-to-head: Claude Opus 5.5 and GPT-6 Astra each built a sunset pirate ship scene; Opus stood out for its sails, lighting and foamy wake.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/cinematic-pirate-ship-sailing-a-sunset-ocean-in-one-html-2102534606121746589?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/vib3coded/status/2102534606121746589)
+
+---
+
+### [Endless procedural low-poly world to roam in Three.js](https://wandy3d.com/prompts/endless-procedural-low-poly-world-to-roam-in-three-js-2102529695908806728?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/endless-procedural-low-poly-world-to-roam-in-three-js-2102529695908806728?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/endless-procedural-low-poly-world-to-roam-in-three-js-2102529695908806728.webp" width="640" alt="Endless procedural low-poly world to roam in Three.js"></a>
+
+**Claude Opus 5.5** · Games · by [🥔🥔🥔](https://x.com/argofowl) · 2026-09-22
+
+Claude Opus 5.5 at extra-high effort built a calm, cozy exploration game: a procedurally generated meadow world with lakes, trees and creatures to meet.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+create a new project in my projects folder called "endless-game": an endless, procedurally generated world built with three.js in the browser that i can roam freely and just enjoy. every area should be randomly generated, with surprises everywhere no matter how long i play. it should feel calm, relaxing and genuinely fun, like the cozy, satisfying vibe of a supermarket simulator, but it shouldn't be a supermarket game. i want a really interesting world to walk around in, with entities i can meet and interact with, and really cool graphics. set a clear goal for the project, keep working until you reach it, and play a sound chime when it's done and ready for me to play and test.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/endless-procedural-low-poly-world-to-roam-in-three-js-2102529695908806728?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/argofowl/status/2102529695908806728)
+
+---
+
+### [Two-story suburban house modeled in Blender with a furnished interior](https://wandy3d.com/prompts/two-story-suburban-house-modeled-in-blender-with-a-furnished-2102473781830909995?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/two-story-suburban-house-modeled-in-blender-with-a-furnished-2102473781830909995?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/two-story-suburban-house-modeled-in-blender-with-a-furnished-2102473781830909995.webp" width="640" alt="Two-story suburban house modeled in Blender with a furnished interior"></a>
+
+**GPT-6 Sol** · Assets · by [Azer](https://x.com/azer0lxm) · 2026-09-22
+
+GPT-6 Sol in Codex built a low-poly suburban house in Blender, shown as an exterior render and a cutaway of furnished rooms.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/two-story-suburban-house-modeled-in-blender-with-a-furnished-2102473781830909995?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/azer0lxm/status/2102473781830909995)
+
+---
+
+### [Interactive prehistoric island with underwater cross-section](https://wandy3d.com/prompts/interactive-prehistoric-island-with-underwater-cross-section-2102450842070569099?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-prehistoric-island-with-underwater-cross-section-2102450842070569099?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-prehistoric-island-with-underwater-cross-section-2102450842070569099.webp" width="640" alt="Interactive prehistoric island with underwater cross-section"></a>
+
+**Claude Opus 5.5** · Interactive · by [Vib3Coded](https://x.com/vib3coded) · 2026-09-22
+
+A comparison: Claude Opus 5.5 vs Opus 5 on one Three.js prompt. The newer run adds cutaway water, sea life, mammoths and northern lights.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
+
+VISUAL DIRECTION
+Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
+ISLAND
+Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
+
+WATER CROSS-SECTION
+The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
+Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
+
+DINOSAURS
+Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
+Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
+
+NATURAL ANIMATION
+Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
+
+Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
+Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
+
+INTERACTION
+Allow users to:
+
+Rotate the camera freely, zoom, and inspect the underwater cross-section.
+Select a dinosaur and follow it with a smoothly moving camera.
+
+Place food in suitable locations and watch nearby dinosaurs approach and eat.
+
+Trigger drinking, resting, calling, and herd movement.
+
+Explore nests and watch a hatchling emerge.
+Trigger a marine reptile surfacing with a splash.
+Switch between daylight, sunset, and night.
+Adjust rain, wind, and volcanic activity.
+Pause the simulation and reset the scene.
+Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
+ATMOSPHERE AND AUDIO
+Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
+INTERFACE
+Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
+TECHNICAL QUALITY
+Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
+```
+
+[… (cut here — the full prompt is on Wandy3D)](https://wandy3d.com/prompts/interactive-prehistoric-island-with-underwater-cross-section-2102450842070569099?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-prehistoric-island-with-underwater-cross-section-2102450842070569099?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/vib3coded/status/2102450842070569099)
+
+---
+
+### [Top-down tower defense game with swarm waves on a heart-shaped map](https://wandy3d.com/prompts/top-down-tower-defense-game-with-swarm-waves-on-a-heart-2102411087002112256?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/top-down-tower-defense-game-with-swarm-waves-on-a-heart-2102411087002112256?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/top-down-tower-defense-game-with-swarm-waves-on-a-heart-2102411087002112256.webp" width="640" alt="Top-down tower defense game with swarm waves on a heart-shaped map"></a>
+
+**GPT-6 Astra** · Games · by [nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22
+
+GPT-6 Astra produced this orc-siege style tower-defense game in one shot; the author compares it with an earlier prototype from another model.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a polished top-down browser tower-defense game in the spirit of an orc-siege strategy title. Use a dark forest-green and muted gold palette with a refined, minimal look. The map is a symmetrical heart-shaped arena of ring paths and two large central islands, with a gate on the right that must be protected. Waves of many small units pour in from the left in a dense stream, split around the obstacles and rush the gate. Add a right-hand panel with wave counter, timer, score, gold, a start-wave button and upgrade or build options, plus a header showing remaining enemies out of a total. Render large crowds smoothly using instancing or a canvas particle approach. Deliver a single self-contained HTML file with JavaScript. Done when a full wave plays from start to finish, units visibly flow, thin out and reach the gate, and the interface updates live. Keep all interface text readable and consistent.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/top-down-tower-defense-game-with-swarm-waves-on-a-heart-2102411087002112256?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/nikzu_/status/2102411087002112256)
+
+---
+
+### [Tokyo Tower in 3D: steel lattice close-ups and a day-to-night film](https://wandy3d.com/prompts/tokyo-tower-in-3d-steel-lattice-close-ups-and-a-day-to-night-2102276620124062065?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/tokyo-tower-in-3d-steel-lattice-close-ups-and-a-day-to-night-2102276620124062065?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/tokyo-tower-in-3d-steel-lattice-close-ups-and-a-day-to-night-2102276620124062065.webp" width="640" alt="Tokyo Tower in 3D: steel lattice close-ups and a day-to-night film"></a>
+
+**GPT-6 Astra** · Animation · by [Wafffle](https://x.com/wafffle_dev) · 2026-09-22
+
+GPT-6 Astra, acting as a director, produced a 30-second Blender film of Tokyo Tower, from ground-level looks up to a lit night skyline.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+東京タワーを主役にした、見応えのある3D作品とX投稿用の約30秒動画を作ってください。
+
+あなたは制作ディレクターです。必要なサブタスクを作成し、調査・制作を依頼してください。依頼内容の具体化、進行管理、成果物の確認、修正指示、最終的な取りまとめまで任せます。
+
+【作ってほしいもの】
+地上から見上げた高さと、近づいたときの鉄骨の細かさが伝わる東京タワーです。
+昼と夜の両方を用意し、昼は構造や塗装、夜はライトアップの美しさを見せてください。
+
+「東京タワーをよく見て作っている」と感じられる作品にしたいです。塔の形だけでなく、脚の開き方、鉄骨の組み方、展望台、足元の建物など、特徴的な細部を調べて反映してください。周辺の街は、塔の大きさと場所の雰囲気が伝わる範囲に絞って構いません。
+
+【制作の進め方】
+・公式資料や写真を調査し、再現する特徴と優先順位を決める。
+・その調査を基に、各サブタスクへ具体的な制作指示を出す。
+・早い段階で実際の3D試写を確認し、形・構図・明るさを調整する。
+・完成画像や動画をメイン自身が見て、違和感や不足を見つけ、修正を依頼する。
+・細かな技術選択や撮影構成は自主的に判断して、完成まで進める。
+
+写真や生成画像を貼った背景だけで代用せず、実際の3D形状とカメラ移動で表現してください。確認できた事実と、資料不足による推定部分は記録してください。
+
+【動画】
+約30秒。地上からの見上げ、鉄骨や展望台の近接、塔全体が分かる引きを組み合わせ、昼夜の変化も見せてください。
+細かな秒割りは、完成したモデルを見て最も魅力が伝わる構成を判断してください。
+
+【納品】
+・編集可能なBlenderデータ
+・X投稿用MP4動画
+・昼夜の全景と細部の確認画像
+・短い投稿文案
+・素材の出典、再現範囲、検証結果を記したREADME
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/tokyo-tower-in-3d-steel-lattice-close-ups-and-a-day-to-night-2102276620124062065?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/wafffle_dev/status/2102276620124062065)
+
+---
+
+### [Interactive 3D H145-style helicopter with liveries and hover mode](https://wandy3d.com/prompts/interactive-3d-h145-style-helicopter-with-liveries-and-hover-2102217028052377910?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-3d-h145-style-helicopter-with-liveries-and-hover-2102217028052377910?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-h145-style-helicopter-with-liveries-and-hover-2102217028052377910.webp" width="640" alt="Interactive 3D H145-style helicopter with liveries and hover mode"></a>
+
+**GPT-6 Astra** · Interactive · by [Vib3Coded](https://x.com/vib3coded) · 2026-09-22
+
+A comparison of Grok 4.7 and GPT-6 Astra on one prompt. Astra's Three.js helicopter adds fine hardware detail, three liveries and a hover mode.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a detailed, interactive 3D scene of a modern helicopter in a single HTML file using Three.js and WebGL. Build genuine 3D geometry that can be viewed from every angle, not an image.
+
+Visual style:
+A premium aviation design presentation with a light gray studio background, a circular display platform, soft shadows, and realistic reflections.
+Helicopter:
+
+A smooth, streamlined fuselage inspired by light twin-engine helicopters such as the H145.
+A white body with a dark navy underside and blue accent stripe.
+Curved, tinted cockpit windows with reflections and carefully fitted window seals.
+Side doors, handles, panel seams, rivets, boarding steps, and antennas.
+Two engine housings with air intakes, ventilation grilles, and exhaust outlets.
+A five-bladed main rotor with a detailed hub, attachment hardware, and pitch-control linkages.
+A tapered tail boom, stabilizers, and a shrouded tail rotor with a genuine opening through its housing.
+Curved landing skids attached to the fuselage with structural supports.
+Navigation lights and a blinking beacon.
+All components must connect physically. Avoid floating parts, gaps between sections, rotor blades intersecting the fuselage, or windows hovering above the body.
+
+Interactions:
+
+Mouse drag to orbit, scroll to zoom, and touch controls.
+Start and stop both rotors with gradual acceleration and deceleration.
+Adjustable rotor speed.
+Hover mode: smoothly lift off the platform, gently sway in the air, and land softly when disabled.
+Automatic camera orbit.
+Front, side, and tail camera presets.
+Reset camera and fullscreen controls.
+Three liveries: glacier blue and white, rescue orange, and graphite.
+Interface:
+
+Top left: a small “AERONAUT / OBJECT STUDIES” label and a large “Horizon 05.” heading.
+Right side: a compact panel with specifications, helicopter status, livery selection, and rotor speed.
+Bottom: controls and interaction hints.
+Restrained typography, thin borders, and generous whitespace. Keep the helicopter unobstructed.
+All interface text in English.
+Technical requirements:
+
+Generate the geometry procedurally without downloading a prebuilt helicopter model.
+Use PBR materials, a studio reflection environment, and soft shadows.
+Make animation independent of frame rate.
+Reuse geometry and materials where appropriate, and cap pixel ratio for performance.
+Support desktop and mobile layouts, keeping the full rotor span visible in the initial view.
+If possible, embed dependencies in the HTML so the file works offline.
+Display a helpful fallback message if WebGL is unavailable.
+Before finishing, inspect the model from every side, test every control, and check for console errors. Pay particular attention to the silhouette, structural connections, glazing, and rotor mechanisms.
+
+Deliver the working HTML file, not just an explanation.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-3d-h145-style-helicopter-with-liveries-and-hover-2102217028052377910?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/vib3coded/status/2102217028052377910)
+
+---
+
+### [Procedural WebGPU racing game with AI rivals and coastal track](https://wandy3d.com/prompts/procedural-webgpu-racing-game-with-ai-rivals-and-coastal-2102150671340327384?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/procedural-webgpu-racing-game-with-ai-rivals-and-coastal-2102150671340327384?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-webgpu-racing-game-with-ai-rivals-and-coastal-2102150671340327384.webp" width="640" alt="Procedural WebGPU racing game with AI rivals and coastal track"></a>
+
+**GPT-6 Astra** · Games · by [Maharajahu🪢](https://x.com/ToolBraidComp) · 2026-09-21
+
+GPT-6 Astra built a Three.js racing game from this long prompt; the clip shows a chase-cam race past a coast, tunnel and grandstand. It is heavy on GPUs.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Build a complete, production-quality browser racing game called Spline Rush using the latest Three.js (WebGPURenderer + TSL where possible). 100% procedural: no external models, textures, audio files or fonts. Everything generated in code at runtime.
+
+CORE GAME
+- 6 unique tracks with elevation, banking, tunnels, hairpins, named corners and distinct biomes (coastal day, mountain dusk, desert sunset, forest rain, night city neon, high-speed oval).
+- Championship mode (qualifying + 3 races), Time Trial with ghosts, Quick Race.
+- 8 AI opponents with personality, racing line, braking points, overtaking and defending.
+- Best lap records, sector times, live event feed, replay camera.
+- Garage: 5 parametric cars with clearcoat + metal-flake paint, panel gaps, working lights, animated suspension, damage states.
+
+GRAPHICS TARGET (Ultra, worthy of RTX 5090 at 4K)
+Renderer: THREE.WebGPURenderer. Physically based pipeline.
+Lighting:
+- Rayleigh/Mie physically based sky + starfield + moon + dynamic sun that drives a full day/night cycle.
+- Cascaded shadow maps (4 cascades, stable texel snapping, high-res).
+- IBL via PMREM updated with time of day.
+- Volumetric fog + god rays + heat haze.
+Materials:
+- MeshPhysicalMaterial / TSL nodes: clearcoat, anisotropy, transmission on glass, metal-flake paint, wet-road shader that reacts to rain.
+Post-processing chain (RenderPipeline / TSL or postprocessing library):
+GTAO or high-quality SSAO → SSR → bloom (Karis) → motion blur (velocity) → DOF → god rays → auto-exposure → color grading + film grain + vignette → SMAA or TAA.
+Effects:
+- GPU particle pools: tyre smoke, sparks, dust, rain spray, grass/gravel kick-up, heat distortion.
+- Skid marks that persist and fade.
+- Dynamic wetness and puddle reflections when raining.
+
+PHYSICS & FEEL
+- Fixed-step 120 Hz simulation.
+- Raycast or strut suspension, load transfer, combined-slip tyres, ABS/TC, surface types (asphalt, kerb, grass, gravel, wet).
+- Camera: cinematic chase + hood + onboard with motion and collision shake.
+
+AUDIO
+- Fully synthesised Web Audio: multi-layer engine by RPM/load, wind, tyre screech, kerb rumble, crowd, dynamic music.
+
+QUALITY SYSTEM
+- Presets: Low / Medium / High / Ultra.
+- Ultra assumes RTX 5090-class GPU: 4K, high shadow maps, max particles, all post effects on, no aggressive LOD.
+- Adaptive quality that can drop effects if frame time exceeds target.
+
+Start with a playable first version (one track, one car, basic lighting), then iterate feature-by-feature exactly as requested. Keep everything in a single clean HTML/JS (or Vite) project that runs locally. Comment major systems. Make it look expensive, not cute.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/procedural-webgpu-racing-game-with-ai-rivals-and-coastal-2102150671340327384?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/ToolBraidComp/status/2102150671340327384)
+
+---
+
+### [Interactive 3D Sun website with a layer-by-layer cutaway in Three.js](https://wandy3d.com/prompts/interactive-3d-sun-website-with-a-layer-by-layer-cutaway-in-2102038474752766239?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-3d-sun-website-with-a-layer-by-layer-cutaway-in-2102038474752766239?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-sun-website-with-a-layer-by-layer-cutaway-in-2102038474752766239.webp" width="640" alt="Interactive 3D Sun website with a layer-by-layer cutaway in Three.js"></a>
+
+**GPT-6 Astra** · Interactive · by [HIX.AI](https://x.com/HIX_AI_) · 2026-09-21
+
+GPT-6 Astra produced a Sun explorer: a rotatable, zoomable star with an info panel and a cutaway that lets you pick the core, zones and corona.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+I want to build an interactive 3D Sun model website using Three.js.
+
+First, please write a Python script that can be run directly in Blender to create a highly realistic 3D model of the Sun. The model should be based on the Sun's real physical and visual characteristics, including its spherical shape, surface texture, color, plasma-like appearance, solar granulation, and glowing atmosphere. It should not look like a simple orange sphere. Please use appropriate materials, shaders, textures, and lighting effects to create a realistic solar appearance.
+
+Then, write the complete website code using Three.js. The Sun should occupy approximately 80% of the main visual area. Users should be able to rotate the Sun, move the view, and zoom in and out. The scene should include realistic lighting and glowing effects to make the Sun look dynamic and three-dimensional.
+
+Add a zoom-in button that allows users to get closer to the Sun and observe its surface details.
+
+The website should also include informative content about the Sun and its role in the solar system. The overall background should be a realistic cosmic galaxy/space environment.
+
+In addition, add a button that opens an interactive internal anatomy view of the Sun. This view should show the major layers of the Sun, such as the core, radiative zone, convection zone, photosphere, chromosphere, and corona. Each layer should have a corresponding label and a short text description. Ideally, users should be able to interact with the diagram and select different layers to view their information.
+
+Please make the website visually impressive, scientifically informative, and fully interactive, with a modern space-themed UI.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-3d-sun-website-with-a-layer-by-layer-cutaway-in-2102038474752766239?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/HIX_AI_/status/2102038474752766239)
+
+---
+
+### [WALL-E robot model in Three.js, GPT-6 Astra versus Gemini 4 Pro](https://wandy3d.com/prompts/wall-e-robot-model-in-three-js-gpt-6-astra-versus-gemini-4-2101687900723106104?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/wall-e-robot-model-in-three-js-gpt-6-astra-versus-gemini-4-2101687900723106104?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/wall-e-robot-model-in-three-js-gpt-6-astra-versus-gemini-4-2101687900723106104.webp" width="640" alt="WALL-E robot model in Three.js, GPT-6 Astra versus Gemini 4 Pro"></a>
+
+**GPT-6 Astra** · Assets · by [Marcel](https://x.com/marcthecreatorr) · 2026-09-20
+
+A side-by-side comparison: the same one-line prompt gave GPT-6 Astra a yellow, animated WALL-E with controls, shown next to Gemini 4 Pro's version.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+create a 3d model of wall-e in three.js.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/wall-e-robot-model-in-three-js-gpt-6-astra-versus-gemini-4-2101687900723106104?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/marcthecreatorr/status/2101687900723106104)
+
+---
+
+### [Dinosaur island diorama with cutaway lagoon in a single HTML file](https://wandy3d.com/prompts/dinosaur-island-diorama-with-cutaway-lagoon-in-a-single-html-2101570806702559235?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/dinosaur-island-diorama-with-cutaway-lagoon-in-a-single-html-2101570806702559235?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/dinosaur-island-diorama-with-cutaway-lagoon-in-a-single-html-2101570806702559235.webp" width="640" alt="Dinosaur island diorama with cutaway lagoon in a single HTML file"></a>
+
+**GPT-6 Astra** · Interactive · by [Vib3Coded](https://x.com/vib3coded) · 2026-09-20
+
+GPT-6 Astra built Verdant, a Three.js island where dinosaurs roam; tweak tide, wind and daylight, hatch an egg or dive under the lagoon.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build an interactive 3D diorama of a tropical dinosaur island as one self-contained HTML file using Three.js and WebGL. Show the island as a floating slice of land with a cutaway lagoon at its base, in soft stylised low-poly style with lush greens, teal water and warm lamp light. Populate it with roaming dinosaurs, a waterfall, palm-like trees, a small wooden hut and a marine reptile swimming in the lagoon. Add a compact control panel with sliders for tide, wind and time of day, a rain toggle, and buttons to feed the herd and hatch a baby dinosaur. Let the user orbit the island and drop the camera underwater to watch the lagoon. Include gentle looping ambient music with a mute option. Animate creatures, water, foliage and weather smoothly. Done means everything runs offline in the browser with no external assets and the sky and lighting shift convincingly between day and night.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/dinosaur-island-diorama-with-cutaway-lagoon-in-a-single-html-2101570806702559235?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/vib3coded/status/2101570806702559235)
+
+---
+
+### [Robotaxi SUV model with roof lidar in Three.js, rotating showcase](https://wandy3d.com/prompts/robotaxi-suv-model-with-roof-lidar-in-three-js-rotating-2101325346427842909?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/robotaxi-suv-model-with-roof-lidar-in-three-js-rotating-2101325346427842909?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/robotaxi-suv-model-with-roof-lidar-in-three-js-rotating-2101325346427842909.webp" width="640" alt="Robotaxi SUV model with roof lidar in Three.js, rotating showcase"></a>
+
+**GPT-6 Astra** · Assets · by [Harshith](https://x.com/HarshithLucky3) · 2026-09-19
+
+GPT-6 Astra, tested against Fable 5.1, built a white self-driving SUV with roof lidar in Three.js; the author found the likeness imperfect.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+3d model of Waymo Jaguar i-Pace using three js
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/robotaxi-suv-model-with-roof-lidar-in-three-js-rotating-2101325346427842909?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/HarshithLucky3/status/2101325346427842909)
+
+---
+
+### [Kung-fu cat in a headband parrying hands, Blender motion reference to video](https://wandy3d.com/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606.webp" width="640" alt="Kung-fu cat in a headband parrying hands, Blender motion reference to video"></a>
+
+**GPT-6 Astra** · Animation · by [PixVerse](https://x.com/PixVerse) · 2026-09-19
+
+GPT-6 Astra drove Blender to block out a cat's martial-arts timing, which then guided a photoreal 10-second temple-courtyard clip.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
+A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
+Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
+ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
+Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
+NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/PixVerse/status/2101310387081908606)
+
+---
+
+### [Interactive 3D jet engine with cutaway, x-ray and exploded view](https://wandy3d.com/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432.webp" width="640" alt="Interactive 3D jet engine with cutaway, x-ray and exploded view"></a>
+
+**Gemini 4 Pro** · Interactive · by [YouWare](https://x.com/YouWareAI) · 2026-09-19
+
+A model comparison: Gemini 4 Pro and GPT-6 Astra got the same prompt for a Three.js jet engine viewer, and Gemini 4 Pro's build was the more detailed one.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Use three.js to build a 3D interactive display of an aircraft engine on a webpage. 
+Please refer to Jigspace's interaction design philosophy to achieve a realistic model with near 1:1 high-fidelity restoration, fully preserving material and texture details such as metal, pipelines, and blades. Interactive features must include: step-by-step disassembly animation, exploded view of components, and part descriptions and principle explanations triggered by click or hover. 
+Overall, it must support smooth camera control and friendly human-computer interaction, ensuring a smooth experience on the web that fully showcases the engine's structure and working principles.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/YouWareAI/status/2101272224435253432)
+
+---
+
+[← Previous](catalog.en.1.md) · page 2 of 3 · [Next →](catalog.en.3.md)
 
 Prompts, videos and images belong to their authors ([RIGHTS.md](../RIGHTS.md)). Our editorial text is [CC BY 4.0](../LICENSE). Know a great prompt with a visible result? [Suggest it](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Are you an author and want an entry changed or removed? [Tell us](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).
