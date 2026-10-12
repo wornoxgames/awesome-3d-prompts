@@ -10,7 +10,7 @@
 
 <a href="https://wandy3d.com/zh/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/wandy-orb-photo-to-3d-ui-motion.webp" width="640" alt="一张照片变成3D模型：AI光球UI动效"></a>
 
-**Claude Opus 5.5** · 动画 · 作者 [Wandy3D](https://wandy3d.com) · 2026-10-11
+**Claude Opus 5.5** · 动画 · 作者 [Wandy3D](https://wandy3d.com) · 2026-10-12
 
 16秒无缝循环：AI光球、手动拖入的照片、实时进度，以及真实旋转的3D模型。全部由代码逐帧渲染。
 

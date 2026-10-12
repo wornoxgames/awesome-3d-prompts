@@ -10,7 +10,7 @@
 
 <a href="https://wandy3d.com/ru/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/wandy-orb-photo-to-3d-ui-motion.webp" width="640" alt="Одно фото — 3D-модель: UI-моушн с AI-сферой"></a>
 
-**Claude Opus 5.5** · Анимация · автор [Wandy3D](https://wandy3d.com) · 2026-10-11
+**Claude Opus 5.5** · Анимация · автор [Wandy3D](https://wandy3d.com) · 2026-10-12
 
 Бесшовный цикл на 16 секунд: AI-сфера, фото перетаскивается в карточку, живой прогресс и настоящая 3D-модель. Всё кодом, кадр за кадром.
 

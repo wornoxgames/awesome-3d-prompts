@@ -10,7 +10,7 @@ page 1 of 2 · [Next →](catalog.en.2.md)
 
 <a href="https://wandy3d.com/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/wandy-orb-photo-to-3d-ui-motion.webp" width="640" alt="One photo to a 3D model: an AI orb UI motion loop"></a>
 
-**Claude Opus 5.5** · Animation · by [Wandy3D](https://wandy3d.com) · 2026-10-11
+**Claude Opus 5.5** · Animation · by [Wandy3D](https://wandy3d.com) · 2026-10-12
 
 A 16-second seamless loop: an AI orb, a photo dropped in by hand, live progress and the real 3D model turning. All code, rendered frame by frame.
 

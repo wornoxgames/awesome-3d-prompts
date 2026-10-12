@@ -10,7 +10,7 @@
 
 <a href="https://wandy3d.com/ja/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/wandy-orb-photo-to-3d-ui-motion.webp" width="640" alt="写真1枚が3Dモデルに：AIオーブのUIモーション"></a>
 
-**Claude Opus 5.5** · アニメーション · 作者 [Wandy3D](https://wandy3d.com) · 2026-10-11
+**Claude Opus 5.5** · アニメーション · 作者 [Wandy3D](https://wandy3d.com) · 2026-10-12
 
 16秒のシームレスループ。AIオーブ、手でドロップする写真、進行表示、そして回転する本物の3Dモデル。すべてコードで1フレームずつ描画。
 
