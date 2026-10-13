@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — カタログ 2/3
+# Awesome 3D Prompts — カタログ 2/4
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · **日本語** · [中文](catalog.zh.1.md)
 
-[← 前へ](catalog.ja.1.md) · 3 ページ中 2 ページ目 · [次へ →](catalog.ja.3.md)
+[← 前へ](catalog.ja.1.md) · 4 ページ中 2 ページ目 · [次へ →](catalog.ja.3.md)
 
 ### [歩ける桜の街：商店街、神社、電車が走るアニメ調のタウン](https://wandy3d.com/ja/prompts/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -896,6 +896,41 @@ Create a seamless looping animation of the water cycle, entirely in code.
 
 ---
 
+### [夜の街を走る猫の3D横スクロールゲーム、ランタンの灯りが美しい](https://wandy3d.com/ja/prompts/night-street-cat-auto-runner-with-lantern-lighting-3d-side-2102775632933654585?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/night-street-cat-auto-runner-with-lantern-lighting-3d-side-2102775632933654585?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/night-street-cat-auto-runner-with-lantern-lighting-3d-side-2102775632933654585.webp" width="640" alt="夜の街を走る猫の3D横スクロールゲーム、ランタンの灯りが美しい"></a>
+
+**Claude Opus 5.5** · ゲーム · 作者 [BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23
+
+Claude Opus 5.5が一度の指示でCatWalkを作成。光る店先の前を猫が穴や障害物をジャンプで越える、雰囲気重視の自動スクロールゲーム。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/night-street-cat-auto-runner-with-lantern-lighting-3d-side-2102775632933654585?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/blitast_studio/status/2102775632933654585)
+
+---
+
 ### [主役の列車が走るサイバーパンク巨大都市のBlenderアニメーション](https://wandy3d.com/ja/prompts/cyberpunk-megacity-with-a-hero-train-rendered-as-a-blender-2102740078347087940?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
 <a href="https://wandy3d.com/ja/prompts/cyberpunk-megacity-with-a-hero-train-rendered-as-a-blender-2102740078347087940?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/cyberpunk-megacity-with-a-hero-train-rendered-as-a-blender-2102740078347087940.webp" width="640" alt="主役の列車が走るサイバーパンク巨大都市のBlenderアニメーション"></a>
@@ -1740,29 +1775,6 @@ NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headba
 
 ---
 
-### [断面・X線・分解表示を備えたインタラクティブ3Dジェットエンジン](https://wandy3d.com/ja/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ja/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432.webp" width="640" alt="断面・X線・分解表示を備えたインタラクティブ3Dジェットエンジン"></a>
-
-**Gemini 4 Pro** · インタラクティブ · 作者 [YouWare](https://x.com/YouWareAI) · 2026-09-19
-
-Gemini 4 Pro と GPT-6 Astra に同じプロンプトでThree.js製ジェットエンジンを作らせた比較。ディテールはGemini 4 Proが上回りました。
-
-<details>
-<summary>プロンプト</summary>
-
-```text
-Use three.js to build a 3D interactive display of an aircraft engine on a webpage. 
-Please refer to Jigspace's interaction design philosophy to achieve a realistic model with near 1:1 high-fidelity restoration, fully preserving material and texture details such as metal, pipelines, and blades. Interactive features must include: step-by-step disassembly animation, exploded view of components, and part descriptions and principle explanations triggered by click or hover. 
-Overall, it must support smooth camera control and friendly human-computer interaction, ensuring a smooth experience on the web that fully showcases the engine's structure and working principles.
-```
-
-</details>
-
-[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/YouWareAI/status/2101272224435253432)
-
----
-
-[← 前へ](catalog.ja.1.md) · 3 ページ中 2 ページ目 · [次へ →](catalog.ja.3.md)
+[← 前へ](catalog.ja.1.md) · 4 ページ中 2 ページ目 · [次へ →](catalog.ja.3.md)
 
 プロンプト・動画・画像の権利は各作者に帰属します（[RIGHTS.md](../RIGHTS.md)）。編集テキストは [CC BY 4.0](../LICENSE) です。結果が見える良いプロンプトを知っていますか？[提案する](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。作者の方で掲載内容の修正・削除をご希望の場合は[こちら](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 2/3
+# Awesome 3D Prompts — Каталог 2/4
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Назад](catalog.ru.1.md) · страница 2 из 3 · [Дальше →](catalog.ru.3.md)
+[← Назад](catalog.ru.1.md) · страница 2 из 4 · [Дальше →](catalog.ru.3.md)
 
 ### [Аниме-городок с сакурой: магазины, святилище и поезда, можно гулять](https://wandy3d.com/ru/prompts/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -896,6 +896,41 @@ Create a seamless looping animation of the water cycle, entirely in code.
 
 ---
 
+### [3D-раннер про кота на ночной улице с тёплым светом фонарей](https://wandy3d.com/ru/prompts/night-street-cat-auto-runner-with-lantern-lighting-3d-side-2102775632933654585?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/night-street-cat-auto-runner-with-lantern-lighting-3d-side-2102775632933654585?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/night-street-cat-auto-runner-with-lantern-lighting-3d-side-2102775632933654585.webp" width="640" alt="3D-раннер про кота на ночной улице с тёплым светом фонарей"></a>
+
+**Claude Opus 5.5** · Игры · автор [BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23
+
+Claude Opus 5.5 с одного запроса собрал CatWalk: атмосферный платформер с автопрокруткой, где кот прыгает через ямы мимо светящихся витрин.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/night-street-cat-auto-runner-with-lantern-lighting-3d-side-2102775632933654585?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/blitast_studio/status/2102775632933654585)
+
+---
+
 ### [Киберпанк-мегаполис с поездом: анимация, собранная в Blender](https://wandy3d.com/ru/prompts/cyberpunk-megacity-with-a-hero-train-rendered-as-a-blender-2102740078347087940?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
 <a href="https://wandy3d.com/ru/prompts/cyberpunk-megacity-with-a-hero-train-rendered-as-a-blender-2102740078347087940?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/cyberpunk-megacity-with-a-hero-train-rendered-as-a-blender-2102740078347087940.webp" width="640" alt="Киберпанк-мегаполис с поездом: анимация, собранная в Blender"></a>
@@ -1740,29 +1775,6 @@ NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headba
 
 ---
 
-### [Интерактивный 3D-реактивный двигатель: разрез, рентген, разнесённый вид](https://wandy3d.com/ru/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ru/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432.webp" width="640" alt="Интерактивный 3D-реактивный двигатель: разрез, рентген, разнесённый вид"></a>
-
-**Gemini 4 Pro** · Интерактив · автор [YouWare](https://x.com/YouWareAI) · 2026-09-19
-
-Сравнение моделей: Gemini 4 Pro и GPT-6 Astra получили один промпт на 3D-двигатель в Three.js; сборка Gemini 4 Pro вышла детальнее.
-
-<details>
-<summary>Промпт</summary>
-
-```text
-Use three.js to build a 3D interactive display of an aircraft engine on a webpage. 
-Please refer to Jigspace's interaction design philosophy to achieve a realistic model with near 1:1 high-fidelity restoration, fully preserving material and texture details such as metal, pipelines, and blades. Interactive features must include: step-by-step disassembly animation, exploded view of components, and part descriptions and principle explanations triggered by click or hover. 
-Overall, it must support smooth camera control and friendly human-computer interaction, ensuring a smooth experience on the web that fully showcases the engine's structure and working principles.
-```
-
-</details>
-
-[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/YouWareAI/status/2101272224435253432)
-
----
-
-[← Назад](catalog.ru.1.md) · страница 2 из 3 · [Дальше →](catalog.ru.3.md)
+[← Назад](catalog.ru.1.md) · страница 2 из 4 · [Дальше →](catalog.ru.3.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

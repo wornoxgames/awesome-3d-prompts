@@ -4,9 +4,9 @@
 
 Free 3D prompts for Claude, GPT and Kimi — games, scenes, assets and animation, each with its result. Curated by [Wandy3D](https://wandy3d.com/prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts).
 
-123 prompts · 13 models · 5 categories · updated 2026-10-12
+188 prompts · 13 models · 5 categories · updated 2026-10-13
 
-**English** · [Русский](README.ru.md) · [日本語](docs/catalog.ja.1.md) · [中文](docs/catalog.zh.1.md) · Full catalog: [Catalog 1/3](docs/catalog.en.1.md)
+**English** · [Русский](README.ru.md) · [日本語](docs/catalog.ja.1.md) · [中文](docs/catalog.zh.1.md) · Full catalog: [Catalog 1/4](docs/catalog.en.1.md)
 
 ## Start here
 
@@ -20,11 +20,11 @@ Free 3D prompts for Claude, GPT and Kimi — games, scenes, assets and animation
 
 | Category | Prompts |
 |---|---:|
-| [Games](https://wandy3d.com/prompts/categories/games?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 16 |
-| [Scenes](https://wandy3d.com/prompts/categories/scenes?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 29 |
-| [Assets](https://wandy3d.com/prompts/categories/assets?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 13 |
-| [Interactive](https://wandy3d.com/prompts/categories/interactive?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 33 |
-| [Animation](https://wandy3d.com/prompts/categories/animation?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 32 |
+| [Games](https://wandy3d.com/prompts/categories/games?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 30 |
+| [Scenes](https://wandy3d.com/prompts/categories/scenes?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 44 |
+| [Assets](https://wandy3d.com/prompts/categories/assets?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 18 |
+| [Interactive](https://wandy3d.com/prompts/categories/interactive?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 51 |
+| [Animation](https://wandy3d.com/prompts/categories/animation?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 45 |
 
 <a id="models"></a>
 
@@ -32,8 +32,8 @@ Free 3D prompts for Claude, GPT and Kimi — games, scenes, assets and animation
 
 | Model | Prompts |
 |---|---:|
-| [Claude Opus 5.5](https://wandy3d.com/prompts/models/claude-opus-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 67 |
-| [GPT-6 Astra](https://wandy3d.com/prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 38 |
+| [GPT-6 Astra](https://wandy3d.com/prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 102 |
+| [Claude Opus 5.5](https://wandy3d.com/prompts/models/claude-opus-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 68 |
 | [Claude Fable 5.1](https://wandy3d.com/prompts/models/claude-fable-5-1?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 4 |
 | [GPT-6 Sol](https://wandy3d.com/prompts/models/gpt-6-sol?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 3 |
 | [Claude Sonnet 5.5](https://wandy3d.com/prompts/models/claude-sonnet-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 2 |
