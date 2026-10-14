@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 4/4
+# Awesome 3D Prompts — Каталог 4/6
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Назад](catalog.ru.3.md) · страница 4 из 4
+[← Назад](catalog.ru.3.md) · страница 4 из 6 · [Дальше →](catalog.ru.5.md)
 
 ### [Взрыв-схема японского цветочного магазина в Blender: анимация](https://wandy3d.com/ru/prompts/exploded-view-animation-of-a-pastel-japanese-flower-shop-in-2097153139795468365?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1010,6 +1010,258 @@ Build a complete atmospheric 3D puzzle game in the browser with Three.js. It is 
 
 ---
 
-[← Назад](catalog.ru.3.md) · страница 4 из 4
+### [Катер с кабиной в 3D-море: видео, отрендеренное в Blender](https://wandy3d.com/ru/prompts/blender-motorboat-cruising-across-a-3d-ocean-rendered-video-2096503275910832461?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/blender-motorboat-cruising-across-a-3d-ocean-rendered-video-2096503275910832461?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/blender-motorboat-cruising-across-a-3d-ocean-rendered-video-2096503275910832461.webp" width="640" alt="Катер с кабиной в 3D-море: видео, отрендеренное в Blender"></a>
+
+**GPT-6 Astra** · Анимация · автор [Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06
+
+GPT-6 Astra через Blender собрал белый катер и настоящее 3D-море, а затем за пару минут отрендерил проход с пенным следом за кормой.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+blenderでyf24を作ってビューフォート2の海を走る動画を作って。ちゃんと海も3Dで。
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/blender-motorboat-cruising-across-a-3d-ocean-rendered-video-2096503275910832461?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/yhmtmt1/status/2096503275910832461)
+
+---
+
+### [Интерьер в Blender по плану этажа: проход камеры по гостиной](https://wandy3d.com/ru/prompts/blender-interior-walkthrough-generated-from-a-house-floor-2096501340889374883?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/blender-interior-walkthrough-generated-from-a-house-floor-2096501340889374883?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/blender-interior-walkthrough-generated-from-a-house-floor-2096501340889374883.webp" width="640" alt="Интерьер в Blender по плану этажа: проход камеры по гостиной"></a>
+
+**GPT-6 Astra** · Сцены · автор [indigo](https://x.com/indigox) · 2026-09-06
+
+GPT-6 Astra управлял Blender по плану верхнего этажа и за 20 минут отрендерил 10-секундный проход по гостиной с материалами низкого качества.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a short interior walkthrough in Blender from a floor plan image, using a Python script. Read the plan, recreate the walls, floor, ceiling and openings to scale, then furnish the living area: a low white sofa, a TV on a pale paneled wall with a long linear fireplace beneath it, a dark kitchen island with a hood and tall dark cabinets, dining chairs and large windows. Use a warm wood ceiling with recessed lights, light grey floor and neutral materials. Move a camera slowly forward through the space at eye height for about ten seconds. Keep render samples low so the clip finishes in roughly twenty minutes. Done when the exported video shows a coherent room layout matching the plan, readable furniture and smooth camera motion. Accept simple materials; they can be refined in later passes.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/blender-interior-walkthrough-generated-from-a-house-floor-2096501340889374883?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/indigox/status/2096501340889374883)
+
+---
+
+### [Жуки на Three.js ползут по фотографии: IK-лапки и режимы курсора](https://wandy3d.com/ru/prompts/three-js-beetles-crawling-over-a-photo-with-ik-legs-and-2096460081982304546?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/three-js-beetles-crawling-over-a-photo-with-ik-legs-and-2096460081982304546?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-js-beetles-crawling-over-a-photo-with-ik-legs-and-2096460081982304546.webp" width="640" alt="Жуки на Three.js ползут по фотографии: IK-лапки и режимы курсора"></a>
+
+**GPT-6 Astra** · Интерактив · автор [水族店刘老板](https://x.com/leo_xiaolei) · 2026-09-06
+
+GPT-6 Astra сделал браузерное демо: шестилапые жуки ползут по портрету, есть показ точек шага, ползунки и режимы преследования или бегства.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build an interactive web demo in Three.js where many small beetles crawl across the surface of a portrait photo. Each beetle has a glossy red body and six thin legs. Legs move in two alternating groups: one group stays planted while the other lifts and steps to a new target, with two-segment inverse kinematics placing each foot. Beetles sample the photo's height or contour so their bodies follow the curved surface and tilt with it. Use a dark green background and a clean card-style interface in a modern typeface. Add a toggle that shows foot landing points, a slider for beetle count and walking speed, a pause button, and a mouse mode switch between wandering, chasing the cursor and fleeing from it. Include short explanatory panels about the gait and leg solving. Deliver it as a static page that can be hosted on GitHub Pages. Done when dozens of beetles walk smoothly without legs jumping.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/three-js-beetles-crawling-over-a-photo-with-ik-legs-and-2096460081982304546?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/leo_xiaolei/status/2096460081982304546)
+
+---
+
+### [Играбельная квартира в стиле low-poly на WebGL с кликабельными предметами](https://wandy3d.com/ru/prompts/playable-low-poly-apartment-walkthrough-recreated-in-webgl-2096413869841473930?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/playable-low-poly-apartment-walkthrough-recreated-in-webgl-2096413869841473930?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/playable-low-poly-apartment-walkthrough-recreated-in-webgl-2096413869841473930.webp" width="640" alt="Играбельная квартира в стиле low-poly на WebGL с кликабельными предметами"></a>
+
+**GPT-6 Astra** · Интерактив · автор [Hidetaka SWERY SueHERO](https://x.com/Swery65) · 2026-09-06
+
+GPT-6 Astra за одну ночь собрал по запросу играбельную WebGL-квартиру: проигрыватель, ламповый ТВ и холодильник открывают панели с описанием.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a playable browser prototype of a small, moody apartment recreated from a well-known adventure game, rendered in WebGL with a chunky low-poly look. Include a kitchen with a pale blue fridge and stove, a wooden dining table with chairs, a living area with a green sofa, rug and lamp, a bookshelf, a desk with a pinboard, a blue front door, a record player and a CRT television. Use a dark teal and warm brown palette, red brick walls, wooden floors and soft window light with long shadows. Navigation is point-to-point: the player steps between about ten fixed viewpoints with forward, turn-left and turn-right buttons, and can also use the keyboard. Interactive objects show a marker; selecting one opens a side panel with a short description and an action button such as play the record or switch the TV on or off. Add a minimap, a sound toggle, fullscreen and a help overlay, with a Japanese interface. Deliver it as a single web page that works on a phone or foldable screen. Done when you can walk the whole room and trigger every object.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/playable-low-poly-apartment-walkthrough-recreated-in-webgl-2096413869841473930?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/Swery65/status/2096413869841473930)
+
+---
+
+### [Чёрная дыра как в «Интерстеллар», рендер в Blender: сравнение двух моделей](https://wandy3d.com/ru/prompts/interstellar-style-black-hole-rendered-in-blender-two-models-2096391653669953761?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/interstellar-style-black-hole-rendered-in-blender-two-models-2096391653669953761?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interstellar-style-black-hole-rendered-in-blender-two-models-2096391653669953761.webp" width="640" alt="Чёрная дыра как в «Интерстеллар», рендер в Blender: сравнение двух моделей"></a>
+
+**Claude Fable 5.1** · Анимация · автор [John Kler](https://x.com/JohnKlerAI) · 2026-09-06
+
+Сравнение: Claude Fable 5.1 и GPT Astra получили один короткий промпт. У Fable чёрная дыра с заметно более богатым аккреционным диском.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+Make and render a beautiful black hole, like the one from Interstellar, in Blender.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/interstellar-style-black-hole-rendered-in-blender-two-models-2096391653669953761?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/JohnKlerAI/status/2096391653669953761)
+
+---
+
+### [Симулятор железной дороги на Three.js с изометрией и камерой слежения](https://wandy3d.com/ru/prompts/three-js-railway-simulation-game-with-isometric-and-follow-2096362653480562751?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/three-js-railway-simulation-game-with-isometric-and-follow-2096362653480562751?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-js-railway-simulation-game-with-isometric-and-follow-2096362653480562751.webp" width="640" alt="Симулятор железной дороги на Three.js с изометрией и камерой слежения"></a>
+
+**GPT-6 Astra** · Игры · автор [Tom Krcha](https://x.com/tomkrcha) · 2026-09-05
+
+GPT-6 Astra собрал игру про сеть паровозов на Three.js: развязки, города, река, мосты и дым, вид в 3D или изометрии.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a browser railway simulation game with Three.js. Show a green valley with a river, bridges, a hill, trees, red-brick cities and a network of tracks with junctions linking several stations. Steam locomotives with wagons run along the rails and puff smoke. Offer two camera modes, a free 3D view and an isometric view, plus a follow mode that locks onto a chosen train. Add a clean cream-coloured side panel listing locomotive models with their stats, a top bar with money and income figures, a train selection control and speed settings. Use a muted natural palette with soft daylight and light haze. Trains should move smoothly, slow for junctions and visit stations. Deliver it as a web app that runs from a local server. Done when you can orbit the map, switch cameras, follow any train and see the economy figures update while trains run.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/three-js-railway-simulation-game-with-isometric-and-follow-2096362653480562751?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/tomkrcha/status/2096362653480562751)
+
+---
+
+### [Симуляция таверны в пиксель-арте: заказы, персонал и поиск пути](https://wandy3d.com/ru/prompts/pixel-art-tavern-simulation-with-ordering-staff-and-2096358854275543457?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/pixel-art-tavern-simulation-with-ordering-staff-and-2096358854275543457?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/pixel-art-tavern-simulation-with-ordering-staff-and-2096358854275543457.webp" width="640" alt="Симуляция таверны в пиксель-арте: заказы, персонал и поиск пути"></a>
+
+**GPT-6 Astra** · Интерактив · автор [Rogue](https://x.com/Rogue0114) · 2026-09-05
+
+GPT-6 Astra по референсу и трём промптам собрал живую таверну: гости заказывают, работники готовят еду и напитки, все обходят препятствия.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a top-down 2D tavern simulation in the browser, styled as detailed pixel art and based on a reference image of a cosy inn. Draw a wooden floor, a long bar with stools, shelves of bottles, barrels, a stone fireplace, rugs, round tables with chairs, plants and an entrance. Populate it with a bartender, kitchen workers and guests. Guests sit down, order food and drinks, and the workers prepare and deliver each order. Implement collision with furniture and pathfinding so characters walk around obstacles. Clicking a character or object opens an info panel with its name and description. Include a dark UI bar with view toggles and a scrolling event log listing orders such as waiting for orders and items being served. Use a warm brown and amber palette with green accents. Deliver it as a single web page. Done when guests arrive, order, are served and the log reflects each step without characters getting stuck.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/pixel-art-tavern-simulation-with-ordering-staff-and-2096358854275543457?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/Rogue0114/status/2096358854275543457)
+
+---
+
+### [Играющий 3D-оркестр из 43 музыкантов с единым таймером воспроизведения](https://wandy3d.com/ru/prompts/playable-3d-orchestra-of-43-musicians-driven-by-one-playback-2096354461652488562?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/playable-3d-orchestra-of-43-musicians-driven-by-one-playback-2096354461652488562?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/playable-3d-orchestra-of-43-musicians-driven-by-one-playback-2096354461652488562.webp" width="640" alt="Играющий 3D-оркестр из 43 музыкантов с единым таймером воспроизведения"></a>
+
+**GPT-6 Astra** · Интерактив · автор [Generator](https://x.com/groovestreetgen) · 2026-09-05
+
+Из запроса на мелодию для фортепиано GPT-6 Astra сделал 3D-оркестр из 15 партий с дирижёром и свободной камерой.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a playable 3D orchestra scene in the browser. Start from an original short piano melody and expand it into a 15-part arrangement performed by 43 musicians and a conductor. Place a grand piano with its pianist near the front, string, wind and brass sections in arc formation around it, and a conductor's podium, all on a round grey stage ringed by tall pale acoustic panels against a black background. Every musician is a simple posed figure with its instrument and animates in time with its part. One shared playback clock drives all parts so the music and the movement stay in sync. Add play and pause, and camera controls to orbit, zoom and pan around the stage. Keep a neutral grey, cream and orange palette with clear soft lighting. Deliver it as a single web page with synthesized audio. Done when all 15 parts play together and the camera can circle the ensemble.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/playable-3d-orchestra-of-43-musicians-driven-by-one-playback-2096354461652488562?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/groovestreetgen/status/2096354461652488562)
+
+---
+
+### [Солнечная система в браузере: 8 планет, 20 спутников и планировщик полёта](https://wandy3d.com/ru/prompts/browser-solar-system-explorer-with-8-planets-and-a-flight-2096339041679442428?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/browser-solar-system-explorer-with-8-planets-and-a-flight-2096339041679442428?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/browser-solar-system-explorer-with-8-planets-and-a-flight-2096339041679442428.webp" width="640" alt="Солнечная система в браузере: 8 планет, 20 спутников и планировщик полёта"></a>
+
+**GPT-6 Astra** · Интерактив · автор [Andromedus](https://x.com/dzhohola) · 2026-09-05
+
+GPT-6 Astra собрал на Three.js Солнечную систему: 8 планет, 20 спутников, плавные перелёты камеры и панель планирования полёта.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build an interactive solar system explorer that runs in the browser with Three.js and WebGL. Show the Sun, eight planets and about twenty moons on orbit lines, with textured spheres and Saturn's rings. Use a dark, minimal interface: a left list of bodies to select, a large title and a short description with key stats at the bottom of the view, and a right panel for a simplified spaceflight planner where the user picks a origin and destination and sees an estimated travel time in days. Selecting a body makes the camera glide smoothly from the system overview to a close view of it, and the user can also orbit and zoom the camera freely. Keep planets and moons moving along their orbits. Deliver a working web page with all assets loaded locally or procedurally. Done means you can fly from the Sun to Earth, its Moon and Saturn, read the stats, and get a travel estimate between two planets.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/browser-solar-system-explorer-with-8-planets-and-a-flight-2096339041679442428?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/dzhohola/status/2096339041679442428)
+
+---
+
+### [Низкополигональная игра про краба на острове: охота за кристаллами, Three.js](https://wandy3d.com/ru/prompts/low-poly-island-crab-game-in-three-js-with-crystal-shard-2096337879173591171?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/low-poly-island-crab-game-in-three-js-with-crystal-shard-2096337879173591171?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/low-poly-island-crab-game-in-three-js-with-crystal-shard-2096337879173591171.webp" width="640" alt="Низкополигональная игра про краба на острове: охота за кристаллами, Three.js"></a>
+
+**GPT-6 Astra** · Игры · автор [ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-05
+
+GPT-6 Astra сгенерировал игру на Three.js: красный краб бегает по пальмовому острову и собирает семь кристаллов, все модели созданы кодом.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a small third-person game in Three.js, delivered as a single web project with a readme. The player is a cheerful red cartoon crab on a bright low-poly tropical island: yellow sand, turquoise water, chunky palm trees, rocks, shrubs, barrels and a wooden pier. All models must be generated in code from simple shapes, with no imported assets. A chase camera follows the crab as it scurries around. The goal shown on screen is to gather seven crystal shards scattered over the island, with a small counter in the corner. Collectibles should react to the crab by lifting off the ground and flying into it as it passes. Keep the palette saturated and playful, with soft shadows under objects. Avoid repeating the same layout or props in obvious copies. Done means the crab moves smoothly, the camera follows without clipping badly through trees, and all seven shards can be collected.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/low-poly-island-crab-game-in-three-js-with-crystal-shard-2096337879173591171?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/zeuuss_01/status/2096337879173591171)
+
+---
+
+### [Кинематографичный дракон в Blender на скале с лавой, рендер через Python](https://wandy3d.com/ru/prompts/cinematic-blender-dragon-on-a-lava-cracked-rock-rendered-via-2096335588727349434?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/cinematic-blender-dragon-on-a-lava-cracked-rock-rendered-via-2096335588727349434?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/cinematic-blender-dragon-on-a-lava-cracked-rock-rendered-via-2096335588727349434.webp" width="640" alt="Кинематографичный дракон в Blender на скале с лавой, рендер через Python"></a>
+
+**GPT-6 Astra** · Анимация · автор [Sarang Borude](https://x.com/doomdave) · 2026-09-05
+
+GPT-6 Astra написал скрипты для Blender без интерфейса: рогатый дракон и 10-секундный ролик с крупным планом и разными ракурсами камеры.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a ten-second cinematic render of a dragon using Blender in headless mode, driven entirely by Python scripts, and work from a reference image of the creature. Model a dark, scaled dragon with horns, a long tail and large membrane wings, standing on a rocky ledge cracked with glowing orange lava veins. Set it in a misty, dim mountain landscape with moody lighting and warm glow from the cracks. Animate the camera through several different moves: a wide establishing shot, a close-up of the head with its eye and teeth, a side view of the full body, a rear three-quarter view and a final front-facing shot with wings spread. Render to a video file. Expect several iterations: check frames, fix proportions, materials and camera paths, and re-render. Done means a smooth ten-second clip with varied camera angles where the dragon matches the reference and the lava lighting reads clearly.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/cinematic-blender-dragon-on-a-lava-cracked-rock-rendered-via-2096335588727349434?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/doomdave/status/2096335588727349434)
+
+---
+
+### [Площадь Терейру-ду-Пасу в Лиссабоне в Blender с пролётом камеры](https://wandy3d.com/ru/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021.webp" width="640" alt="Площадь Терейру-ду-Пасу в Лиссабоне в Blender с пролётом камеры"></a>
+
+**GPT-6 Astra** · Сцены · автор [Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
+
+GPT-6 Astra с одного захода смоделировал в Blender набережную площадь Лиссабона: аркады, триумфальная арка, статуя, река и пролёт камеры.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a Blender scene, delivered as a Python script, that recreates a grand riverside European plaza in Lisbon. Model a huge open square with pale paving and light line patterns, bordered on three sides by long yellow arcaded buildings with terracotta roofs, and a monumental white triumphal arch in the middle of the far side. Place a bronze equestrian statue on a stepped stone pedestal with railings at the center. Open the fourth side to a wide river with a quay, a small sailboat and a distant green shoreline. Add dense red-roofed city blocks behind the buildings, street lamps, a tram and many tiny pedestrians. Use physically based materials, soft late-afternoon sun and a cloudy sky. Animate a slow camera flight that starts high above the square and descends toward the statue, then turns to look over the water. Done means a rendered 30 second sequence with believable architecture, lighting and scale.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/goncalo_canhoto/status/2096298425914450021)
+
+---
+
+[← Назад](catalog.ru.3.md) · страница 4 из 6 · [Дальше →](catalog.ru.5.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

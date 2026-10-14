@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — 目录 2/4
+# Awesome 3D Prompts — 目录 2/6
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · **中文**
 
-[← 上一页](catalog.zh.1.md) · 第 2 页，共 4 页 · [下一页 →](catalog.zh.3.md)
+[← 上一页](catalog.zh.1.md) · 第 2 页，共 6 页 · [下一页 →](catalog.zh.3.md)
 
 ### [可漫步的动漫樱花小镇：商店街、神社与列车](https://wandy3d.com/zh/prompts/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1775,6 +1775,6 @@ NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headba
 
 ---
 
-[← 上一页](catalog.zh.1.md) · 第 2 页，共 4 页 · [下一页 →](catalog.zh.3.md)
+[← 上一页](catalog.zh.1.md) · 第 2 页，共 6 页 · [下一页 →](catalog.zh.3.md)
 
 提示词、视频和图片的权利归原作者所有（[RIGHTS.md](../RIGHTS.md)）。我们撰写的文字采用 [CC BY 4.0](../LICENSE) 许可。知道有成果展示的好提示词？[推荐给我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。如果你是作者并希望修改或删除条目，请[联系我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

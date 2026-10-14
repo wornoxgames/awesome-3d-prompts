@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — カタログ 1/4
+# Awesome 3D Prompts — カタログ 1/6
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · **日本語** · [中文](catalog.zh.1.md)
 
-4 ページ中 1 ページ目 · [次へ →](catalog.ja.2.md)
+6 ページ中 1 ページ目 · [次へ →](catalog.ja.2.md)
 
 ### [写真1枚が3Dモデルに：AIオーブのUIモーション](https://wandy3d.com/ja/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1445,6 +1445,6 @@ Blenderでモルモットを作って
 
 ---
 
-4 ページ中 1 ページ目 · [次へ →](catalog.ja.2.md)
+6 ページ中 1 ページ目 · [次へ →](catalog.ja.2.md)
 
 プロンプト・動画・画像の権利は各作者に帰属します（[RIGHTS.md](../RIGHTS.md)）。編集テキストは [CC BY 4.0](../LICENSE) です。結果が見える良いプロンプトを知っていますか？[提案する](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。作者の方で掲載内容の修正・削除をご希望の場合は[こちら](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

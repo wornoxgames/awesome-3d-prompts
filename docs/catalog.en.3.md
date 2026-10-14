@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Catalog 3/4
+# Awesome 3D Prompts — Catalog 3/6
 
 [← Awesome 3D Prompts](../README.md) · **English** · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Previous](catalog.en.2.md) · page 3 of 4 · [Next →](catalog.en.4.md)
+[← Previous](catalog.en.2.md) · page 3 of 6 · [Next →](catalog.en.4.md)
 
 ### [Interactive 3D jet engine with cutaway, x-ray and exploded view](https://wandy3d.com/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1141,6 +1141,6 @@ img2threejs/img2threejs を使って、立体的なSkyrimにあるような村�
 
 ---
 
-[← Previous](catalog.en.2.md) · page 3 of 4 · [Next →](catalog.en.4.md)
+[← Previous](catalog.en.2.md) · page 3 of 6 · [Next →](catalog.en.4.md)
 
 Prompts, videos and images belong to their authors ([RIGHTS.md](../RIGHTS.md)). Our editorial text is [CC BY 4.0](../LICENSE). Know a great prompt with a visible result? [Suggest it](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Are you an author and want an entry changed or removed? [Tell us](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

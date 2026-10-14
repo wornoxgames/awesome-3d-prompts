@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — カタログ 2/4
+# Awesome 3D Prompts — カタログ 2/6
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · **日本語** · [中文](catalog.zh.1.md)
 
-[← 前へ](catalog.ja.1.md) · 4 ページ中 2 ページ目 · [次へ →](catalog.ja.3.md)
+[← 前へ](catalog.ja.1.md) · 6 ページ中 2 ページ目 · [次へ →](catalog.ja.3.md)
 
 ### [歩ける桜の街：商店街、神社、電車が走るアニメ調のタウン](https://wandy3d.com/ja/prompts/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1775,6 +1775,6 @@ NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headba
 
 ---
 
-[← 前へ](catalog.ja.1.md) · 4 ページ中 2 ページ目 · [次へ →](catalog.ja.3.md)
+[← 前へ](catalog.ja.1.md) · 6 ページ中 2 ページ目 · [次へ →](catalog.ja.3.md)
 
 プロンプト・動画・画像の権利は各作者に帰属します（[RIGHTS.md](../RIGHTS.md)）。編集テキストは [CC BY 4.0](../LICENSE) です。結果が見える良いプロンプトを知っていますか？[提案する](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。作者の方で掲載内容の修正・削除をご希望の場合は[こちら](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。
