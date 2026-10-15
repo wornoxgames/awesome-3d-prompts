@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — カタログ 4/6
+# Awesome 3D Prompts — カタログ 4/7
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · **日本語** · [中文](catalog.zh.1.md)
 
-[← 前へ](catalog.ja.3.md) · 6 ページ中 4 ページ目 · [次へ →](catalog.ja.5.md)
+[← 前へ](catalog.ja.3.md) · 7 ページ中 4 ページ目 · [次へ →](catalog.ja.5.md)
 
 ### [Blenderで作る花屋のエクスプローデッドビュー・アニメーション](https://wandy3d.com/ja/prompts/exploded-view-animation-of-a-pastel-japanese-flower-shop-in-2097153139795468365?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1262,6 +1262,6 @@ Build a Blender scene, delivered as a Python script, that recreates a grand rive
 
 ---
 
-[← 前へ](catalog.ja.3.md) · 6 ページ中 4 ページ目 · [次へ →](catalog.ja.5.md)
+[← 前へ](catalog.ja.3.md) · 7 ページ中 4 ページ目 · [次へ →](catalog.ja.5.md)
 
 プロンプト・動画・画像の権利は各作者に帰属します（[RIGHTS.md](../RIGHTS.md)）。編集テキストは [CC BY 4.0](../LICENSE) です。結果が見える良いプロンプトを知っていますか？[提案する](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。作者の方で掲載内容の修正・削除をご希望の場合は[こちら](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

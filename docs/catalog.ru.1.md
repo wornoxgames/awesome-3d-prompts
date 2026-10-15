@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 1/6
+# Awesome 3D Prompts — Каталог 1/7
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-страница 1 из 6 · [Дальше →](catalog.ru.2.md)
+страница 1 из 7 · [Дальше →](catalog.ru.2.md)
 
 ### [Одно фото — 3D-модель: UI-моушн с AI-сферой](https://wandy3d.com/ru/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1445,6 +1445,6 @@ Blenderでモルモットを作って
 
 ---
 
-страница 1 из 6 · [Дальше →](catalog.ru.2.md)
+страница 1 из 7 · [Дальше →](catalog.ru.2.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

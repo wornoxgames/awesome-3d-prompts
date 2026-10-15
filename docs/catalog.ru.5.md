@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 5/6
+# Awesome 3D Prompts — Каталог 5/7
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Назад](catalog.ru.4.md) · страница 5 из 6 · [Дальше →](catalog.ru.6.md)
+[← Назад](catalog.ru.4.md) · страница 5 из 7 · [Дальше →](catalog.ru.6.md)
 
 ### [3D-лендинг с биолюминесцентной медузой на Next.js и Three.js](https://wandy3d.com/ru/prompts/bioluminescent-jellyfish-3d-landing-page-with-next-js-and-2096269057544831175?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1086,6 +1086,6 @@ Build an interactive 3D personal portfolio website with an editorial look: warm 
 
 ---
 
-[← Назад](catalog.ru.4.md) · страница 5 из 6 · [Дальше →](catalog.ru.6.md)
+[← Назад](catalog.ru.4.md) · страница 5 из 7 · [Дальше →](catalog.ru.6.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 3/6
+# Awesome 3D Prompts — Каталог 3/7
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Назад](catalog.ru.2.md) · страница 3 из 6 · [Дальше →](catalog.ru.4.md)
+[← Назад](catalog.ru.2.md) · страница 3 из 7 · [Дальше →](catalog.ru.4.md)
 
 ### [Интерактивный 3D-реактивный двигатель: разрез, рентген, разнесённый вид](https://wandy3d.com/ru/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1141,6 +1141,6 @@ img2threejs/img2threejs を使って、立体的なSkyrimにあるような村�
 
 ---
 
-[← Назад](catalog.ru.2.md) · страница 3 из 6 · [Дальше →](catalog.ru.4.md)
+[← Назад](catalog.ru.2.md) · страница 3 из 7 · [Дальше →](catalog.ru.4.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

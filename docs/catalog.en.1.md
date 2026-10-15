@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Catalog 1/6
+# Awesome 3D Prompts — Catalog 1/7
 
 [← Awesome 3D Prompts](../README.md) · **English** · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-page 1 of 6 · [Next →](catalog.en.2.md)
+page 1 of 7 · [Next →](catalog.en.2.md)
 
 ### [One photo to a 3D model: an AI orb UI motion loop](https://wandy3d.com/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1445,6 +1445,6 @@ Blenderでモルモットを作って
 
 ---
 
-page 1 of 6 · [Next →](catalog.en.2.md)
+page 1 of 7 · [Next →](catalog.en.2.md)
 
 Prompts, videos and images belong to their authors ([RIGHTS.md](../RIGHTS.md)). Our editorial text is [CC BY 4.0](../LICENSE). Know a great prompt with a visible result? [Suggest it](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Are you an author and want an entry changed or removed? [Tell us](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

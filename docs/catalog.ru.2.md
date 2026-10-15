@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 2/6
+# Awesome 3D Prompts — Каталог 2/7
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Назад](catalog.ru.1.md) · страница 2 из 6 · [Дальше →](catalog.ru.3.md)
+[← Назад](catalog.ru.1.md) · страница 2 из 7 · [Дальше →](catalog.ru.3.md)
 
 ### [Аниме-городок с сакурой: магазины, святилище и поезда, можно гулять](https://wandy3d.com/ru/prompts/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1775,6 +1775,6 @@ NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headba
 
 ---
 
-[← Назад](catalog.ru.1.md) · страница 2 из 6 · [Дальше →](catalog.ru.3.md)
+[← Назад](catalog.ru.1.md) · страница 2 из 7 · [Дальше →](catalog.ru.3.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

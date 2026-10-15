@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — 目录 3/6
+# Awesome 3D Prompts — 目录 3/7
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · **中文**
 
-[← 上一页](catalog.zh.2.md) · 第 3 页，共 6 页 · [下一页 →](catalog.zh.4.md)
+[← 上一页](catalog.zh.2.md) · 第 3 页，共 7 页 · [下一页 →](catalog.zh.4.md)
 
 ### [带剖面、X光和爆炸视图的交互式3D喷气发动机](https://wandy3d.com/zh/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1141,6 +1141,6 @@ img2threejs/img2threejs を使って、立体的なSkyrimにあるような村�
 
 ---
 
-[← 上一页](catalog.zh.2.md) · 第 3 页，共 6 页 · [下一页 →](catalog.zh.4.md)
+[← 上一页](catalog.zh.2.md) · 第 3 页，共 7 页 · [下一页 →](catalog.zh.4.md)
 
 提示词、视频和图片的权利归原作者所有（[RIGHTS.md](../RIGHTS.md)）。我们撰写的文字采用 [CC BY 4.0](../LICENSE) 许可。知道有成果展示的好提示词？[推荐给我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。如果你是作者并希望修改或删除条目，请[联系我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。
