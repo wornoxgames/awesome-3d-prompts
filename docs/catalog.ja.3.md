@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — カタログ 3/7
+# Awesome 3D Prompts — カタログ 3/8
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · **日本語** · [中文](catalog.zh.1.md)
 
-[← 前へ](catalog.ja.2.md) · 7 ページ中 3 ページ目 · [次へ →](catalog.ja.4.md)
+[← 前へ](catalog.ja.2.md) · 8 ページ中 3 ページ目 · [次へ →](catalog.ja.4.md)
 
 ### [断面・X線・分解表示を備えたインタラクティブ3Dジェットエンジン](https://wandy3d.com/ja/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1141,6 +1141,6 @@ img2threejs/img2threejs を使って、立体的なSkyrimにあるような村�
 
 ---
 
-[← 前へ](catalog.ja.2.md) · 7 ページ中 3 ページ目 · [次へ →](catalog.ja.4.md)
+[← 前へ](catalog.ja.2.md) · 8 ページ中 3 ページ目 · [次へ →](catalog.ja.4.md)
 
 プロンプト・動画・画像の権利は各作者に帰属します（[RIGHTS.md](../RIGHTS.md)）。編集テキストは [CC BY 4.0](../LICENSE) です。結果が見える良いプロンプトを知っていますか？[提案する](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。作者の方で掲載内容の修正・削除をご希望の場合は[こちら](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

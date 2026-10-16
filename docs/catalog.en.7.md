@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Catalog 7/7
+# Awesome 3D Prompts — Catalog 7/8
 
 [← Awesome 3D Prompts](../README.md) · **English** · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Previous](catalog.en.6.md) · page 7 of 7
+[← Previous](catalog.en.6.md) · page 7 of 8 · [Next →](catalog.en.8.md)
 
 ### [First-person voxel survival game with crafting, villages and farming](https://wandy3d.com/prompts/first-person-voxel-survival-game-with-crafting-villages-and-2095597137849446688?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -363,6 +363,705 @@ Build a 3D city street scene in Blender, driven through a Blender MCP connection
 
 ---
 
-[← Previous](catalog.en.6.md) · page 7 of 7
+### [Multiplayer pirate-ship sailing world in Three.js](https://wandy3d.com/prompts/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600.webp" width="640" alt="Multiplayer pirate-ship sailing world in Three.js"></a>
+
+**Claude Fable 5.1** · Games · by [Aman](https://x.com/aman_kambojj) · 2026-09-02
+
+Claude Fable 5.1 produced a shared low-poly ocean in Three.js where players sail ships past islands and regions with a compass and HUD.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a multiplayer sailing game as a Three.js web app. The player steers a wooden pirate ship with striped sails across a large low-poly ocean with rolling dark-blue waves, foam trails behind the hull and a bright sky with chunky white floating rocks. Scatter islands, named regions and other players' ships, each with a floating name label. Use a chase camera that can also swing close to the deck, a compass in a corner, and a small HUD showing speed, region, camera mode and crew count. Change the sky and water tint by region, including a dark starry area. Add a server using WebSockets so several players see each other's ships move in real time. Keep the art simple: flat-shaded geometry, soft fog and a limited palette. Done when two browser tabs can sail the same sea, the ship rides the waves, and the HUD and compass update as you travel.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/aman_kambojj/status/2095137561283010600)
+
+---
+
+### [Modern glass villa with pool, rendered photorealistically in Blender](https://wandy3d.com/prompts/modern-glass-villa-with-pool-rendered-photorealistically-in-2095132939667255657?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/modern-glass-villa-with-pool-rendered-photorealistically-in-2095132939667255657?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/modern-glass-villa-with-pool-rendered-photorealistically-in-2095132939667255657.webp" width="640" alt="Modern glass villa with pool, rendered photorealistically in Blender"></a>
+
+**Claude Fable 5.1** · Scenes · by [Ben](https://x.com/alafrayme) · 2026-09-02
+
+Claude Fable 5.1 and Blender produced a polished villa render: stone pillars, glass walls, a furnished interior and a pool in front.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a photorealistic architectural visualization in Blender, scripted with Python. Model a modern two-storey villa with a white concrete slab between floors, two pitched standing-seam metal roofs, floor-to-ceiling glass sliding doors and tall stone-clad pillars. Furnish the open interior: a dining table with chairs, a green sofa, a bookcase wall, a kitchen with pendant lamps, a staircase, a plant and a white lounge sofa. Add a terrace and a swimming pool in the foreground with rippled water reflecting the facade. Light with a soft daytime sky, warm interior lamps and ceiling panels. Frame a wide, straight-on camera at eye level from the pool edge, and render with Cycles at a sharp resolution. Done when the script produces the house, furniture, pool and a clean still render, and every element can be tweaked by changing named parameters.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/modern-glass-villa-with-pool-rendered-photorealistically-in-2095132939667255657?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/alafrayme/status/2095132939667255657)
+
+---
+
+### [Interactive 3D explainer of how a tumour grows, invades and spreads](https://wandy3d.com/prompts/interactive-3d-explainer-of-how-a-tumour-grows-invades-and-2095130778342408331?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-3d-explainer-of-how-a-tumour-grows-invades-and-2095130778342408331?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-explainer-of-how-a-tumour-grows-invades-and-2095130778342408331.webp" width="640" alt="Interactive 3D explainer of how a tumour grows, invades and spreads"></a>
+
+**Claude Fable 5.1** · Interactive · by [Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-02
+
+Claude Fable 5.1 built a step-by-step 3D simulation, from one mutated cell to angiogenesis and invasion, with captions and labels.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build an interactive 3D educational simulation that explains how cancer develops and spreads, as a self-contained web app. Show a layer of soft pink cells sitting on a translucent basement membrane above a blood vessel with red blood cells. Guide the viewer through numbered steps: healthy tissue, one cell with DNA damage that escapes cell death, uncontrolled division into a tumour, a necrotic core releasing VEGF signals, new blood vessels growing toward it, invasion through the membrane, and spread to other places. Each step has a short caption at the bottom, a text panel in a corner with a plain explanation, floating labels on key structures, and a progress indicator. Add play, pause, replay and step controls, plus orbit camera control. Use a calm pastel palette with deeper reds and purples for diseased cells. Done when all steps play in order with smooth camera moves and readable text.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-3d-explainer-of-how-a-tumour-grows-invades-and-2095130778342408331?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/viewsfrom02108/status/2095130778342408331)
+
+---
+
+### [Meteoroid break-up VFX upgrade for a Three.js space game](https://wandy3d.com/prompts/meteoroid-break-up-vfx-upgrade-for-a-three-js-space-game-2095127248470692320?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/meteoroid-break-up-vfx-upgrade-for-a-three-js-space-game-2095127248470692320?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/meteoroid-break-up-vfx-upgrade-for-a-three-js-space-game-2095127248470692320.webp" width="640" alt="Meteoroid break-up VFX upgrade for a Three.js space game"></a>
+
+**Claude Fable 5.1** · Animation · by [Dmytro Gladkyi 🔳](https://x.com/gladimdim) · 2026-09-02
+
+Claude Fable 5.1 got a one-line request to improve a meteoroid break-up effect and returned a richer trail, shockwave and debris, plus performance fixes.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+check the existing meteoroid break up vfx, enhance it
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/meteoroid-break-up-vfx-upgrade-for-a-three-js-space-game-2095127248470692320?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/gladimdim/status/2095127248470692320)
+
+---
+
+### [Procedural assault pod spaceship with two LODs in Three.js](https://wandy3d.com/prompts/procedural-assault-pod-spaceship-with-two-lods-in-three-js-2095126622319845478?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/procedural-assault-pod-spaceship-with-two-lods-in-three-js-2095126622319845478?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-assault-pod-spaceship-with-two-lods-in-three-js-2095126622319845478.webp" width="640" alt="Procedural assault pod spaceship with two LODs in Three.js"></a>
+
+**Claude Fable 5.1** · Assets · by [Dmytro Gladkyi 🔳](https://x.com/gladimdim) · 2026-09-02
+
+Claude Fable 5.1 redesigned a game's troop-carrier ship from a single prompt, coding both detailed and low-poly versions inside triangle budgets.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+redesign from scratch the 3D models (high and low fidelity) for the assault pod. they look ugly atm. It must be an ship carying thousands of infantry and tanks to drop onto space stations, planets, etc. I give you 20000  tris budget for high fidelity and 4000 for low LOD
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/procedural-assault-pod-spaceship-with-two-lods-in-three-js-2095126622319845478?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/gladimdim/status/2095126622319845478)
+
+---
+
+### [Interactive 3D football stadium ticketing site with seat view](https://wandy3d.com/prompts/interactive-3d-football-stadium-ticketing-site-with-seat-2095123216419459454?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-3d-football-stadium-ticketing-site-with-seat-2095123216419459454?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-football-stadium-ticketing-site-with-seat-2095123216419459454.webp" width="640" alt="Interactive 3D football stadium ticketing site with seat view"></a>
+
+**Claude Fable 5.1** · Scenes · by [The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-02
+
+Claude Fable 5.1 rebuilt a stadium website: an orbitable 3D bowl with selectable sections and a seat-view camera. The author found it weaker than before.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a single-page ticketing website around an interactive 3D football stadium. Use a dark navy interface with blue accents: a top navigation bar, a match header with two team flags, and a side panel that shows the selected section, seat and price with a checkout button. In the main view render a full stadium bowl with a green pitch, tiers of colour-coded seating sections, floodlights and a roof ring. Let visitors orbit and zoom the camera, click a section to highlight it, and switch to a first-person seat view that shows the pitch and crowd from that seat. Add camera controls and view toggles at the bottom. Use Three.js with procedurally generated geometry. Done means the stadium is smooth to navigate, sections are selectable, the seat view works, and the side panel updates with each choice.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-3d-football-stadium-ticketing-site-with-seat-2095123216419459454?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/thebuggeddev/status/2095123216419459454)
+
+---
+
+### [Holographic dino-dex with live 3D dinosaurs and a GLSL fresnel shader](https://wandy3d.com/prompts/holographic-dino-dex-with-live-3d-dinosaurs-and-a-glsl-2095121568297083067?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/holographic-dino-dex-with-live-3d-dinosaurs-and-a-glsl-2095121568297083067?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/holographic-dino-dex-with-live-3d-dinosaurs-and-a-glsl-2095121568297083067.webp" width="640" alt="Holographic dino-dex with live 3D dinosaurs and a GLSL fresnel shader"></a>
+
+**Claude Fable 5.1** · Interactive · by [Benji Viz](https://x.com/_Benviz) · 2026-09-02
+
+Claude Fable 5.1 produced a neon dino-dex page where eight dinosaur models render live in WebGL, shaded with a custom fresnel effect and no lights.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a single web page called a dino-dex: a holographic field guide to dinosaurs. Use a dark background with neon gradient title text and a responsive grid of cards. Each card has a live 3D dinosaur rendered in the browser, tinted in its own neon colour such as red, orange, cyan, green, blue, pink and violet, shaded with a custom GLSL fresnel rim effect and scan lines instead of a lighting rig. Under each model show the species name, a one-line description and glowing stat bars like bite force, speed and armour. Use one small WebGL canvas per card, around eight in total, and slowly rotate each dinosaur. Add hover highlights and smooth scrolling. Done means all eight species render in the browser at once, look clearly holographic, and the page stays responsive.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/holographic-dino-dex-with-live-3d-dinosaurs-and-a-glsl-2095121568297083067?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/_Benviz/status/2095121568297083067)
+
+---
+
+### [Living voxel ocean storm inside a glass bottle in Three.js](https://wandy3d.com/prompts/living-voxel-ocean-storm-inside-a-glass-bottle-in-three-js-2095111213927510131?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/living-voxel-ocean-storm-inside-a-glass-bottle-in-three-js-2095111213927510131?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/living-voxel-ocean-storm-inside-a-glass-bottle-in-three-js-2095111213927510131.webp" width="640" alt="Living voxel ocean storm inside a glass bottle in Three.js"></a>
+
+**Claude Fable 5.1** · Scenes · by [Vib3Coded](https://x.com/vib3coded) · 2026-09-02
+
+In a same-prompt comparison with another model, Claude Fable 5.1 built a bottled voxel sea with a ship, lighthouse, rain, lightning and a sea serpent.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a living, interactive voxel diorama inside a glass bottle lying on a wooden dock, as one self-contained Three.js page. Fill the bottle with about 1,700 animated voxel columns forming a rolling blue ocean, a wooden sailing ship, a striped lighthouse, a small palm island, an old shipwreck, seagulls and jumping fish. Add a storm cycle: dark sky, falling rain, lightning flashes and a giant sea serpent rising from the waves. Include a paper label on the dock reading the name of the scene. Keep every element clipped inside the glass so nothing pokes through. Let the user orbit the camera with the mouse. Use warm wood tones against deep teal water and a glass material with subtle reflections. Done means the scene runs smoothly, the weather changes, and no geometry leaves the bottle.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/living-voxel-ocean-storm-inside-a-glass-bottle-in-three-js-2095111213927510131?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/vib3coded/status/2095111213927510131)
+
+---
+
+### [3D keyboard animation with popping logo keycaps and camera flythrough](https://wandy3d.com/prompts/3d-keyboard-animation-with-popping-logo-keycaps-and-camera-2095111032171876470?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/3d-keyboard-animation-with-popping-logo-keycaps-and-camera-2095111032171876470?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/3d-keyboard-animation-with-popping-logo-keycaps-and-camera-2095111032171876470.webp" width="640" alt="3D keyboard animation with popping logo keycaps and camera flythrough"></a>
+
+**Claude Fable 5.1** · Animation · by [rege](https://x.com/rege_dev) · 2026-09-02
+
+Claude Fable 5.1 produced an editable 3D animation of a blue keyboard whose logo keys pop up in sequence while the camera sweeps across and confetti fires.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build an animated 3D short of a chunky pastel-blue mechanical keyboard on a soft grey backdrop. Keycaps are rounded and white, with a few dark ones carrying simple app-style logos. The keys pop up one after another with a springy motion while the camera glides low across the rows, swoops in close on single keys, and finally pulls back to reveal keycaps spelling a short title. Add small confetti bursts when keys land and gentle depth of field. Structure the scene so every key, camera move and effect sits on an editable timeline with clear parameters, so an AI agent or a person can retime or restyle it later. Deliver a single project that plays in the browser, about 30 seconds long, with play and scrub controls. Done means the camera path is smooth, the key animation is readable, and the final title is legible.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/3d-keyboard-animation-with-popping-logo-keycaps-and-camera-2095111032171876470?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/rege_dev/status/2095111032171876470)
+
+---
+
+### [Gundam-inspired mecha configurator with swappable parts in Three.js](https://wandy3d.com/prompts/gundam-inspired-mecha-configurator-with-swappable-parts-in-2095106919530930221?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/gundam-inspired-mecha-configurator-with-swappable-parts-in-2095106919530930221?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/gundam-inspired-mecha-configurator-with-swappable-parts-in-2095106919530930221.webp" width="640" alt="Gundam-inspired mecha configurator with swappable parts in Three.js"></a>
+
+**Claude Fable 5.1** · Interactive · by [Crayon](https://x.com/usecrayon) · 2026-09-02
+
+Claude Fable 5.1 produced a Three.js viewer for a white-blue-red mecha, with a roster, swappable heads and weapons, and orbit camera views.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build an interactive 3D mecha configurator as a single web page using Three.js. Show a blocky, hard-surface robot in white with blue and red accents, standing on a pale warm-beige floor with a soft shadow. Add a clean light side panel with a roster of three mech units, dropdowns for head crest, weapon and back pack, a presentation section with turntable, hard outlines and ground shadow toggles, and front, three-quarter, side and back camera buttons. Changing a dropdown should instantly swap the matching part on the model, such as a beam rifle or a heavy cannon. Support drag to orbit and scroll to zoom. Include a small readout with part and colour counts. Done means switching units and parts works smoothly and the mech reads clearly from every angle.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/gundam-inspired-mecha-configurator-with-swappable-parts-in-2095106919530930221?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/usecrayon/status/2095106919530930221)
+
+---
+
+### [Interactive F-35A fighter jet viewer with afterburner and HUD panels](https://wandy3d.com/prompts/interactive-f-35a-fighter-jet-viewer-with-afterburner-and-2095094543339446572?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-f-35a-fighter-jet-viewer-with-afterburner-and-2095094543339446572?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-f-35a-fighter-jet-viewer-with-afterburner-and-2095094543339446572.webp" width="640" alt="Interactive F-35A fighter jet viewer with afterburner and HUD panels"></a>
+
+**Claude Fable 5.1** · Interactive · by [Edgex](https://x.com/SahilExec) · 2026-09-02
+
+Fable 5.1 wrote a code-only F-35A in one run: a dark stealth jet on a compass-dial floor with orbit controls and a glowing afterburner.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build an interactive 3D viewer for a detailed F-35A fighter jet, generated entirely in code with no external model files. Model the stealth airframe in dark matte grey with canopy, twin tails, intake and exhaust nozzle. Place it on a dark studio floor with a circular compass dial etched into the ground and a soft spotlight. Add a slim HUD-style interface with a left list of controls and a bottom toolbar. Support orbit, zoom to fine details, and a showcase camera that circles the jet. Include toggles for engine afterburner glow, landing gear and lighting. Done means the aircraft looks convincing from every angle, the controls respond smoothly and the afterburner flame appears when switched on. Deliver it as a single web page.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-f-35a-fighter-jet-viewer-with-afterburner-and-2095094543339446572?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/SahilExec/status/2095094543339446572)
+
+---
+
+### [Blocky green Zaku II mech in Three.js on a clean white mobile page](https://wandy3d.com/prompts/blocky-green-zaku-ii-mech-in-three-js-on-a-clean-white-2095085944391270759?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/blocky-green-zaku-ii-mech-in-three-js-on-a-clean-white-2095085944391270759?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/blocky-green-zaku-ii-mech-in-three-js-on-a-clean-white-2095085944391270759.webp" width="640" alt="Blocky green Zaku II mech in Three.js on a clean white mobile page"></a>
+
+**Claude Fable 5.1** · Assets · by [Hakuei](https://x.com/akiba_tokyo_jp) · 2026-09-02
+
+Using Fable 5.1 Max, the author modelled a green Zaku II in Three.js: glowing red mono-eye, spiked shoulder, and a turntable view on a white background.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a mobile-first 3D showcase of a green blocky mobile-suit style mech inspired by a classic anime robot, using Three.js. Construct the model from simple rounded primitives: a domed head with a glowing red mono-eye and a visor slit, a spiked shoulder pauldron, a shield panel on the other arm, ribbed hose details, dark joints and a hand-held machine gun. Use a clean off-white background so the robot stands out, with soft shadows beneath it. Add a large bold title at the bottom with a small Japanese subtitle, small monospace labels in the corners, and two round buttons. The camera slowly orbits and tilts through front, side, back and top-down views, and the user can drag to rotate. Done means the silhouette and the eye read clearly on a phone screen.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/blocky-green-zaku-ii-mech-in-three-js-on-a-clean-white-2095085944391270759?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/akiba_tokyo_jp/status/2095085944391270759)
+
+---
+
+### [Living universe simulation in a single WebGL HTML file](https://wandy3d.com/prompts/living-universe-simulation-in-a-single-webgl-html-file-2095054116372508955?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/living-universe-simulation-in-a-single-webgl-html-file-2095054116372508955?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/living-universe-simulation-in-a-single-webgl-html-file-2095054116372508955.webp" width="640" alt="Living universe simulation in a single WebGL HTML file"></a>
+
+**Claude Fable 5.1** · Interactive · by [Alex Luhchenko](https://x.com/tiny_frontier) · 2026-09-02
+
+Claude Fable 5.1 produced a self-contained cosmos from an empty folder: gravity-driven galaxies, black holes, forming planets and generated sound.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+build a living universe in one HTML file.
+
+No npm, libraries, CDN, assets or network requests.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/living-universe-simulation-in-a-single-webgl-html-file-2095054116372508955?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/tiny_frontier/status/2095054116372508955)
+
+---
+
+### [Gothic souls-like action game in native C++ with foggy streets](https://wandy3d.com/prompts/gothic-souls-like-action-game-in-native-c-with-foggy-streets-2095053114600755576?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/gothic-souls-like-action-game-in-native-c-with-foggy-streets-2095053114600755576?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/gothic-souls-like-action-game-in-native-c-with-foggy-streets-2095053114600755576.webp" width="640" alt="Gothic souls-like action game in native C++ with foggy streets"></a>
+
+**Claude Fable 5.1** · Games · by [wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz) · 2026-09-02
+
+Claude Fable 5.1 wrote a Bloodborne-style game in C++ without an engine: a coat-wearing hunter, lamplit fog, enemies and a boss. Limbs still glitch.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a third-person gothic action game in native C++ with no game engine. Set it in a foggy Victorian city at night: cobblestone streets, gas lamps, iron fences, coffins, barrels, carts and tall dark buildings with lit windows. Use a cold blue-grey palette with warm lamp glows and red blood effects. The player is a hunter in a red coat and hat with a melee weapon, a dodge, a health bar, a stamina bar and a consumable counter. Add enemies with their own animations and a large boss with a visible health bar at the end of a street. Include basic progression, hit effects, sound effects and music, all generated in code. Controls: move, camera, attack, dodge, use item. Deliver a buildable C++ project with instructions. Done means you can explore the street, fight enemies, and reach and fight the boss with believable character animation.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/gothic-souls-like-action-game-in-native-c-with-foggy-streets-2095053114600755576?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/wizardbrainz/status/2095053114600755576)
+
+---
+
+### [3D Snakes and Ladders board game with orbit camera and move log](https://wandy3d.com/prompts/3d-snakes-and-ladders-board-game-with-orbit-camera-and-move-2095050993184669825?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/3d-snakes-and-ladders-board-game-with-orbit-camera-and-move-2095050993184669825?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/3d-snakes-and-ladders-board-game-with-orbit-camera-and-move-2095050993184669825.webp" width="640" alt="3D Snakes and Ladders board game with orbit camera and move log"></a>
+
+**Claude Fable 5.1** · Games · by [KC](https://x.com/karanC_12) · 2026-09-02
+
+Claude Fable 5.1 produced a playable two-player Snakes and Ladders board: striped 3D snakes, wooden ladders, a rolling dice and a turn log.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a playable 3D Snakes and Ladders board game that runs in the browser. Show a square wooden board with a numbered grid, wooden ladders and thick, colorful striped snakes connecting squares, plus a physical dice that rolls beside the board. Support two players, Ruby and Sky, with coloured pawns that move square by square, climb ladders and slide down snakes. Add a clean light side panel with the current turn, a roll button, player progress bars and a scrolling move log. Let the user orbit and zoom the camera around the board, with soft shadows under it. Use a bright, friendly palette on a white background. Deliver one self-contained web project. Done means a full game can be played from start to finish with a winner declared.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/3d-snakes-and-ladders-board-game-with-orbit-camera-and-move-2095050993184669825?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/karanC_12/status/2095050993184669825)
+
+---
+
+### [Photo-to-3D voxel studio with wave motion in Three.js](https://wandy3d.com/prompts/photo-to-3d-voxel-studio-with-wave-motion-in-three-js-2095048967092625663?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/photo-to-3d-voxel-studio-with-wave-motion-in-three-js-2095048967092625663?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/photo-to-3d-voxel-studio-with-wave-motion-in-three-js-2095048967092625663.webp" width="640" alt="Photo-to-3D voxel studio with wave motion in Three.js"></a>
+
+**Claude Fable 5.1** · Interactive · by [Manoj Builds](https://x.com/TenthPrime) · 2026-09-02
+
+Claude Fable 5.1 helped build a Three.js tool that turns a portrait into 10,000+ instanced 3D shapes, with wave controls and GIF or PNG export.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a browser tool in Three.js that turns an uploaded photo into an interactive field of more than ten thousand 3D pixels. Sample the image on a grid and render each cell as an instanced sphere, cube or cylinder coloured from the photo, so the whole field costs a single draw call and stays near 60 FPS. Add a dark background and a compact control panel with an image upload, a shape selector, a material theme selector (original colours, metallic, neon), sliders for grid resolution, wave amplitude, wave speed and depth extrusion, an auto-rotate toggle, and buttons to export an animated GIF and a high-resolution PNG. Animate the voxels with a travelling 3D wave displacement and allow orbiting and zooming close to see individual shapes. Done means any portrait can be dropped in and explored live.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/photo-to-3d-voxel-studio-with-wave-motion-in-three-js-2095048967092625663?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/TenthPrime/status/2095048967092625663)
+
+---
+
+### [Low-poly floating-island castle with day and night in Three.js](https://wandy3d.com/prompts/low-poly-floating-island-castle-with-day-and-night-in-three-2095048818203275584?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/low-poly-floating-island-castle-with-day-and-night-in-three-2095048818203275584?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/low-poly-floating-island-castle-with-day-and-night-in-three-2095048818203275584.webp" width="640" alt="Low-poly floating-island castle with day and night in Three.js"></a>
+
+**Claude Fable 5.1** · Scenes · by [Jigs](https://x.com/debugsenpai) · 2026-09-02
+
+Claude Fable 5.1 built an orbitable Three.js castle on a floating island, with a bridge, trees and a night mode of starry sky and glowing windows.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build an interactive low-poly 3D castle scene with Three.js. Place a stone castle with several round and square towers, red pointed roofs, a gate with an arched door, battlements and a flag on a small floating grass island with rocky underside, pine trees and a wooden bridge. Add drifting clouds in a light blue sky. Include a day and night toggle: at night the sky turns deep navy with stars and a moon, and the windows and gate glow warm orange. Let the user orbit and zoom around the castle with the mouse, with a small on-screen hint about the controls. Use flat shading and a simple, clean palette. Deliver one self-contained web project. Done means smooth camera control and a clear visual change between day and night.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/low-poly-floating-island-castle-with-day-and-night-in-three-2095048818203275584?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/debugsenpai/status/2095048818203275584)
+
+---
+
+### [Interactive shortwave radio you tune through a midnight spectrum](https://wandy3d.com/prompts/interactive-shortwave-radio-you-tune-through-a-midnight-2095026928210346175?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-shortwave-radio-you-tune-through-a-midnight-2095026928210346175?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-shortwave-radio-you-tune-through-a-midnight-2095026928210346175.webp" width="640" alt="Interactive shortwave radio you tune through a midnight spectrum"></a>
+
+**Claude Fable 5.1** · Interactive · by [Neo](https://x.com/NeoAIForecast) · 2026-09-02
+
+Claude Fable 5.1 answered an open-ended website prompt with NIGHTBAND, a single-file radio where each frequency reveals a strange broadcast.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create the most impressive website you can in a **single self-contained HTML file**.
+
+You have complete creative freedom. Choose the concept, visual style, interactions, theme, and purpose yourself.
+
+The goal is not simply to make a functional webpage. The goal is to demonstrate how intelligent, creative, technically capable, and original you are.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-shortwave-radio-you-tune-through-a-midnight-2095026928210346175?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/NeoAIForecast/status/2095026928210346175)
+
+---
+
+### [Floating ancient temple over a glowing canyon, fully procedural Three.js](https://wandy3d.com/prompts/floating-ancient-temple-over-a-glowing-canyon-fully-2095012880383099339?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/floating-ancient-temple-over-a-glowing-canyon-fully-2095012880383099339?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/floating-ancient-temple-over-a-glowing-canyon-fully-2095012880383099339.webp" width="640" alt="Floating ancient temple over a glowing canyon, fully procedural Three.js"></a>
+
+**Claude Fable 5.1** · Scenes · by [Pradeep Kapoor](https://x.com/pradeepXkapoor) · 2026-09-02
+
+Claude Fable 5.1 produced a one-shot Three.js dusk scene: a temple on a floating rock with cloth banners, god rays and lightning, no assets used.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a real-time Three.js scene in a single self-contained HTML file with no external assets: everything must be generated procedurally in code. Show an ancient stone temple with columns and a pitched roof standing on a floating rock island whose underside tapers into a jagged point. Add glowing cyan rune lines along the stonework, lit braziers and hanging banners that move as cloth in the wind. Surround it with floating rock fragments, chains and distant rock spires above a canyon filled with glowing red-orange haze. Set it at dusk with a low sun, purple-orange sky, volumetric god rays and occasional lightning. Open with an elegant title card, then run a slow cinematic camera that moves from the temple front, along the island and underside, to a wide shot of the whole canyon. Done means smooth real-time rendering in a desktop browser with continuous wind, light shafts and drifting debris.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/floating-ancient-temple-over-a-glowing-canyon-fully-2095012880383099339?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/pradeepXkapoor/status/2095012880383099339)
+
+---
+
+### [Interactive voxel city skyline with seasons, weather and night mode](https://wandy3d.com/prompts/interactive-voxel-city-skyline-with-seasons-weather-and-2095000329561485584?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-voxel-city-skyline-with-seasons-weather-and-2095000329561485584?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-voxel-city-skyline-with-seasons-weather-and-2095000329561485584.webp" width="640" alt="Interactive voxel city skyline with seasons, weather and night mode"></a>
+
+**Claude Fable 5.1** · Scenes · by [Kevin](https://x.com/bienjamyn) · 2026-09-02
+
+Claude Fable 5.1 one-shotted a voxel skyline diorama you can orbit, then switch between rain, snow, fog, sunset and night.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build an interactive voxel city diorama that runs in the browser, preferably with Three.js. Show a compact floating slab of land with a dense downtown of colorful blocky towers, one tall landmark tower with an observation pod, a waterfront with small boats, parks with trees and puffy voxel clouds. Let the user orbit, zoom and pan around the model. Add a small translucent control panel with buttons for seasons and for weather and time of day: clear, rain, snow, fog, sunset and night. Each choice changes sky color, lighting, particles and the look of the ground, for example falling snow, rain streaks, foggy depth, warm evening light and lit windows at night. Keep a soft muted blue-gray background and a clean minimal interface. Done means smooth camera control, readable buildings at every setting and transitions between moods that feel polished.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-voxel-city-skyline-with-seasons-weather-and-2095000329561485584?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/bienjamyn/status/2095000329561485584)
+
+---
+
+### [Isometric 3D life sim in the browser with five autonomous housemates](https://wandy3d.com/prompts/isometric-3d-life-sim-in-the-browser-with-five-autonomous-2094949450196090988?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/isometric-3d-life-sim-in-the-browser-with-five-autonomous-2094949450196090988?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/isometric-3d-life-sim-in-the-browser-with-five-autonomous-2094949450196090988.webp" width="640" alt="Isometric 3D life sim in the browser with five autonomous housemates"></a>
+
+**Claude Fable 5.1** · Games · by [Ridark](https://x.com/ridark_eth) · 2026-09-02
+
+Claude Fable 5.1 produced a Sims-style game: five characters with needs, skills, friendships and a daily routine in a cutaway 3D house.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a browser-based life simulation in an isometric 3D view with no game engine. Show a cutaway house with a kitchen, bedroom, bathroom and office, a garden, a road with passing cars, and five small blocky characters who live there. Each character has needs such as hunger, energy, social, hygiene, fun and bladder that decay over time, plus skills like cooking, coding, charisma and handiness that level up with practice. Characters choose actions on their own: cook, eat, sleep, shower, work, chat, hug, argue or joke, shown in speech bubbles. Add friendship levels between characters, a simple economy with jobs, weekly bills, deliveries and shopping, a day and night cycle, speed controls and an event log. Provide a side panel to inspect a selected character, and let the camera pan, zoom and orbit. Done means the household keeps running without input and the panels update live.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/isometric-3d-life-sim-in-the-browser-with-five-autonomous-2094949450196090988?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/ridark_eth/status/2094949450196090988)
+
+---
+
+### [Voxel village whose villagers are driven by a local LLM](https://wandy3d.com/prompts/voxel-village-whose-villagers-are-driven-by-a-local-llm-2094930970675741171?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/voxel-village-whose-villagers-are-driven-by-a-local-llm-2094930970675741171?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/voxel-village-whose-villagers-are-driven-by-a-local-llm-2094930970675741171.webp" width="640" alt="Voxel village whose villagers are driven by a local LLM"></a>
+
+**Claude Fable 5.1** · Interactive · by [Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01
+
+Claude Fable 5.1 produced a Three.js-style voxel town where six villagers run on a local language model and spread gossip from a single instruction.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a browser-based voxel village simulation. Show a small grass island seen from a tilted overhead camera, with blocky houses in red, blue, green, purple and brown roofs, a domed town hall with a flag on a central plaza, trees, ponds, market stalls and benches. Populate it with tiny villagers who follow scripted routines between homes, workplaces and the plaza. Wire a handful of them to a locally hosted language model through an OpenAI-compatible endpoint so each has a home, a job, a daily routine and a memory, and can chat with neighbours and pass news along. Float speech bubbles above villagers when they talk. Add a side panel listing the selected villager's name, role, mood and recent memories, plus an input where the user can give an instruction to one villager and watch it spread by gossip. Camera: orbit and zoom with the mouse. Deliver one project that runs with a single start command, using Three.js. Done when villagers walk around, talk, and a spoken instruction visibly changes what others do.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/voxel-village-whose-villagers-are-driven-by-a-local-llm-2094930970675741171?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/Tech2Wild/status/2094930970675741171)
+
+---
+
+### [Procedural ascent to floating torii islands facing Mt. Fuji](https://wandy3d.com/prompts/procedural-ascent-to-floating-torii-islands-facing-mt-fuji-2094930804296274414?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/procedural-ascent-to-floating-torii-islands-facing-mt-fuji-2094930804296274414?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-ascent-to-floating-torii-islands-facing-mt-fuji-2094930804296274414.webp" width="640" alt="Procedural ascent to floating torii islands facing Mt. Fuji"></a>
+
+**Claude Fable 5.1** · Scenes · by [Techartist](https://x.com/techartist_) · 2026-09-01
+
+A Claude Fable 5.1 one-shot: a Three.js camera climbs from a sunset valley to floating islands with torii gates above clouds, Fuji on the horizon.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a procedural fantasy world in code as one web page using Three.js, with no external assets. Start in a golden-hour mountain valley with pine forests, a small lake, a wooden fence and warm low sun. Then fly the camera along a path up into the sky past floating rock islands linked by thin bridges or cables, each topped with a red torii gate, with waterfalls pouring off the edges into a sea of clouds. In the distance show a snow-capped Mt. Fuji silhouette, with layered purple and pink haze and a sunset gradient sky. Add soft fog, volumetric-looking light and slow drifting debris. Include a small control panel with presets such as golden hour, night and cinematic camera, sliders for fog and clouds, and a reset button. Style: moody, painterly low-poly shapes with a warm orange-to-violet palette. Done when the cinematic ascent plays smoothly from valley to the gates and the panel changes the lighting live.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/procedural-ascent-to-floating-torii-islands-facing-mt-fuji-2094930804296274414?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/techartist_/status/2094930804296274414)
+
+---
+
+### [Godot racing game with Blender-made car and sunset road](https://wandy3d.com/prompts/godot-racing-game-with-blender-made-car-and-sunset-road-2094925359372284022?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/godot-racing-game-with-blender-made-car-and-sunset-road-2094925359372284022?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/godot-racing-game-with-blender-made-car-and-sunset-road-2094925359372284022.webp" width="640" alt="Godot racing game with Blender-made car and sunset road"></a>
+
+**Claude Fable 5.1** · Games · by [atomic.chat](https://x.com/atomic_chat_hq) · 2026-09-01
+
+A head-to-head test: Claude Fable 5.1 against its predecessor on one racing-game brief; the newer model's car and sunset world looked richer.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a playable racing game in Godot, using Blender through a Blender MCP connection to create the assets. Model a detailed sports car with a spoiler, wheels and body paint, plus roadside environment pieces such as trees, fences and hills. Create a large map with a long winding road suited to extended driving sessions. Implement realistic car handling: acceleration, braking, steering, gears, grip and weight transfer, with a chase camera. Add a simple HUD showing speed, gear and rpm, plus a hint line for controls. Give the world a warm sunset sky with soft lighting so it feels alive while driving. Run it as a standalone Godot project that launches into the drive immediately. Done when the car feels smooth to steer on the whole map, the HUD updates correctly and the models look clearly detailed rather than plain boxes.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/godot-racing-game-with-blender-made-car-and-sunset-road-2094925359372284022?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/atomic_chat_hq/status/2094925359372284022)
+
+---
+
+### [Blender office walkthrough built from a single floor plan](https://wandy3d.com/prompts/blender-office-walkthrough-built-from-a-single-floor-plan-2094925117344428232?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/blender-office-walkthrough-built-from-a-single-floor-plan-2094925117344428232?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/blender-office-walkthrough-built-from-a-single-floor-plan-2094925117344428232.webp" width="640" alt="Blender office walkthrough built from a single floor plan"></a>
+
+**Claude Fable 5.1** · Scenes · by [AGIラボ](https://x.com/ctgptlb) · 2026-09-01
+
+Claude Fable 5.1 took a floor plan and produced a furnished 3D office, stills and a walkthrough video, shown against GPT-5.6 Sol in a comparison.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a Blender project from a single floor plan image. Read the plan and model the interior in 3D: walls, doors, windows, a ceiling with recessed lights, wood floor, and furniture such as sit-stand desks, dual monitors, office chairs, bookshelves filled with props, sofas, a round table, plants and a wall-mounted TV. Use a clean modern palette of soft whites, wood, sage green and orange accents. Set up lighting and materials, then render a set of still images from different rooms and angles. Finally animate a smooth camera walkthrough through the rooms and render it as a video of about 40 seconds. Deliver a Python script or a .blend file plus the rendered stills and the video. Done when the layout matches the plan, rooms are furnished convincingly, and the walkthrough moves through them without clipping into walls.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/blender-office-walkthrough-built-from-a-single-floor-plan-2094925117344428232?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/ctgptlb/status/2094925117344428232)
+
+---
+
+### [Seeded voxel pagoda garden in one Three.js file with day and dusk](https://wandy3d.com/prompts/seeded-voxel-pagoda-garden-in-one-three-js-file-with-day-and-2094916609219461211?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/seeded-voxel-pagoda-garden-in-one-three-js-file-with-day-and-2094916609219461211?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/seeded-voxel-pagoda-garden-in-one-three-js-file-with-day-and-2094916609219461211.webp" width="640" alt="Seeded voxel pagoda garden in one Three.js file with day and dusk"></a>
+
+**Claude Fable 5.1** · Scenes · by [FHILY👑](https://x.com/Oluwaphilemon1) · 2026-09-01
+
+Fable 5.1 wrote a compact Three.js file that builds a voxel garden around a five-tier pagoda, with orbit controls and a day-to-dusk switch.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a procedural voxel diorama in one self-contained HTML file using Three.js, with no downloaded assets or prebuilt models. Show a floating square island garden in early spring with a tall five-tier pagoda in green, red and gold, pink and white cherry trees, pines, bamboo, a small pond with a red arched bridge, a torii gate, stone lanterns, a small tiled-roof house and scattered flowers. Generate everything from a fixed random seed so every load gives the same scene. Merge voxels into a single mesh and cull hidden faces to keep it light. Add a day and dusk lighting toggle: at dusk the sky darkens, lanterns glow and petals drift. Provide orbit by dragging, zoom by scroll or pinch, and an auto-orbit button, with a small title card showing voxel and triangle counts. Done when the scene loads quickly, looks identical on each reload and switches smoothly between day and dusk.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/seeded-voxel-pagoda-garden-in-one-three-js-file-with-day-and-2094916609219461211?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/Oluwaphilemon1/status/2094916609219461211)
+
+---
+
+### [Hard-surface bipedal robot modelled in Blender through MCP](https://wandy3d.com/prompts/hard-surface-bipedal-robot-modelled-in-blender-through-mcp-2094909825561805003?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/hard-surface-bipedal-robot-modelled-in-blender-through-mcp-2094909825561805003?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/hard-surface-bipedal-robot-modelled-in-blender-through-mcp-2094909825561805003.webp" width="640" alt="Hard-surface bipedal robot modelled in Blender through MCP"></a>
+
+**Claude Fable 5.1** · Assets · by [Spectro](https://x.com/Spectromachina) · 2026-09-01
+
+Claude Fable 5.1 modelled a plated, wired biped robot in Blender over MCP; the post compares it with other models on time and token cost.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a detailed bipedal robot model in Blender, driven by a coding agent that talks to Blender through an MCP connection. The robot should be a hard-surface machine in neutral grey metal: a torso block with a backpack frame, articulated legs with pistons and foot plates, slim arms, and organised cables and armour plates that follow a clear design rather than random shapes. Place it on a flat grey pad in a plain studio-style scene with a grid floor. Work step by step: block out the main masses, name and group every part, then add plates, wires and joints, checking the viewport after each stage. Keep to the given design brief and do not add extra parts that were not requested. Deliver the finished .blend scene with a tidy outliner, readable object names and a posed front view. Done means the robot reads as one coherent machine from every angle and each wire and plate has an obvious purpose.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/hard-surface-bipedal-robot-modelled-in-blender-through-mcp-2094909825561805003?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/Spectromachina/status/2094909825561805003)
+
+---
+
+### [Low-poly open-world city game with walking, driving and a minimap](https://wandy3d.com/prompts/low-poly-open-world-city-game-with-walking-driving-and-a-2094907986942591338?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/low-poly-open-world-city-game-with-walking-driving-and-a-2094907986942591338?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/low-poly-open-world-city-game-with-walking-driving-and-a-2094907986942591338.webp" width="640" alt="Low-poly open-world city game with walking, driving and a minimap"></a>
+
+**Claude Fable 5.1** · Games · by [Veee](https://x.com/vikktorrrre) · 2026-09-01
+
+Asked for a GTA-style clone, Claude Fable 5.1 produced a blocky open-world city where you walk, drive cars and watch a wanted-star HUD and minimap.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+GTA 6 clone game
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/low-poly-open-world-city-game-with-walking-driving-and-a-2094907986942591338?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/vikktorrrre/status/2094907986942591338)
+
+---
+
+### [Side-scrolling jetpack shooter with loadouts, shown against Kimi K3](https://wandy3d.com/prompts/side-scrolling-jetpack-shooter-with-loadouts-shown-against-2094900523900219725?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/side-scrolling-jetpack-shooter-with-loadouts-shown-against-2094900523900219725?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/side-scrolling-jetpack-shooter-with-loadouts-shown-against-2094900523900219725.webp" width="640" alt="Side-scrolling jetpack shooter with loadouts, shown against Kimi K3"></a>
+
+**Claude Fable 5.1** · Games · by [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-01
+
+A head-to-head: Claude Fable 5.1 and Kimi K3 each built a Mini Militia-style jetpack shooter from the same prompt, with menus, loadouts and bot matches.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a 2D side-scrolling jetpack shooter in the spirit of a classic doodle-army arena game, playable in the browser. Include a title screen with a bold logo and a menu for play, loadout, character and settings. The player is a small soldier with a jetpack who flies between floating platforms and a ground level over a layered forest-and-mountain backdrop with a glowing sun. Provide weapon selection with stat bars, a character colour customiser, a match timer, a health and fuel readout, kill and elimination messages and a score for the opposing bots. Add simple smoke and explosion effects when shots land. Keep the art flat and colourful with parallax scenery. Deliver one self-contained HTML file with keyboard and mouse controls for moving, thrusting, aiming and firing. Done means a full match can be played from the title screen to an elimination and a restart.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/side-scrolling-jetpack-shooter-with-loadouts-shown-against-2094900523900219725?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/0x0SojalSec/status/2094900523900219725)
+
+---
+
+### [Interactive 3D ocean storm sandbox with sliders and a glass-tank view](https://wandy3d.com/prompts/interactive-3d-ocean-storm-sandbox-with-sliders-and-a-glass-2094900247000654222?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-3d-ocean-storm-sandbox-with-sliders-and-a-glass-2094900247000654222?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-ocean-storm-sandbox-with-sliders-and-a-glass-2094900247000654222.webp" width="640" alt="Interactive 3D ocean storm sandbox with sliders and a glass-tank view"></a>
+
+**Claude Fable 5.1** · Interactive · by [Tim Jayas](https://x.com/TimJayas) · 2026-09-01
+
+Same prompt, two models: Claude Fable 5.1 drew a stormy sea with rain and lightning controls and was judged ahead of Claude Opus 5 in the post.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build an interactive 3D ocean sandbox that runs in the browser. Show a first-person view from sea level looking over rolling waves under a heavy grey storm sky, with teal water, foam, falling rain and occasional lightning strikes. Add a side control panel with sliders for swell height, wind, rainfall, lightning frequency and a storm intensity, plus a button to trigger a strike and quality presets for low, medium and high. Offer a second view that shows the sea as a cutaway block inside a glass tank so the wave shape can be seen from outside. Let the user drag to look around and scroll to change the camera. Keep the interface clean and light with small labels and readouts. Deliver one self-contained HTML file using Three.js and custom water shaders. Done means changing any slider visibly alters the waves and weather in real time without dropping the frame rate.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-3d-ocean-storm-sandbox-with-sliders-and-a-glass-2094900247000654222?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/TimJayas/status/2094900247000654222)
+
+---
+
+### [Autumn floating voxel island with a windmill and waterfall](https://wandy3d.com/prompts/autumn-floating-voxel-island-with-a-windmill-and-waterfall-2094899802588713418?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/autumn-floating-voxel-island-with-a-windmill-and-waterfall-2094899802588713418?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/autumn-floating-voxel-island-with-a-windmill-and-waterfall-2094899802588713418.webp" width="640" alt="Autumn floating voxel island with a windmill and waterfall"></a>
+
+**Claude Fable 5.1** · Scenes · by [Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01
+
+Claude Fable 5.1 produced a voxel diorama of a floating autumn island with a spinning windmill; the author found it fine but pricey in tokens.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build an autumn floating voxel island scene that runs in the browser. Show a large central island of blocky earth with a dark rocky underside, covered in red, orange and golden trees, bushes and a wooden windmill whose sails turn slowly. Let a narrow waterfall spill from the edge into the air. Surround it with several smaller floating islands, each with a tree or small structure, and drifting purple voxel clouds against a soft pink and cream sky. Add falling leaves and tiny floating particles around the island. Use a camera that orbits slowly around the scene, with warm soft lighting and gentle shadows. Keep every object built from cubes with a consistent voxel size. Deliver one self-contained HTML file using Three.js with a small caption in the corner naming the scene. Done means the scene loops smoothly, the windmill rotates and the islands look balanced from every angle.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/autumn-floating-voxel-island-with-a-windmill-and-waterfall-2094899802588713418?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/loktar00/status/2094899802588713418)
+
+---
+
+### [Destructible medieval voxel kingdom with NPCs and a dragon](https://wandy3d.com/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403.webp" width="640" alt="Destructible medieval voxel kingdom with NPCs and a dragon"></a>
+
+**Claude Fable 5.1** · Scenes · by [Knowix](https://x.com/knowixbuilds) · 2026-09-01
+
+Claude Fable 5.1 generated a huge voxel kingdom with a walled castle city, working NPCs, siege gear and destructible buildings you can fly over.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a large medieval voxel kingdom that runs in the browser, ideally as a single self-contained HTML file with a WebGL engine such as Three.js. Generate a terrain of grass, farmland patches in yellow and green, a winding river and a snowy mountain range on the horizon. At the centre place a walled castle city in concentric rings, with a keep, a church with a spire, and hundreds of houses with red, blue and yellow roofs; every building should have a purpose and an interior. Populate it with soldiers and townsfolk who have jobs and react to an invasion, include siege equipment, a fire-breathing dragon and voxel-level destruction. Add a free-flying camera that can move through the streets and rise over the whole map, plus a small side panel of settings sliders. Aim for millions of voxels at a smooth frame rate. Done means the kingdom loads, the camera can roam freely, characters move around, and buildings can be destroyed.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/knowixbuilds/status/2094899477626720403)
+
+---
+
+### [Three small 3D games: sticky ball, capybara river surf, dumpling dodge](https://wandy3d.com/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400.webp" width="640" alt="Three small 3D games: sticky ball, capybara river surf, dumpling dodge"></a>
+
+**Claude Fable 5.1** · Games · by [Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01
+
+A comparison: Claude Fable 5.1 and its predecessor got the same three game prompts, and the newer one finished them at a lower cost.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build three small browser games, each as its own self-contained HTML file with a 3D look. Game one: a sticky ball rolling through a toy city that picks up everything in its path and grows, shown from a chase camera with a score and size readout. Game two: an endless-runner river course where a capybara surfs downstream, steering left and right around logs and buoys, with rings to pass through, a final stretch with a checkered finish line and a placement screen with a replay button. Game three: a dumpling dodging obstacles on an endless conveyor belt in a dim kitchen-like hall with hanging lamps, speeding up over time. Use bright, readable colours, simple keyboard or touch steering, a restart option, and a distance or timer HUD. Done means each game starts, scores and ends cleanly.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/atomicagent_io/status/2094895071304839400)
+
+---
+
+[← Previous](catalog.en.6.md) · page 7 of 8 · [Next →](catalog.en.8.md)
 
 Prompts, videos and images belong to their authors ([RIGHTS.md](../RIGHTS.md)). Our editorial text is [CC BY 4.0](../LICENSE). Know a great prompt with a visible result? [Suggest it](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Are you an author and want an entry changed or removed? [Tell us](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

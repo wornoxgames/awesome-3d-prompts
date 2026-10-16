@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 4/7
+# Awesome 3D Prompts — Каталог 4/8
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Назад](catalog.ru.3.md) · страница 4 из 7 · [Дальше →](catalog.ru.5.md)
+[← Назад](catalog.ru.3.md) · страница 4 из 8 · [Дальше →](catalog.ru.5.md)
 
 ### [Взрыв-схема японского цветочного магазина в Blender: анимация](https://wandy3d.com/ru/prompts/exploded-view-animation-of-a-pastel-japanese-flower-shop-in-2097153139795468365?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1262,6 +1262,6 @@ Build a Blender scene, delivered as a Python script, that recreates a grand rive
 
 ---
 
-[← Назад](catalog.ru.3.md) · страница 4 из 7 · [Дальше →](catalog.ru.5.md)
+[← Назад](catalog.ru.3.md) · страница 4 из 8 · [Дальше →](catalog.ru.5.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

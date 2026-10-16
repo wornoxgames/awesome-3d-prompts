@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — カタログ 7/7
+# Awesome 3D Prompts — カタログ 7/8
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · **日本語** · [中文](catalog.zh.1.md)
 
-[← 前へ](catalog.ja.6.md) · 7 ページ中 7 ページ目
+[← 前へ](catalog.ja.6.md) · 8 ページ中 7 ページ目 · [次へ →](catalog.ja.8.md)
 
 ### [クラフト・村・農業つきの一人称ボクセルサバイバルゲーム](https://wandy3d.com/ja/prompts/first-person-voxel-survival-game-with-crafting-villages-and-2095597137849446688?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -363,6 +363,705 @@ Build a 3D city street scene in Blender, driven through a Blender MCP connection
 
 ---
 
-[← 前へ](catalog.ja.6.md) · 7 ページ中 7 ページ目
+### [Three.jsで作るマルチプレイ対応の帆船航海ワールド](https://wandy3d.com/ja/prompts/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600.webp" width="640" alt="Three.jsで作るマルチプレイ対応の帆船航海ワールド"></a>
+
+**Claude Fable 5.1** · ゲーム · 作者 [Aman](https://x.com/aman_kambojj) · 2026-09-02
+
+Claude Fable 5.1がThree.jsでローポリの共有海を生成。島や海域を巡って帆船を操り、コンパスとHUDも表示される。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a multiplayer sailing game as a Three.js web app. The player steers a wooden pirate ship with striped sails across a large low-poly ocean with rolling dark-blue waves, foam trails behind the hull and a bright sky with chunky white floating rocks. Scatter islands, named regions and other players' ships, each with a floating name label. Use a chase camera that can also swing close to the deck, a compass in a corner, and a small HUD showing speed, region, camera mode and crew count. Change the sky and water tint by region, including a dark starry area. Add a server using WebSockets so several players see each other's ships move in real time. Keep the art simple: flat-shaded geometry, soft fog and a limited palette. Done when two browser tabs can sail the same sea, the ship rides the waves, and the HUD and compass update as you travel.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/aman_kambojj/status/2095137561283010600)
+
+---
+
+### [Blenderでフォトリアルにレンダリングしたプール付きモダンガラス邸](https://wandy3d.com/ja/prompts/modern-glass-villa-with-pool-rendered-photorealistically-in-2095132939667255657?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/modern-glass-villa-with-pool-rendered-photorealistically-in-2095132939667255657?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/modern-glass-villa-with-pool-rendered-photorealistically-in-2095132939667255657.webp" width="640" alt="Blenderでフォトリアルにレンダリングしたプール付きモダンガラス邸"></a>
+
+**Claude Fable 5.1** · シーン · 作者 [Ben](https://x.com/alafrayme) · 2026-09-02
+
+Claude Fable 5.1とBlenderで仕上げた邸宅のレンダー。石の柱、ガラス壁、家具付きの室内、手前のプールが見どころ。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a photorealistic architectural visualization in Blender, scripted with Python. Model a modern two-storey villa with a white concrete slab between floors, two pitched standing-seam metal roofs, floor-to-ceiling glass sliding doors and tall stone-clad pillars. Furnish the open interior: a dining table with chairs, a green sofa, a bookcase wall, a kitchen with pendant lamps, a staircase, a plant and a white lounge sofa. Add a terrace and a swimming pool in the foreground with rippled water reflecting the facade. Light with a soft daytime sky, warm interior lamps and ceiling panels. Frame a wide, straight-on camera at eye level from the pool edge, and render with Cycles at a sharp resolution. Done when the script produces the house, furniture, pool and a clean still render, and every element can be tweaked by changing named parameters.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/modern-glass-villa-with-pool-rendered-photorealistically-in-2095132939667255657?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/alafrayme/status/2095132939667255657)
+
+---
+
+### [腫瘍の増殖・浸潤・転移を段階的に見せるインタラクティブ3D解説](https://wandy3d.com/ja/prompts/interactive-3d-explainer-of-how-a-tumour-grows-invades-and-2095130778342408331?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/interactive-3d-explainer-of-how-a-tumour-grows-invades-and-2095130778342408331?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-explainer-of-how-a-tumour-grows-invades-and-2095130778342408331.webp" width="640" alt="腫瘍の増殖・浸潤・転移を段階的に見せるインタラクティブ3D解説"></a>
+
+**Claude Fable 5.1** · インタラクティブ · 作者 [Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-02
+
+Claude Fable 5.1が、突然変異した1つの細胞から血管新生と浸潤まで、字幕とラベル付きで見せる3Dシミュレーションを作成。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build an interactive 3D educational simulation that explains how cancer develops and spreads, as a self-contained web app. Show a layer of soft pink cells sitting on a translucent basement membrane above a blood vessel with red blood cells. Guide the viewer through numbered steps: healthy tissue, one cell with DNA damage that escapes cell death, uncontrolled division into a tumour, a necrotic core releasing VEGF signals, new blood vessels growing toward it, invasion through the membrane, and spread to other places. Each step has a short caption at the bottom, a text panel in a corner with a plain explanation, floating labels on key structures, and a progress indicator. Add play, pause, replay and step controls, plus orbit camera control. Use a calm pastel palette with deeper reds and purples for diseased cells. Done when all steps play in order with smooth camera moves and readable text.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/interactive-3d-explainer-of-how-a-tumour-grows-invades-and-2095130778342408331?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/viewsfrom02108/status/2095130778342408331)
+
+---
+
+### [Three.js宇宙ゲームの隕石分裂VFXを強化するビフォーアフター](https://wandy3d.com/ja/prompts/meteoroid-break-up-vfx-upgrade-for-a-three-js-space-game-2095127248470692320?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/meteoroid-break-up-vfx-upgrade-for-a-three-js-space-game-2095127248470692320?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/meteoroid-break-up-vfx-upgrade-for-a-three-js-space-game-2095127248470692320.webp" width="640" alt="Three.js宇宙ゲームの隕石分裂VFXを強化するビフォーアフター"></a>
+
+**Claude Fable 5.1** · アニメーション · 作者 [Dmytro Gladkyi 🔳](https://x.com/gladimdim) · 2026-09-02
+
+Claude Fable 5.1に一行で隕石分裂エフェクトの改善を頼むと、尾の強化、衝撃波、破片の増加、パフォーマンス修正まで返ってきました。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+check the existing meteoroid break up vfx, enhance it
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/meteoroid-break-up-vfx-upgrade-for-a-three-js-space-game-2095127248470692320?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/gladimdim/status/2095127248470692320)
+
+---
+
+### [Three.jsで作る2段階LOD付きの強襲ポッド宇宙船](https://wandy3d.com/ja/prompts/procedural-assault-pod-spaceship-with-two-lods-in-three-js-2095126622319845478?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/procedural-assault-pod-spaceship-with-two-lods-in-three-js-2095126622319845478?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-assault-pod-spaceship-with-two-lods-in-three-js-2095126622319845478.webp" width="640" alt="Three.jsで作る2段階LOD付きの強襲ポッド宇宙船"></a>
+
+**Claude Fable 5.1** · アセット · 作者 [Dmytro Gladkyi 🔳](https://x.com/gladimdim) · 2026-09-02
+
+Claude Fable 5.1が一度のプロンプトでゲーム用の輸送艦を作り直し、三角形の上限内で高精細版と低ポリ版をコードで生成しました。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+redesign from scratch the 3D models (high and low fidelity) for the assault pod. they look ugly atm. It must be an ship carying thousands of infantry and tanks to drop onto space stations, planets, etc. I give you 20000  tris budget for high fidelity and 4000 for low LOD
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/procedural-assault-pod-spaceship-with-two-lods-in-three-js-2095126622319845478?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/gladimdim/status/2095126622319845478)
+
+---
+
+### [座席ビュー付きのインタラクティブ3Dサッカースタジアム販売サイト](https://wandy3d.com/ja/prompts/interactive-3d-football-stadium-ticketing-site-with-seat-2095123216419459454?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/interactive-3d-football-stadium-ticketing-site-with-seat-2095123216419459454?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-football-stadium-ticketing-site-with-seat-2095123216419459454.webp" width="640" alt="座席ビュー付きのインタラクティブ3Dサッカースタジアム販売サイト"></a>
+
+**Claude Fable 5.1** · シーン · 作者 [The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-02
+
+Claude Fable 5.1がスタジアムのサイトを再構築。回して見られる3D会場、席の選択、座席視点を備えますが、作者は前より劣ると評価しています。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a single-page ticketing website around an interactive 3D football stadium. Use a dark navy interface with blue accents: a top navigation bar, a match header with two team flags, and a side panel that shows the selected section, seat and price with a checkout button. In the main view render a full stadium bowl with a green pitch, tiers of colour-coded seating sections, floodlights and a roof ring. Let visitors orbit and zoom the camera, click a section to highlight it, and switch to a first-person seat view that shows the pitch and crowd from that seat. Add camera controls and view toggles at the bottom. Use Three.js with procedurally generated geometry. Done means the stadium is smooth to navigate, sections are selectable, the seat view works, and the side panel updates with each choice.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/interactive-3d-football-stadium-ticketing-site-with-seat-2095123216419459454?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/thebuggeddev/status/2095123216419459454)
+
+---
+
+### [GLSLフレネルシェーダーで3D恐竜が動くホログラム風ディノ図鑑](https://wandy3d.com/ja/prompts/holographic-dino-dex-with-live-3d-dinosaurs-and-a-glsl-2095121568297083067?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/holographic-dino-dex-with-live-3d-dinosaurs-and-a-glsl-2095121568297083067?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/holographic-dino-dex-with-live-3d-dinosaurs-and-a-glsl-2095121568297083067.webp" width="640" alt="GLSLフレネルシェーダーで3D恐竜が動くホログラム風ディノ図鑑"></a>
+
+**Claude Fable 5.1** · インタラクティブ · 作者 [Benji Viz](https://x.com/_Benviz) · 2026-09-02
+
+Claude Fable 5.1が作ったネオン調の恐竜図鑑。8体の3Dモデルがブラウザ上のWebGLでリアルタイム描画され、独自のフレネルシェーダーで光ります。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a single web page called a dino-dex: a holographic field guide to dinosaurs. Use a dark background with neon gradient title text and a responsive grid of cards. Each card has a live 3D dinosaur rendered in the browser, tinted in its own neon colour such as red, orange, cyan, green, blue, pink and violet, shaded with a custom GLSL fresnel rim effect and scan lines instead of a lighting rig. Under each model show the species name, a one-line description and glowing stat bars like bite force, speed and armour. Use one small WebGL canvas per card, around eight in total, and slowly rotate each dinosaur. Add hover highlights and smooth scrolling. Done means all eight species render in the browser at once, look clearly holographic, and the page stays responsive.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/holographic-dino-dex-with-live-3d-dinosaurs-and-a-glsl-2095121568297083067?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/_Benviz/status/2095121568297083067)
+
+---
+
+### [Three.jsで作るガラス瓶の中のボクセル嵐の海](https://wandy3d.com/ja/prompts/living-voxel-ocean-storm-inside-a-glass-bottle-in-three-js-2095111213927510131?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/living-voxel-ocean-storm-inside-a-glass-bottle-in-three-js-2095111213927510131?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/living-voxel-ocean-storm-inside-a-glass-bottle-in-three-js-2095111213927510131.webp" width="640" alt="Three.jsで作るガラス瓶の中のボクセル嵐の海"></a>
+
+**Claude Fable 5.1** · シーン · 作者 [Vib3Coded](https://x.com/vib3coded) · 2026-09-02
+
+同じお題で2モデルを比べた中の1作。Claude Fable 5.1は、船、灯台、雨、雷、大海蛇が動く瓶詰めのボクセル海を作りました。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a living, interactive voxel diorama inside a glass bottle lying on a wooden dock, as one self-contained Three.js page. Fill the bottle with about 1,700 animated voxel columns forming a rolling blue ocean, a wooden sailing ship, a striped lighthouse, a small palm island, an old shipwreck, seagulls and jumping fish. Add a storm cycle: dark sky, falling rain, lightning flashes and a giant sea serpent rising from the waves. Include a paper label on the dock reading the name of the scene. Keep every element clipped inside the glass so nothing pokes through. Let the user orbit the camera with the mouse. Use warm wood tones against deep teal water and a glass material with subtle reflections. Done means the scene runs smoothly, the weather changes, and no geometry leaves the bottle.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/living-voxel-ocean-storm-inside-a-glass-bottle-in-three-js-2095111213927510131?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/vib3coded/status/2095111213927510131)
+
+---
+
+### [ロゴキーが次々に現れ、カメラが駆け抜ける3Dキーボードアニメ](https://wandy3d.com/ja/prompts/3d-keyboard-animation-with-popping-logo-keycaps-and-camera-2095111032171876470?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/3d-keyboard-animation-with-popping-logo-keycaps-and-camera-2095111032171876470?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/3d-keyboard-animation-with-popping-logo-keycaps-and-camera-2095111032171876470.webp" width="640" alt="ロゴキーが次々に現れ、カメラが駆け抜ける3Dキーボードアニメ"></a>
+
+**Claude Fable 5.1** · アニメーション · 作者 [rege](https://x.com/rege_dev) · 2026-09-02
+
+Claude Fable 5.1が、ロゴ入りキーが順に浮かび上がりカメラが横切る、編集可能な青いキーボードの3Dアニメを生成。紙吹雪の演出も入ります。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build an animated 3D short of a chunky pastel-blue mechanical keyboard on a soft grey backdrop. Keycaps are rounded and white, with a few dark ones carrying simple app-style logos. The keys pop up one after another with a springy motion while the camera glides low across the rows, swoops in close on single keys, and finally pulls back to reveal keycaps spelling a short title. Add small confetti bursts when keys land and gentle depth of field. Structure the scene so every key, camera move and effect sits on an editable timeline with clear parameters, so an AI agent or a person can retime or restyle it later. Deliver a single project that plays in the browser, about 30 seconds long, with play and scrub controls. Done means the camera path is smooth, the key animation is readable, and the final title is legible.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/3d-keyboard-animation-with-popping-logo-keycaps-and-camera-2095111032171876470?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/rege_dev/status/2095111032171876470)
+
+---
+
+### [パーツを付け替えられるガンダム風メカのThree.jsコンフィギュレーター](https://wandy3d.com/ja/prompts/gundam-inspired-mecha-configurator-with-swappable-parts-in-2095106919530930221?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/gundam-inspired-mecha-configurator-with-swappable-parts-in-2095106919530930221?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/gundam-inspired-mecha-configurator-with-swappable-parts-in-2095106919530930221.webp" width="640" alt="パーツを付け替えられるガンダム風メカのThree.jsコンフィギュレーター"></a>
+
+**Claude Fable 5.1** · インタラクティブ · 作者 [Crayon](https://x.com/usecrayon) · 2026-09-02
+
+Claude Fable 5.1が、白・青・赤のメカを表示するThree.jsビューアを生成。機体選択、頭部や武器の交換、軌道カメラ操作に対応します。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build an interactive 3D mecha configurator as a single web page using Three.js. Show a blocky, hard-surface robot in white with blue and red accents, standing on a pale warm-beige floor with a soft shadow. Add a clean light side panel with a roster of three mech units, dropdowns for head crest, weapon and back pack, a presentation section with turntable, hard outlines and ground shadow toggles, and front, three-quarter, side and back camera buttons. Changing a dropdown should instantly swap the matching part on the model, such as a beam rifle or a heavy cannon. Support drag to orbit and scroll to zoom. Include a small readout with part and colour counts. Done means switching units and parts works smoothly and the mech reads clearly from every angle.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/gundam-inspired-mecha-configurator-with-swappable-parts-in-2095106919530930221?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/usecrayon/status/2095106919530930221)
+
+---
+
+### [アフターバーナーとHUD付きのF-35A戦闘機インタラクティブビューア](https://wandy3d.com/ja/prompts/interactive-f-35a-fighter-jet-viewer-with-afterburner-and-2095094543339446572?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/interactive-f-35a-fighter-jet-viewer-with-afterburner-and-2095094543339446572?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-f-35a-fighter-jet-viewer-with-afterburner-and-2095094543339446572.webp" width="640" alt="アフターバーナーとHUD付きのF-35A戦闘機インタラクティブビューア"></a>
+
+**Claude Fable 5.1** · インタラクティブ · 作者 [Edgex](https://x.com/SahilExec) · 2026-09-02
+
+Fable 5.1がコードだけで描いたF-35A。コンパス状の床に置かれた暗色のステルス機を回転でき、アフターバーナーも光ります。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build an interactive 3D viewer for a detailed F-35A fighter jet, generated entirely in code with no external model files. Model the stealth airframe in dark matte grey with canopy, twin tails, intake and exhaust nozzle. Place it on a dark studio floor with a circular compass dial etched into the ground and a soft spotlight. Add a slim HUD-style interface with a left list of controls and a bottom toolbar. Support orbit, zoom to fine details, and a showcase camera that circles the jet. Include toggles for engine afterburner glow, landing gear and lighting. Done means the aircraft looks convincing from every angle, the controls respond smoothly and the afterburner flame appears when switched on. Deliver it as a single web page.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/interactive-f-35a-fighter-jet-viewer-with-afterburner-and-2095094543339446572?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/SahilExec/status/2095094543339446572)
+
+---
+
+### [白背景のモバイルページで回るThree.js製ブロック調ザクII](https://wandy3d.com/ja/prompts/blocky-green-zaku-ii-mech-in-three-js-on-a-clean-white-2095085944391270759?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/blocky-green-zaku-ii-mech-in-three-js-on-a-clean-white-2095085944391270759?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/blocky-green-zaku-ii-mech-in-three-js-on-a-clean-white-2095085944391270759.webp" width="640" alt="白背景のモバイルページで回るThree.js製ブロック調ザクII"></a>
+
+**Claude Fable 5.1** · アセット · 作者 [Hakuei](https://x.com/akiba_tokyo_jp) · 2026-09-02
+
+Fable 5.1 Maxで、赤く光るモノアイとスパイク付き肩を持つ緑のザクIIをThree.jsで制作。白い背景でターンテーブル表示します。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a mobile-first 3D showcase of a green blocky mobile-suit style mech inspired by a classic anime robot, using Three.js. Construct the model from simple rounded primitives: a domed head with a glowing red mono-eye and a visor slit, a spiked shoulder pauldron, a shield panel on the other arm, ribbed hose details, dark joints and a hand-held machine gun. Use a clean off-white background so the robot stands out, with soft shadows beneath it. Add a large bold title at the bottom with a small Japanese subtitle, small monospace labels in the corners, and two round buttons. The camera slowly orbits and tilts through front, side, back and top-down views, and the user can drag to rotate. Done means the silhouette and the eye read clearly on a phone screen.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/blocky-green-zaku-ii-mech-in-three-js-on-a-clean-white-2095085944391270759?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/akiba_tokyo_jp/status/2095085944391270759)
+
+---
+
+### [WebGL製の単一HTMLで動く「生きている宇宙」シミュレーション](https://wandy3d.com/ja/prompts/living-universe-simulation-in-a-single-webgl-html-file-2095054116372508955?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/living-universe-simulation-in-a-single-webgl-html-file-2095054116372508955?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/living-universe-simulation-in-a-single-webgl-html-file-2095054116372508955.webp" width="640" alt="WebGL製の単一HTMLで動く「生きている宇宙」シミュレーション"></a>
+
+**Claude Fable 5.1** · インタラクティブ · 作者 [Alex Luhchenko](https://x.com/tiny_frontier) · 2026-09-02
+
+Claude Fable 5.1が空のフォルダから自己完結の宇宙を生成。重力で動く銀河、ブラックホール、惑星の形成、生成音を備えます。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+build a living universe in one HTML file.
+
+No npm, libraries, CDN, assets or network requests.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/living-universe-simulation-in-a-single-webgl-html-file-2095054116372508955?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/tiny_frontier/status/2095054116372508955)
+
+---
+
+### [霧の街を舞台にしたC++製ゴシック系ソウルライクアクション](https://wandy3d.com/ja/prompts/gothic-souls-like-action-game-in-native-c-with-foggy-streets-2095053114600755576?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/gothic-souls-like-action-game-in-native-c-with-foggy-streets-2095053114600755576?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/gothic-souls-like-action-game-in-native-c-with-foggy-streets-2095053114600755576.webp" width="640" alt="霧の街を舞台にしたC++製ゴシック系ソウルライクアクション"></a>
+
+**Claude Fable 5.1** · ゲーム · 作者 [wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz) · 2026-09-02
+
+Claude Fable 5.1がエンジンなしのC++でBloodborne風ゲームを制作。コートの狩人、霧、敵とボスが登場。脚のアニメは要改善です。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a third-person gothic action game in native C++ with no game engine. Set it in a foggy Victorian city at night: cobblestone streets, gas lamps, iron fences, coffins, barrels, carts and tall dark buildings with lit windows. Use a cold blue-grey palette with warm lamp glows and red blood effects. The player is a hunter in a red coat and hat with a melee weapon, a dodge, a health bar, a stamina bar and a consumable counter. Add enemies with their own animations and a large boss with a visible health bar at the end of a street. Include basic progression, hit effects, sound effects and music, all generated in code. Controls: move, camera, attack, dodge, use item. Deliver a buildable C++ project with instructions. Done means you can explore the street, fight enemies, and reach and fight the boss with believable character animation.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/gothic-souls-like-action-game-in-native-c-with-foggy-streets-2095053114600755576?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/wizardbrainz/status/2095053114600755576)
+
+---
+
+### [周回カメラと手順ログ付きの3Dヘビとはしごのボードゲーム](https://wandy3d.com/ja/prompts/3d-snakes-and-ladders-board-game-with-orbit-camera-and-move-2095050993184669825?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/3d-snakes-and-ladders-board-game-with-orbit-camera-and-move-2095050993184669825?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/3d-snakes-and-ladders-board-game-with-orbit-camera-and-move-2095050993184669825.webp" width="640" alt="周回カメラと手順ログ付きの3Dヘビとはしごのボードゲーム"></a>
+
+**Claude Fable 5.1** · ゲーム · 作者 [KC](https://x.com/karanC_12) · 2026-09-02
+
+Claude Fable 5.1が2人対戦のヘビとはしごを生成。縞模様の3Dヘビ、木のはしご、転がるサイコロ、ターンログを備えます。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a playable 3D Snakes and Ladders board game that runs in the browser. Show a square wooden board with a numbered grid, wooden ladders and thick, colorful striped snakes connecting squares, plus a physical dice that rolls beside the board. Support two players, Ruby and Sky, with coloured pawns that move square by square, climb ladders and slide down snakes. Add a clean light side panel with the current turn, a roll button, player progress bars and a scrolling move log. Let the user orbit and zoom the camera around the board, with soft shadows under it. Use a bright, friendly palette on a white background. Deliver one self-contained web project. Done means a full game can be played from start to finish with a winner declared.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/3d-snakes-and-ladders-board-game-with-orbit-camera-and-move-2095050993184669825?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/karanC_12/status/2095050993184669825)
+
+---
+
+### [写真を3Dボクセル化する波アニメ付きThree.jsスタジオ](https://wandy3d.com/ja/prompts/photo-to-3d-voxel-studio-with-wave-motion-in-three-js-2095048967092625663?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/photo-to-3d-voxel-studio-with-wave-motion-in-three-js-2095048967092625663?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/photo-to-3d-voxel-studio-with-wave-motion-in-three-js-2095048967092625663.webp" width="640" alt="写真を3Dボクセル化する波アニメ付きThree.jsスタジオ"></a>
+
+**Claude Fable 5.1** · インタラクティブ · 作者 [Manoj Builds](https://x.com/TenthPrime) · 2026-09-02
+
+Claude Fable 5.1の協力で、ポートレートを1万個超のインスタンス3D図形に変換するThree.jsツールを制作。波操作とGIF/PNG出力付きです。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a browser tool in Three.js that turns an uploaded photo into an interactive field of more than ten thousand 3D pixels. Sample the image on a grid and render each cell as an instanced sphere, cube or cylinder coloured from the photo, so the whole field costs a single draw call and stays near 60 FPS. Add a dark background and a compact control panel with an image upload, a shape selector, a material theme selector (original colours, metallic, neon), sliders for grid resolution, wave amplitude, wave speed and depth extrusion, an auto-rotate toggle, and buttons to export an animated GIF and a high-resolution PNG. Animate the voxels with a travelling 3D wave displacement and allow orbiting and zooming close to see individual shapes. Done means any portrait can be dropped in and explored live.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/photo-to-3d-voxel-studio-with-wave-motion-in-three-js-2095048967092625663?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/TenthPrime/status/2095048967092625663)
+
+---
+
+### [昼夜が切り替わるThree.js製ローポリの浮島の城](https://wandy3d.com/ja/prompts/low-poly-floating-island-castle-with-day-and-night-in-three-2095048818203275584?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/low-poly-floating-island-castle-with-day-and-night-in-three-2095048818203275584?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/low-poly-floating-island-castle-with-day-and-night-in-three-2095048818203275584.webp" width="640" alt="昼夜が切り替わるThree.js製ローポリの浮島の城"></a>
+
+**Claude Fable 5.1** · シーン · 作者 [Jigs](https://x.com/debugsenpai) · 2026-09-02
+
+Claude Fable 5.1が、橋や木々のある浮島の城をThree.jsで制作。夜は星空と窓の明かりに切り替わり、自由に周回できます。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build an interactive low-poly 3D castle scene with Three.js. Place a stone castle with several round and square towers, red pointed roofs, a gate with an arched door, battlements and a flag on a small floating grass island with rocky underside, pine trees and a wooden bridge. Add drifting clouds in a light blue sky. Include a day and night toggle: at night the sky turns deep navy with stars and a moon, and the windows and gate glow warm orange. Let the user orbit and zoom around the castle with the mouse, with a small on-screen hint about the controls. Use flat shading and a simple, clean palette. Deliver one self-contained web project. Done means smooth camera control and a clear visual change between day and night.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/low-poly-floating-island-castle-with-day-and-night-in-three-2095048818203275584?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/debugsenpai/status/2095048818203275584)
+
+---
+
+### [真夜中のスペクトルを選局して聴く、インタラクティブな短波ラジオ](https://wandy3d.com/ja/prompts/interactive-shortwave-radio-you-tune-through-a-midnight-2095026928210346175?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/interactive-shortwave-radio-you-tune-through-a-midnight-2095026928210346175?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-shortwave-radio-you-tune-through-a-midnight-2095026928210346175.webp" width="640" alt="真夜中のスペクトルを選局して聴く、インタラクティブな短波ラジオ"></a>
+
+**Claude Fable 5.1** · インタラクティブ · 作者 [Neo](https://x.com/NeoAIForecast) · 2026-09-02
+
+Claude Fable 5.1が自由課題のサイト依頼から作ったNIGHTBAND。周波数ごとに奇妙な放送が現れる、単一HTMLのラジオです。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+Create the most impressive website you can in a **single self-contained HTML file**.
+
+You have complete creative freedom. Choose the concept, visual style, interactions, theme, and purpose yourself.
+
+The goal is not simply to make a functional webpage. The goal is to demonstrate how intelligent, creative, technically capable, and original you are.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/interactive-shortwave-radio-you-tune-through-a-midnight-2095026928210346175?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/NeoAIForecast/status/2095026928210346175)
+
+---
+
+### [光る渓谷の上に浮かぶ古代神殿、完全プロシージャルのThree.jsシーン](https://wandy3d.com/ja/prompts/floating-ancient-temple-over-a-glowing-canyon-fully-2095012880383099339?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/floating-ancient-temple-over-a-glowing-canyon-fully-2095012880383099339?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/floating-ancient-temple-over-a-glowing-canyon-fully-2095012880383099339.webp" width="640" alt="光る渓谷の上に浮かぶ古代神殿、完全プロシージャルのThree.jsシーン"></a>
+
+**Claude Fable 5.1** · シーン · 作者 [Pradeep Kapoor](https://x.com/pradeepXkapoor) · 2026-09-02
+
+Claude Fable 5.1がワンショットで作った夕暮れのThree.jsシーン。浮遊岩の神殿に布の旗、光の筋、稲妻。外部アセットは不使用です。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a real-time Three.js scene in a single self-contained HTML file with no external assets: everything must be generated procedurally in code. Show an ancient stone temple with columns and a pitched roof standing on a floating rock island whose underside tapers into a jagged point. Add glowing cyan rune lines along the stonework, lit braziers and hanging banners that move as cloth in the wind. Surround it with floating rock fragments, chains and distant rock spires above a canyon filled with glowing red-orange haze. Set it at dusk with a low sun, purple-orange sky, volumetric god rays and occasional lightning. Open with an elegant title card, then run a slow cinematic camera that moves from the temple front, along the island and underside, to a wide shot of the whole canyon. Done means smooth real-time rendering in a desktop browser with continuous wind, light shafts and drifting debris.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/floating-ancient-temple-over-a-glowing-canyon-fully-2095012880383099339?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/pradeepXkapoor/status/2095012880383099339)
+
+---
+
+### [季節・天気・夜モードを切り替えられるインタラクティブなボクセル都市](https://wandy3d.com/ja/prompts/interactive-voxel-city-skyline-with-seasons-weather-and-2095000329561485584?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/interactive-voxel-city-skyline-with-seasons-weather-and-2095000329561485584?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-voxel-city-skyline-with-seasons-weather-and-2095000329561485584.webp" width="640" alt="季節・天気・夜モードを切り替えられるインタラクティブなボクセル都市"></a>
+
+**Claude Fable 5.1** · シーン · 作者 [Kevin](https://x.com/bienjamyn) · 2026-09-02
+
+Claude Fable 5.1がワンショットで作ったボクセルの都市ジオラマ。回転して、雨・雪・霧・夕焼け・夜を切り替えられます。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build an interactive voxel city diorama that runs in the browser, preferably with Three.js. Show a compact floating slab of land with a dense downtown of colorful blocky towers, one tall landmark tower with an observation pod, a waterfront with small boats, parks with trees and puffy voxel clouds. Let the user orbit, zoom and pan around the model. Add a small translucent control panel with buttons for seasons and for weather and time of day: clear, rain, snow, fog, sunset and night. Each choice changes sky color, lighting, particles and the look of the ground, for example falling snow, rain streaks, foggy depth, warm evening light and lit windows at night. Keep a soft muted blue-gray background and a clean minimal interface. Done means smooth camera control, readable buildings at every setting and transitions between moods that feel polished.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/interactive-voxel-city-skyline-with-seasons-weather-and-2095000329561485584?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/bienjamyn/status/2095000329561485584)
+
+---
+
+### [自律して暮らす5人が登場する、ブラウザ動作のアイソメトリック3D生活シム](https://wandy3d.com/ja/prompts/isometric-3d-life-sim-in-the-browser-with-five-autonomous-2094949450196090988?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/isometric-3d-life-sim-in-the-browser-with-five-autonomous-2094949450196090988?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/isometric-3d-life-sim-in-the-browser-with-five-autonomous-2094949450196090988.webp" width="640" alt="自律して暮らす5人が登場する、ブラウザ動作のアイソメトリック3D生活シム"></a>
+
+**Claude Fable 5.1** · ゲーム · 作者 [Ridark](https://x.com/ridark_eth) · 2026-09-02
+
+Claude Fable 5.1が作ったシムズ風ゲーム。断面表示の3Dハウスで、欲求やスキル、友情を持つ5人が日々を過ごします。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a browser-based life simulation in an isometric 3D view with no game engine. Show a cutaway house with a kitchen, bedroom, bathroom and office, a garden, a road with passing cars, and five small blocky characters who live there. Each character has needs such as hunger, energy, social, hygiene, fun and bladder that decay over time, plus skills like cooking, coding, charisma and handiness that level up with practice. Characters choose actions on their own: cook, eat, sleep, shower, work, chat, hug, argue or joke, shown in speech bubbles. Add friendship levels between characters, a simple economy with jobs, weekly bills, deliveries and shopping, a day and night cycle, speed controls and an event log. Provide a side panel to inspect a selected character, and let the camera pan, zoom and orbit. Done means the household keeps running without input and the panels update live.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/isometric-3d-life-sim-in-the-browser-with-five-autonomous-2094949450196090988?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/ridark_eth/status/2094949450196090988)
+
+---
+
+### [ローカルLLMで村人が動くボクセルの町シミュレーション](https://wandy3d.com/ja/prompts/voxel-village-whose-villagers-are-driven-by-a-local-llm-2094930970675741171?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/voxel-village-whose-villagers-are-driven-by-a-local-llm-2094930970675741171?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/voxel-village-whose-villagers-are-driven-by-a-local-llm-2094930970675741171.webp" width="640" alt="ローカルLLMで村人が動くボクセルの町シミュレーション"></a>
+
+**Claude Fable 5.1** · インタラクティブ · 作者 [Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01
+
+Claude Fable 5.1が作ったボクセルの町。6人の村人がローカル言語モデルで動き、一つの指示から噂が町じゅうに広がります。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a browser-based voxel village simulation. Show a small grass island seen from a tilted overhead camera, with blocky houses in red, blue, green, purple and brown roofs, a domed town hall with a flag on a central plaza, trees, ponds, market stalls and benches. Populate it with tiny villagers who follow scripted routines between homes, workplaces and the plaza. Wire a handful of them to a locally hosted language model through an OpenAI-compatible endpoint so each has a home, a job, a daily routine and a memory, and can chat with neighbours and pass news along. Float speech bubbles above villagers when they talk. Add a side panel listing the selected villager's name, role, mood and recent memories, plus an input where the user can give an instruction to one villager and watch it spread by gossip. Camera: orbit and zoom with the mouse. Deliver one project that runs with a single start command, using Three.js. Done when villagers walk around, talk, and a spoken instruction visibly changes what others do.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/voxel-village-whose-villagers-are-driven-by-a-local-llm-2094930970675741171?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/Tech2Wild/status/2094930970675741171)
+
+---
+
+### [富士山を望む浮遊島と鳥居へ昇るプロシージャルシーン](https://wandy3d.com/ja/prompts/procedural-ascent-to-floating-torii-islands-facing-mt-fuji-2094930804296274414?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/procedural-ascent-to-floating-torii-islands-facing-mt-fuji-2094930804296274414?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-ascent-to-floating-torii-islands-facing-mt-fuji-2094930804296274414.webp" width="640" alt="富士山を望む浮遊島と鳥居へ昇るプロシージャルシーン"></a>
+
+**Claude Fable 5.1** · シーン · 作者 [Techartist](https://x.com/techartist_) · 2026-09-01
+
+Claude Fable 5.1が一発で生成。Three.jsのカメラが夕暮れの谷から雲海の上の鳥居つき浮遊島へ上り、遠くに富士山が見えます。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a procedural fantasy world in code as one web page using Three.js, with no external assets. Start in a golden-hour mountain valley with pine forests, a small lake, a wooden fence and warm low sun. Then fly the camera along a path up into the sky past floating rock islands linked by thin bridges or cables, each topped with a red torii gate, with waterfalls pouring off the edges into a sea of clouds. In the distance show a snow-capped Mt. Fuji silhouette, with layered purple and pink haze and a sunset gradient sky. Add soft fog, volumetric-looking light and slow drifting debris. Include a small control panel with presets such as golden hour, night and cinematic camera, sliders for fog and clouds, and a reset button. Style: moody, painterly low-poly shapes with a warm orange-to-violet palette. Done when the cinematic ascent plays smoothly from valley to the gates and the panel changes the lighting live.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/procedural-ascent-to-floating-torii-islands-facing-mt-fuji-2094930804296274414?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/techartist_/status/2094930804296274414)
+
+---
+
+### [Blender製の車と夕焼けの道を走るGodotレースゲーム](https://wandy3d.com/ja/prompts/godot-racing-game-with-blender-made-car-and-sunset-road-2094925359372284022?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/godot-racing-game-with-blender-made-car-and-sunset-road-2094925359372284022?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/godot-racing-game-with-blender-made-car-and-sunset-road-2094925359372284022.webp" width="640" alt="Blender製の車と夕焼けの道を走るGodotレースゲーム"></a>
+
+**Claude Fable 5.1** · ゲーム · 作者 [atomic.chat](https://x.com/atomic_chat_hq) · 2026-09-01
+
+Claude Fable 5.1と前世代モデルに同じレースゲーム課題を与えた比較。新しい方は車も夕焼けの世界も作り込みが豊かでした。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a playable racing game in Godot, using Blender through a Blender MCP connection to create the assets. Model a detailed sports car with a spoiler, wheels and body paint, plus roadside environment pieces such as trees, fences and hills. Create a large map with a long winding road suited to extended driving sessions. Implement realistic car handling: acceleration, braking, steering, gears, grip and weight transfer, with a chase camera. Add a simple HUD showing speed, gear and rpm, plus a hint line for controls. Give the world a warm sunset sky with soft lighting so it feels alive while driving. Run it as a standalone Godot project that launches into the drive immediately. Done when the car feels smooth to steer on the whole map, the HUD updates correctly and the models look clearly detailed rather than plain boxes.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/godot-racing-game-with-blender-made-car-and-sunset-road-2094925359372284022?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/atomic_chat_hq/status/2094925359372284022)
+
+---
+
+### [間取り図1枚からBlenderで作るオフィスのウォークスルー](https://wandy3d.com/ja/prompts/blender-office-walkthrough-built-from-a-single-floor-plan-2094925117344428232?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/blender-office-walkthrough-built-from-a-single-floor-plan-2094925117344428232?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/blender-office-walkthrough-built-from-a-single-floor-plan-2094925117344428232.webp" width="640" alt="間取り図1枚からBlenderで作るオフィスのウォークスルー"></a>
+
+**Claude Fable 5.1** · シーン · 作者 [AGIラボ](https://x.com/ctgptlb) · 2026-09-01
+
+Claude Fable 5.1が間取り図から家具付きの3Dオフィス、静止画、ウォークスルー動画を制作。GPT-5.6 Solとの比較です。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a Blender project from a single floor plan image. Read the plan and model the interior in 3D: walls, doors, windows, a ceiling with recessed lights, wood floor, and furniture such as sit-stand desks, dual monitors, office chairs, bookshelves filled with props, sofas, a round table, plants and a wall-mounted TV. Use a clean modern palette of soft whites, wood, sage green and orange accents. Set up lighting and materials, then render a set of still images from different rooms and angles. Finally animate a smooth camera walkthrough through the rooms and render it as a video of about 40 seconds. Deliver a Python script or a .blend file plus the rendered stills and the video. Done when the layout matches the plan, rooms are furnished convincingly, and the walkthrough moves through them without clipping into walls.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/blender-office-walkthrough-built-from-a-single-floor-plan-2094925117344428232?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/ctgptlb/status/2094925117344428232)
+
+---
+
+### [五重塔のボクセル庭園を1つのThree.jsファイルで生成、昼と夕暮れ切替](https://wandy3d.com/ja/prompts/seeded-voxel-pagoda-garden-in-one-three-js-file-with-day-and-2094916609219461211?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/seeded-voxel-pagoda-garden-in-one-three-js-file-with-day-and-2094916609219461211?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/seeded-voxel-pagoda-garden-in-one-three-js-file-with-day-and-2094916609219461211.webp" width="640" alt="五重塔のボクセル庭園を1つのThree.jsファイルで生成、昼と夕暮れ切替"></a>
+
+**Claude Fable 5.1** · シーン · 作者 [FHILY👑](https://x.com/Oluwaphilemon1) · 2026-09-01
+
+Fable 5.1が書いたコンパクトなThree.jsファイルで、五重塔を囲むボクセルの庭園を生成。軌道操作と昼夜の切り替え付きです。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a procedural voxel diorama in one self-contained HTML file using Three.js, with no downloaded assets or prebuilt models. Show a floating square island garden in early spring with a tall five-tier pagoda in green, red and gold, pink and white cherry trees, pines, bamboo, a small pond with a red arched bridge, a torii gate, stone lanterns, a small tiled-roof house and scattered flowers. Generate everything from a fixed random seed so every load gives the same scene. Merge voxels into a single mesh and cull hidden faces to keep it light. Add a day and dusk lighting toggle: at dusk the sky darkens, lanterns glow and petals drift. Provide orbit by dragging, zoom by scroll or pinch, and an auto-orbit button, with a small title card showing voxel and triangle counts. Done when the scene loads quickly, looks identical on each reload and switches smoothly between day and dusk.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/seeded-voxel-pagoda-garden-in-one-three-js-file-with-day-and-2094916609219461211?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/Oluwaphilemon1/status/2094916609219461211)
+
+---
+
+### [MCP経由でBlenderに作ったハードサーフェス二足ロボット](https://wandy3d.com/ja/prompts/hard-surface-bipedal-robot-modelled-in-blender-through-mcp-2094909825561805003?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/hard-surface-bipedal-robot-modelled-in-blender-through-mcp-2094909825561805003?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/hard-surface-bipedal-robot-modelled-in-blender-through-mcp-2094909825561805003.webp" width="640" alt="MCP経由でBlenderに作ったハードサーフェス二足ロボット"></a>
+
+**Claude Fable 5.1** · アセット · 作者 [Spectro](https://x.com/Spectromachina) · 2026-09-01
+
+Claude Fable 5.1がBlender MCPでプレートとケーブル付きの二足ロボットを制作。投稿では他モデルと時間やトークン量も比較しています。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a detailed bipedal robot model in Blender, driven by a coding agent that talks to Blender through an MCP connection. The robot should be a hard-surface machine in neutral grey metal: a torso block with a backpack frame, articulated legs with pistons and foot plates, slim arms, and organised cables and armour plates that follow a clear design rather than random shapes. Place it on a flat grey pad in a plain studio-style scene with a grid floor. Work step by step: block out the main masses, name and group every part, then add plates, wires and joints, checking the viewport after each stage. Keep to the given design brief and do not add extra parts that were not requested. Deliver the finished .blend scene with a tidy outliner, readable object names and a posed front view. Done means the robot reads as one coherent machine from every angle and each wire and plate has an obvious purpose.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/hard-surface-bipedal-robot-modelled-in-blender-through-mcp-2094909825561805003?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/Spectromachina/status/2094909825561805003)
+
+---
+
+### [歩行・運転・ミニマップ付きのローポリ オープンワールド都市ゲーム](https://wandy3d.com/ja/prompts/low-poly-open-world-city-game-with-walking-driving-and-a-2094907986942591338?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/low-poly-open-world-city-game-with-walking-driving-and-a-2094907986942591338?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/low-poly-open-world-city-game-with-walking-driving-and-a-2094907986942591338.webp" width="640" alt="歩行・運転・ミニマップ付きのローポリ オープンワールド都市ゲーム"></a>
+
+**Claude Fable 5.1** · ゲーム · 作者 [Veee](https://x.com/vikktorrrre) · 2026-09-01
+
+GTA風クローンを依頼されたClaude Fable 5.1が、歩行と車の運転、ミニマップ、手配度の星HUDを備えたブロック調の街を作りました。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+GTA 6 clone game
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/low-poly-open-world-city-game-with-walking-driving-and-a-2094907986942591338?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/vikktorrrre/status/2094907986942591338)
+
+---
+
+### [装備選択付きのジェットパック横スクロールシューター（Kimi K3と比較）](https://wandy3d.com/ja/prompts/side-scrolling-jetpack-shooter-with-loadouts-shown-against-2094900523900219725?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/side-scrolling-jetpack-shooter-with-loadouts-shown-against-2094900523900219725?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/side-scrolling-jetpack-shooter-with-loadouts-shown-against-2094900523900219725.webp" width="640" alt="装備選択付きのジェットパック横スクロールシューター（Kimi K3と比較）"></a>
+
+**Claude Fable 5.1** · ゲーム · 作者 [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-01
+
+Claude Fable 5.1とKimi K3が同じプロンプトでMini Militia風のジェットパックシューターを制作。メニューや装備、ボット戦を比較できます。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a 2D side-scrolling jetpack shooter in the spirit of a classic doodle-army arena game, playable in the browser. Include a title screen with a bold logo and a menu for play, loadout, character and settings. The player is a small soldier with a jetpack who flies between floating platforms and a ground level over a layered forest-and-mountain backdrop with a glowing sun. Provide weapon selection with stat bars, a character colour customiser, a match timer, a health and fuel readout, kill and elimination messages and a score for the opposing bots. Add simple smoke and explosion effects when shots land. Keep the art flat and colourful with parallax scenery. Deliver one self-contained HTML file with keyboard and mouse controls for moving, thrusting, aiming and firing. Done means a full match can be played from the title screen to an elimination and a restart.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/side-scrolling-jetpack-shooter-with-loadouts-shown-against-2094900523900219725?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/0x0SojalSec/status/2094900523900219725)
+
+---
+
+### [スライダー操作と水槽ビュー付きのインタラクティブな嵐の海3Dサンドボックス](https://wandy3d.com/ja/prompts/interactive-3d-ocean-storm-sandbox-with-sliders-and-a-glass-2094900247000654222?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/interactive-3d-ocean-storm-sandbox-with-sliders-and-a-glass-2094900247000654222?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-ocean-storm-sandbox-with-sliders-and-a-glass-2094900247000654222.webp" width="640" alt="スライダー操作と水槽ビュー付きのインタラクティブな嵐の海3Dサンドボックス"></a>
+
+**Claude Fable 5.1** · インタラクティブ · 作者 [Tim Jayas](https://x.com/TimJayas) · 2026-09-01
+
+同じプロンプトで、Claude Fable 5.1は雨と雷を操作できる嵐の海を描画。投稿ではClaude Opus 5より優れると評価されています。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build an interactive 3D ocean sandbox that runs in the browser. Show a first-person view from sea level looking over rolling waves under a heavy grey storm sky, with teal water, foam, falling rain and occasional lightning strikes. Add a side control panel with sliders for swell height, wind, rainfall, lightning frequency and a storm intensity, plus a button to trigger a strike and quality presets for low, medium and high. Offer a second view that shows the sea as a cutaway block inside a glass tank so the wave shape can be seen from outside. Let the user drag to look around and scroll to change the camera. Keep the interface clean and light with small labels and readouts. Deliver one self-contained HTML file using Three.js and custom water shaders. Done means changing any slider visibly alters the waves and weather in real time without dropping the frame rate.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/interactive-3d-ocean-storm-sandbox-with-sliders-and-a-glass-2094900247000654222?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/TimJayas/status/2094900247000654222)
+
+---
+
+### [風車と滝のある秋の浮遊ボクセル島](https://wandy3d.com/ja/prompts/autumn-floating-voxel-island-with-a-windmill-and-waterfall-2094899802588713418?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/autumn-floating-voxel-island-with-a-windmill-and-waterfall-2094899802588713418?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/autumn-floating-voxel-island-with-a-windmill-and-waterfall-2094899802588713418.webp" width="640" alt="風車と滝のある秋の浮遊ボクセル島"></a>
+
+**Claude Fable 5.1** · シーン · 作者 [Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01
+
+Claude Fable 5.1が、回る風車のある秋の浮遊島をボクセルで制作。作者は出来は良いがトークン費用は高めと評価しています。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build an autumn floating voxel island scene that runs in the browser. Show a large central island of blocky earth with a dark rocky underside, covered in red, orange and golden trees, bushes and a wooden windmill whose sails turn slowly. Let a narrow waterfall spill from the edge into the air. Surround it with several smaller floating islands, each with a tree or small structure, and drifting purple voxel clouds against a soft pink and cream sky. Add falling leaves and tiny floating particles around the island. Use a camera that orbits slowly around the scene, with warm soft lighting and gentle shadows. Keep every object built from cubes with a consistent voxel size. Deliver one self-contained HTML file using Three.js with a small caption in the corner naming the scene. Done means the scene loops smoothly, the windmill rotates and the islands look balanced from every angle.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/autumn-floating-voxel-island-with-a-windmill-and-waterfall-2094899802588713418?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/loktar00/status/2094899802588713418)
+
+---
+
+### [NPCとドラゴンのいる破壊可能なボクセル中世王国](https://wandy3d.com/ja/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403.webp" width="640" alt="NPCとドラゴンのいる破壊可能なボクセル中世王国"></a>
+
+**Claude Fable 5.1** · シーン · 作者 [Knowix](https://x.com/knowixbuilds) · 2026-09-01
+
+Claude Fable 5.1が、城壁都市、働くNPC、攻城兵器、壊せる建物を備えた巨大なボクセル王国を生成しました。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a large medieval voxel kingdom that runs in the browser, ideally as a single self-contained HTML file with a WebGL engine such as Three.js. Generate a terrain of grass, farmland patches in yellow and green, a winding river and a snowy mountain range on the horizon. At the centre place a walled castle city in concentric rings, with a keep, a church with a spire, and hundreds of houses with red, blue and yellow roofs; every building should have a purpose and an interior. Populate it with soldiers and townsfolk who have jobs and react to an invasion, include siege equipment, a fire-breathing dragon and voxel-level destruction. Add a free-flying camera that can move through the streets and rise over the whole map, plus a small side panel of settings sliders. Aim for millions of voxels at a smooth frame rate. Done means the kingdom loads, the camera can roam freely, characters move around, and buildings can be destroyed.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/knowixbuilds/status/2094899477626720403)
+
+---
+
+### [3Dミニゲーム3本：粘着ボール、カピバラ川下り、餃子のコンベア回避](https://wandy3d.com/ja/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400.webp" width="640" alt="3Dミニゲーム3本：粘着ボール、カピバラ川下り、餃子のコンベア回避"></a>
+
+**Claude Fable 5.1** · ゲーム · 作者 [Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01
+
+比較企画：Claude Fable 5.1と旧版に同じ3本のゲーム指示を与え、新版の方が低コストで完成しました。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build three small browser games, each as its own self-contained HTML file with a 3D look. Game one: a sticky ball rolling through a toy city that picks up everything in its path and grows, shown from a chase camera with a score and size readout. Game two: an endless-runner river course where a capybara surfs downstream, steering left and right around logs and buoys, with rings to pass through, a final stretch with a checkered finish line and a placement screen with a replay button. Game three: a dumpling dodging obstacles on an endless conveyor belt in a dim kitchen-like hall with hanging lamps, speeding up over time. Use bright, readable colours, simple keyboard or touch steering, a restart option, and a distance or timer HUD. Done means each game starts, scores and ends cleanly.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/atomicagent_io/status/2094895071304839400)
+
+---
+
+[← 前へ](catalog.ja.6.md) · 8 ページ中 7 ページ目 · [次へ →](catalog.ja.8.md)
 
 プロンプト・動画・画像の権利は各作者に帰属します（[RIGHTS.md](../RIGHTS.md)）。編集テキストは [CC BY 4.0](../LICENSE) です。結果が見える良いプロンプトを知っていますか？[提案する](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。作者の方で掲載内容の修正・削除をご希望の場合は[こちら](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

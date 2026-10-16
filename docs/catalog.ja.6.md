@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — カタログ 6/7
+# Awesome 3D Prompts — カタログ 6/8
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · **日本語** · [中文](catalog.zh.1.md)
 
-[← 前へ](catalog.ja.5.md) · 7 ページ中 6 ページ目 · [次へ →](catalog.ja.7.md)
+[← 前へ](catalog.ja.5.md) · 8 ページ中 6 ページ目 · [次へ →](catalog.ja.7.md)
 
 ### [ポスト印象派の世界で戦う絵画調5対5の一人称シューター](https://wandy3d.com/ja/prompts/painterly-5v5-first-person-shooter-in-a-post-impressionist-2096013280519016608?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1057,6 +1057,6 @@ Build a team-based first-person sci-fi shooter for 10v10 matches. Set it on a la
 
 ---
 
-[← 前へ](catalog.ja.5.md) · 7 ページ中 6 ページ目 · [次へ →](catalog.ja.7.md)
+[← 前へ](catalog.ja.5.md) · 8 ページ中 6 ページ目 · [次へ →](catalog.ja.7.md)
 
 プロンプト・動画・画像の権利は各作者に帰属します（[RIGHTS.md](../RIGHTS.md)）。編集テキストは [CC BY 4.0](../LICENSE) です。結果が見える良いプロンプトを知っていますか？[提案する](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。作者の方で掲載内容の修正・削除をご希望の場合は[こちら](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

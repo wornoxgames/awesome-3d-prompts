@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 6/7
+# Awesome 3D Prompts — Каталог 6/8
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Назад](catalog.ru.5.md) · страница 6 из 7 · [Дальше →](catalog.ru.7.md)
+[← Назад](catalog.ru.5.md) · страница 6 из 8 · [Дальше →](catalog.ru.7.md)
 
 ### [Живописный шутер 5 на 5 от первого лица в мире постимпрессионизма](https://wandy3d.com/ru/prompts/painterly-5v5-first-person-shooter-in-a-post-impressionist-2096013280519016608?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1057,6 +1057,6 @@ Build a team-based first-person sci-fi shooter for 10v10 matches. Set it on a la
 
 ---
 
-[← Назад](catalog.ru.5.md) · страница 6 из 7 · [Дальше →](catalog.ru.7.md)
+[← Назад](catalog.ru.5.md) · страница 6 из 8 · [Дальше →](catalog.ru.7.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

@@ -4,9 +4,9 @@
 
 Free 3D prompts for Claude, GPT and Kimi — games, scenes, assets and animation, each with its result. Curated by [Wandy3D](https://wandy3d.com/prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts).
 
-317 prompts · 13 models · 6 categories · updated 2026-10-15
+386 prompts · 16 models · 6 categories · updated 2026-10-16
 
-**English** · [Русский](README.ru.md) · [日本語](docs/catalog.ja.1.md) · [中文](docs/catalog.zh.1.md) · Full catalog: [Catalog 1/7](docs/catalog.en.1.md)
+**English** · [Русский](README.ru.md) · [日本語](docs/catalog.ja.1.md) · [中文](docs/catalog.zh.1.md) · Full catalog: [Catalog 1/8](docs/catalog.en.1.md)
 
 ## Start here
 
@@ -20,11 +20,11 @@ Free 3D prompts for Claude, GPT and Kimi — games, scenes, assets and animation
 
 | Category | Prompts |
 |---|---:|
-| [Games](https://wandy3d.com/prompts/categories/games?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 63 |
-| [Scenes](https://wandy3d.com/prompts/categories/scenes?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 76 |
-| [Assets](https://wandy3d.com/prompts/categories/assets?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 33 |
-| [Interactive](https://wandy3d.com/prompts/categories/interactive?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 88 |
-| [Animation](https://wandy3d.com/prompts/categories/animation?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 56 |
+| [Games](https://wandy3d.com/prompts/categories/games?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 87 |
+| [Scenes](https://wandy3d.com/prompts/categories/scenes?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 96 |
+| [Assets](https://wandy3d.com/prompts/categories/assets?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 39 |
+| [Interactive](https://wandy3d.com/prompts/categories/interactive?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 104 |
+| [Animation](https://wandy3d.com/prompts/categories/animation?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 59 |
 | [Other](https://wandy3d.com/prompts/categories/other?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 1 |
 
 <a id="models"></a>
@@ -33,9 +33,12 @@ Free 3D prompts for Claude, GPT and Kimi — games, scenes, assets and animation
 
 | Model | Prompts |
 |---|---:|
-| [GPT-6 Astra](https://wandy3d.com/prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 208 |
+| [GPT-6 Astra](https://wandy3d.com/prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 209 |
+| [Claude Fable 5.1](https://wandy3d.com/prompts/models/claude-fable-5-1?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 72 |
 | [Claude Opus 5.5](https://wandy3d.com/prompts/models/claude-opus-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 68 |
-| [Claude Fable 5.1](https://wandy3d.com/prompts/models/claude-fable-5-1?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 27 |
+| [Claude Opus 5](https://wandy3d.com/prompts/models/claude-opus-5?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 12 |
+| [Kimi K3](https://wandy3d.com/prompts/models/kimi-k3?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 8 |
+| [Claude Fable 5](https://wandy3d.com/prompts/models/claude-fable-5?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 3 |
 | [GPT-6 Sol](https://wandy3d.com/prompts/models/gpt-6-sol?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 3 |
 | [Claude Sonnet 5.5](https://wandy3d.com/prompts/models/claude-sonnet-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 2 |
 | [Gemini 4 Pro](https://wandy3d.com/prompts/models/gemini-4-pro?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 2 |

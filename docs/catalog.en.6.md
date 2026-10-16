@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Catalog 6/7
+# Awesome 3D Prompts — Catalog 6/8
 
 [← Awesome 3D Prompts](../README.md) · **English** · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Previous](catalog.en.5.md) · page 6 of 7 · [Next →](catalog.en.7.md)
+[← Previous](catalog.en.5.md) · page 6 of 8 · [Next →](catalog.en.7.md)
 
 ### [Painterly 5v5 first-person shooter in a Post-Impressionist world](https://wandy3d.com/prompts/painterly-5v5-first-person-shooter-in-a-post-impressionist-2096013280519016608?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1057,6 +1057,6 @@ Build a team-based first-person sci-fi shooter for 10v10 matches. Set it on a la
 
 ---
 
-[← Previous](catalog.en.5.md) · page 6 of 7 · [Next →](catalog.en.7.md)
+[← Previous](catalog.en.5.md) · page 6 of 8 · [Next →](catalog.en.7.md)
 
 Prompts, videos and images belong to their authors ([RIGHTS.md](../RIGHTS.md)). Our editorial text is [CC BY 4.0](../LICENSE). Know a great prompt with a visible result? [Suggest it](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Are you an author and want an entry changed or removed? [Tell us](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

@@ -1,10 +1,10 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Catalog 5/7
+# Awesome 3D Prompts — Catalog 5/8
 
 [← Awesome 3D Prompts](../README.md) · **English** · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Previous](catalog.en.4.md) · page 5 of 7 · [Next →](catalog.en.6.md)
+[← Previous](catalog.en.4.md) · page 5 of 8 · [Next →](catalog.en.6.md)
 
 ### [Bioluminescent jellyfish 3D landing page with Next.js and Three.js](https://wandy3d.com/prompts/bioluminescent-jellyfish-3d-landing-page-with-next-js-and-2096269057544831175?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1086,6 +1086,6 @@ Build an interactive 3D personal portfolio website with an editorial look: warm 
 
 ---
 
-[← Previous](catalog.en.4.md) · page 5 of 7 · [Next →](catalog.en.6.md)
+[← Previous](catalog.en.4.md) · page 5 of 8 · [Next →](catalog.en.6.md)
 
 Prompts, videos and images belong to their authors ([RIGHTS.md](../RIGHTS.md)). Our editorial text is [CC BY 4.0](../LICENSE). Know a great prompt with a visible result? [Suggest it](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Are you an author and want an entry changed or removed? [Tell us](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).
