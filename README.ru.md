@@ -4,7 +4,7 @@
 
 Бесплатные 3D-промпты для Claude, GPT и Kimi: игры, сцены, ассеты и анимация, у каждого показан результат. Подборка [Wandy3D](https://wandy3d.com/ru/prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts).
 
-386 промптов · моделей: 16 · категорий: 6 · обновлено 2026-10-16
+400 промптов · моделей: 19 · категорий: 6 · обновлено 2026-10-17
 
 [English](README.md) · **Русский** · [日本語](docs/catalog.ja.1.md) · [中文](docs/catalog.zh.1.md) · Весь каталог: [Каталог 1/8](docs/catalog.ru.1.md)
 
@@ -20,11 +20,11 @@
 
 | Категория | Промптов |
 |---|---:|
-| [Игры](https://wandy3d.com/ru/prompts/categories/games?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 87 |
-| [Сцены](https://wandy3d.com/ru/prompts/categories/scenes?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 96 |
-| [Ассеты](https://wandy3d.com/ru/prompts/categories/assets?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 39 |
-| [Интерактив](https://wandy3d.com/ru/prompts/categories/interactive?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 104 |
-| [Анимация](https://wandy3d.com/ru/prompts/categories/animation?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 59 |
+| [Игры](https://wandy3d.com/ru/prompts/categories/games?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 90 |
+| [Сцены](https://wandy3d.com/ru/prompts/categories/scenes?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 100 |
+| [Ассеты](https://wandy3d.com/ru/prompts/categories/assets?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 42 |
+| [Интерактив](https://wandy3d.com/ru/prompts/categories/interactive?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 106 |
+| [Анимация](https://wandy3d.com/ru/prompts/categories/animation?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 61 |
 | [Другое](https://wandy3d.com/ru/prompts/categories/other?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 1 |
 
 <a id="models"></a>
@@ -34,20 +34,23 @@
 | Модель | Промптов |
 |---|---:|
 | [GPT-6 Astra](https://wandy3d.com/ru/prompts/models/gpt-6-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 209 |
-| [Claude Fable 5.1](https://wandy3d.com/ru/prompts/models/claude-fable-5-1?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 72 |
+| [Claude Fable 5.1](https://wandy3d.com/ru/prompts/models/claude-fable-5-1?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 73 |
 | [Claude Opus 5.5](https://wandy3d.com/ru/prompts/models/claude-opus-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 68 |
-| [Claude Opus 5](https://wandy3d.com/ru/prompts/models/claude-opus-5?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 12 |
-| [Kimi K3](https://wandy3d.com/ru/prompts/models/kimi-k3?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 8 |
-| [Claude Fable 5](https://wandy3d.com/ru/prompts/models/claude-fable-5?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 3 |
+| [Claude Opus 5](https://wandy3d.com/ru/prompts/models/claude-opus-5?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 15 |
+| [Kimi K3](https://wandy3d.com/ru/prompts/models/kimi-k3?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 12 |
+| [Claude Fable 5](https://wandy3d.com/ru/prompts/models/claude-fable-5?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 6 |
 | [GPT-6 Sol](https://wandy3d.com/ru/prompts/models/gpt-6-sol?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 3 |
 | [Claude Sonnet 5.5](https://wandy3d.com/ru/prompts/models/claude-sonnet-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 2 |
 | [Gemini 4 Pro](https://wandy3d.com/ru/prompts/models/gemini-4-pro?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 2 |
 | [DeepSeek V4.1](https://wandy3d.com/ru/prompts/models/deepseek-v4-1?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 1 |
+| [Gemini 3.6 Flash](https://wandy3d.com/ru/prompts/models/gemini-3-6-flash?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 1 |
+| [GPT 5.6 Sol](https://wandy3d.com/ru/prompts/models/gpt-5-6-sol?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 1 |
 | [GPT-5.6 Terra](https://wandy3d.com/ru/prompts/models/gpt-5-6-terra?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 1 |
 | [GPT-6.1 Sol](https://wandy3d.com/ru/prompts/models/gpt-6-1-sol?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 1 |
 | [GPT-6 Luna](https://wandy3d.com/ru/prompts/models/gpt-6-luna?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 1 |
 | [GPT-6 Pro](https://wandy3d.com/ru/prompts/models/gpt-6-pro?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 1 |
 | [Grok 4.7](https://wandy3d.com/ru/prompts/models/grok-4-7?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 1 |
+| [Qwen3.8-Max-Preview](https://wandy3d.com/ru/prompts/models/qwen3-8-max-preview?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 1 |
 | [Space Bunny Alpha](https://wandy3d.com/ru/prompts/models/space-bunny-alpha?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) | 1 |
 
 ## Сделано в Wandy3D

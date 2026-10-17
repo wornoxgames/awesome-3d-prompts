@@ -363,6 +363,27 @@ Build a 3D city street scene in Blender, driven through a Blender MCP connection
 
 ---
 
+### [金貨の山があるドラゴンの巣をBlenderで制作した制作途中シーン](https://wandy3d.com/ja/prompts/work-in-progress-dragon-lair-with-a-gold-hoard-built-in-2095149546187653547?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/work-in-progress-dragon-lair-with-a-gold-hoard-built-in-2095149546187653547?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/work-in-progress-dragon-lair-with-a-gold-hoard-built-in-2095149546187653547.webp" width="640" alt="金貨の山があるドラゴンの巣をBlenderで制作した制作途中シーン"></a>
+
+**Claude Fable 5.1** · シーン · 作者 [Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02
+
+Claude Fable 5.1とBlenderで、松明が灯る石造りのドラゴンの巣を制作。床には骨、手前には金貨の山が広がります。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a moody 3D dragon lair environment in Blender, scripted with Python so it can be rerun. The set is a large underground hall of weathered stone brick walls, square columns, stairs and rough cave rock overhead. Scatter props across the floor: skeleton bones, broken slabs, clay urns and iron braziers with live flames. In one corner heap a huge hoard of thousands of individual gold coins with a chalice, a sword and other treasure on top. Light the scene almost entirely with warm amber firelight and small glows, leaving deep shadows in the corners and a hint of a bright opening in the distance. Use physically based materials, soft depth of field and a slight film grain. Provide several camera angles: a wide hall view, a stair view looking down into the hall, and a close macro shot of the coins. Deliver the .py script plus rendered stills. Done means the hall reads clearly as a dragon's treasure room and the coin pile catches highlights.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/work-in-progress-dragon-lair-with-a-gold-hoard-built-in-2095149546187653547?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/majidmanzarpour/status/2095149546187653547)
+
+---
+
 ### [Three.jsで作るマルチプレイ対応の帆船航海ワールド](https://wandy3d.com/ja/prompts/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
 <a href="https://wandy3d.com/ja/prompts/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600.webp" width="640" alt="Three.jsで作るマルチプレイ対応の帆船航海ワールド"></a>
@@ -1038,27 +1059,6 @@ Build a large medieval voxel kingdom that runs in the browser, ideally as a sing
 </details>
 
 [Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/knowixbuilds/status/2094899477626720403)
-
----
-
-### [3Dミニゲーム3本：粘着ボール、カピバラ川下り、餃子のコンベア回避](https://wandy3d.com/ja/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ja/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400.webp" width="640" alt="3Dミニゲーム3本：粘着ボール、カピバラ川下り、餃子のコンベア回避"></a>
-
-**Claude Fable 5.1** · ゲーム · 作者 [Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01
-
-比較企画：Claude Fable 5.1と旧版に同じ3本のゲーム指示を与え、新版の方が低コストで完成しました。
-
-<details>
-<summary>Wandy3D による制作ブリーフ</summary>
-
-```text
-Build three small browser games, each as its own self-contained HTML file with a 3D look. Game one: a sticky ball rolling through a toy city that picks up everything in its path and grows, shown from a chase camera with a score and size readout. Game two: an endless-runner river course where a capybara surfs downstream, steering left and right around logs and buoys, with rings to pass through, a final stretch with a checkered finish line and a placement screen with a replay button. Game three: a dumpling dodging obstacles on an endless conveyor belt in a dim kitchen-like hall with hanging lamps, speeding up over time. Use bright, readable colours, simple keyboard or touch steering, a restart option, and a distance or timer HUD. Done means each game starts, scores and ends cleanly.
-```
-
-</details>
-
-[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/atomicagent_io/status/2094895071304839400)
 
 ---
 

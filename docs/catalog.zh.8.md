@@ -6,6 +6,27 @@
 
 [← 上一页](catalog.zh.7.md) · 第 8 页，共 8 页
 
+### [三个3D小游戏：粘球滚城、水豚漂流、饺子传送带闪避](https://wandy3d.com/zh/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400.webp" width="640" alt="三个3D小游戏：粘球滚城、水豚漂流、饺子传送带闪避"></a>
+
+**Claude Fable 5.1** · 游戏 · 作者 [Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01
+
+对比测试：Claude Fable 5.1与上一版收到相同的三个游戏指令，新版完成时花费更低。
+
+<details>
+<summary>Wandy3D 制作简报</summary>
+
+```text
+Build three small browser games, each as its own self-contained HTML file with a 3D look. Game one: a sticky ball rolling through a toy city that picks up everything in its path and grows, shown from a chase camera with a score and size readout. Game two: an endless-runner river course where a capybara surfs downstream, steering left and right around logs and buoys, with rings to pass through, a final stretch with a checkered finish line and a placement screen with a replay button. Game three: a dumpling dodging obstacles on an endless conveyor belt in a dim kitchen-like hall with hanging lamps, speeding up over time. Use bright, readable colours, simple keyboard or touch steering, a restart option, and a distance or timer HUD. Done means each game starts, scores and ends cleanly.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/atomicagent_io/status/2094895071304839400)
+
+---
+
 ### [Three.js程序化机场：滑行的客机与地勤车辆](https://wandy3d.com/zh/prompts/procedural-three-js-airport-with-taxiing-planes-and-ground-2094893572617044439?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
 <a href="https://wandy3d.com/zh/prompts/procedural-three-js-airport-with-taxiing-planes-and-ground-2094893572617044439?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-three-js-airport-with-taxiing-planes-and-ground-2094893572617044439.webp" width="640" alt="Three.js程序化机场：滑行的客机与地勤车辆"></a>
@@ -765,6 +786,285 @@ build an explorable Japanese suburban street in Three.js, full 3D, rendered like
 </details>
 
 [在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/explorable-anime-style-japanese-suburban-street-with-a-2080834581247435102?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/gmi_cloud/status/2080834581247435102)
+
+---
+
+### [单文件 Three.js 第一人称射击游戏：沙漠地图、AI 机器人与狙击镜](https://wandy3d.com/zh/prompts/single-file-three-js-fps-with-a-desert-map-ai-bots-and-2080821527365218759?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/single-file-three-js-fps-with-a-desert-map-ai-bots-and-2080821527365218759?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/single-file-three-js-fps-with-a-desert-map-ai-bots-and-2080821527365218759.webp" width="640" alt="单文件 Three.js 第一人称射击游戏：沙漠地图、AI 机器人与狙击镜"></a>
+
+**Kimi K3** · 游戏 · 作者 [FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25
+
+Kimi K3 用一个 HTML 文件写出类 Counter-Strike 的网页射击游戏，视频还对比了 Opus 5 的版本。
+
+<details>
+<summary>Wandy3D 制作简报</summary>
+
+```text
+Build a browser first-person shooter inspired by a classic competitive bomb-defusal map, as one self-contained HTML file using Three.js with no build step. Create a sandy desert level with tan brick walls, tunnels, a raised catwalk and a long open lane, using PBR materials. Give the player a rifle, a scoped sniper rifle, a submachine gun and a knife, each with firing, reloading and weapon switching. Add around ten AI bots that patrol, react to gunfire and advance on the player's position. Include headshot detection, a kill feed, a health and ammo HUD, a scope overlay and a two-minute round timer. Generate every sound procedurally with the Web Audio API so no audio files are needed. Controls: mouse look, WASD movement, click to fire, R to reload, number keys to switch weapons. Done means the page opens locally and plays a complete round from spawn to the timer ending.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/single-file-three-js-fps-with-a-desert-map-ai-bots-and-2080821527365218759?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/Oluwaphilemon1/status/2080821527365218759)
+
+---
+
+### [带开火按钮和分解视图的 Three.js 程序化枪械模型](https://wandy3d.com/zh/prompts/procedural-three-js-firearm-models-with-fire-button-and-2080757148078768504?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/procedural-three-js-firearm-models-with-fire-button-and-2080757148078768504?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-three-js-firearm-models-with-fire-button-and-2080757148078768504.webp" width="640" alt="带开火按钮和分解视图的 Three.js 程序化枪械模型"></a>
+
+**Claude Opus 5** · 资产 · 作者 [thehype.](https://x.com/thehypedotnews) · 2026-07-24
+
+四模型对比测试中 Claude Opus 5 细节最佳：Three.js 程序化枪械可带声音开火，并拆解为带标签的零件。
+
+<details>
+<summary>Wandy3D 制作简报</summary>
+
+```text
+Build a single self-contained HTML file with Three.js that shows a fully procedural firearm model with no external assets. Model it at real-world scale from named reference stations: a carbine with a collapsible stock, quad rail with panel numbers, red-dot sight, foregrip and bipod, or a compact machine pistol or submachine gun with ribbed housing, threaded barrel and a translucent magazine. Add engraved markings on the sides. Use a dark studio with a narrow overhead light strip so black-on-black parts separate through different roughness values, not colour. Add a small fire button that plays a Web Audio gunshot, a muzzle flash, recoil and ejected brass. Add a disassemble toggle that explodes the model into labelled parts and rebuilds it smoothly. Orbit camera controls. Done means the model renders cleanly, fires, disassembles and reassembles without glitches, and the lettering reads correctly from both sides.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/procedural-three-js-firearm-models-with-fire-button-and-2080757148078768504?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/thehypedotnews/status/2080757148078768504)
+
+---
+
+### [用 Three.js 做一个从1945到2055年演变的城市街区](https://wandy3d.com/zh/prompts/city-block-that-evolves-from-1945-to-2055-in-three-js-2080724552422924382?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/city-block-that-evolves-from-1945-to-2055-in-three-js-2080724552422924382?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/city-block-that-evolves-from-1945-to-2055-in-three-js-2080724552422924382.webp" width="640" alt="用 Three.js 做一个从1945到2055年演变的城市街区"></a>
+
+**Claude Opus 5** · 场景 · 作者 [Choblin](https://x.com/choblin29) · 2026-07-24
+
+Claude Opus 5 在多模型对比中胜出：单个 HTML 的 Three.js 街区，店铺、车辆和光照随年代变化。
+
+<details>
+<summary>Wandy3D 制作简报</summary>
+
+```text
+Build a single self-contained HTML file with Three.js that shows one city street block transforming across eras from 1945 to 2055. Add a timeline slider along the top that jumps between decades. Each era swaps the buildings, storefront signs, parked and moving cars, street furniture, trees and pedestrians, and changes the lighting mood and ambient sound effects. Use a stylized low-poly look with warm sepia tones for the post-war years, saturated neon signage for the mid-century, and clean glass and greenery for the modern and future eras. Include a small info card for the current era with a short description, plus controls for time of day, camera presets (street, aerial, free orbit) and toggles for effects. Let the user orbit with the mouse. Transitions between eras should animate smoothly rather than cut. Done means the block visibly evolves across all decades, the controls respond, and it runs by opening the file in a browser.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/city-block-that-evolves-from-1945-to-2055-in-three-js-2080724552422924382?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/choblin29/status/2080724552422924382)
+
+---
+
+### [用 Three.js 制作达·芬奇风格的木制扑翼机并让翅膀拍动](https://wandy3d.com/zh/prompts/da-vinci-style-wooden-ornithopter-with-flapping-wings-in-2080720533277319587?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/da-vinci-style-wooden-ornithopter-with-flapping-wings-in-2080720533277319587?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/da-vinci-style-wooden-ornithopter-with-flapping-wings-in-2080720533277319587.webp" width="640" alt="用 Three.js 制作达·芬奇风格的木制扑翼机并让翅膀拍动"></a>
+
+**Claude Opus 5** · 资产 · 作者 [Harshith](https://x.com/HarshithLucky3) · 2026-07-24
+
+Claude Opus 5 仅凭一行提示词做出木质扑翼机，带肋骨的翅膀会拍动，还能环绕观察。
+
+<details>
+<summary>提示词</summary>
+
+```text
+leonardo da vinci ornithopter in three js
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/da-vinci-style-wooden-ornithopter-with-flapping-wings-in-2080720533277319587?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/HarshithLucky3/status/2080720533277319587)
+
+---
+
+### [类愤怒的小鸟弹弓游戏，含多种小鸟和多个关卡](https://wandy3d.com/zh/prompts/angry-birds-style-slingshot-game-with-unique-birds-and-many-2080624574883123541?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/angry-birds-style-slingshot-game-with-unique-birds-and-many-2080624574883123541?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/angry-birds-style-slingshot-game-with-unique-birds-and-many-2080624574883123541.webp" width="640" alt="类愤怒的小鸟弹弓游戏，含多种小鸟和多个关卡"></a>
+
+**Claude Fable 5** · 游戏 · 作者 [Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24
+
+四个模型同一提示词的对比：Claude Fable 5 做出可玩的弹弓游戏，优于 GPT 5.6 Sol、Kimi K3 和 Gemini 3.6 Flash。
+
+<details>
+<summary>提示词</summary>
+
+```text
+Make an Angry Bird Clone with unique birds, multiple levels and mechanics.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/angry-birds-style-slingshot-game-with-unique-birds-and-many-2080624574883123541?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/BuildFastWithAI/status/2080624574883123541)
+
+---
+
+### [用 Three.js 制作玻璃真空管中的磁悬浮子弹头列车和实时 HUD](https://wandy3d.com/zh/prompts/maglev-bullet-train-in-a-glass-vacuum-tube-with-a-live-hud-2080454415400493332?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/maglev-bullet-train-in-a-glass-vacuum-tube-with-a-live-hud-2080454415400493332?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/maglev-bullet-train-in-a-glass-vacuum-tube-with-a-live-hud-2080454415400493332.webp" width="640" alt="用 Three.js 制作玻璃真空管中的磁悬浮子弹头列车和实时 HUD"></a>
+
+**Claude Fable 5** · 场景 · 作者 [Pixel](https://x.com/Pixel_Neuron) · 2026-07-24
+
+在 Gemini 与 Claude Fable 5 的对比中，Fable 5 为 Three.js 磁悬浮场景加入了速度、气压和悬浮间隙 HUD。
+
+<details>
+<summary>提示词</summary>
+
+```text
+A futuristic maglev bullet train speeding through a transparent glass vacuum tube.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/maglev-bullet-train-in-a-glass-vacuum-tube-with-a-live-hud-2080454415400493332?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/Pixel_Neuron/status/2080454415400493332)
+
+---
+
+### [变色龙捉迷藏游戏：把自己涂成与墙面相同的颜色](https://wandy3d.com/zh/prompts/chameleon-hide-and-seek-game-where-you-paint-yourself-to-2080392777515311115?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/chameleon-hide-and-seek-game-where-you-paint-yourself-to-2080392777515311115?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/chameleon-hide-and-seek-game-where-you-paint-yourself-to-2080392777515311115.webp" width="640" alt="变色龙捉迷藏游戏：把自己涂成与墙面相同的颜色"></a>
+
+**Kimi K3** · 游戏 · 作者 [Hustlerok](https://x.com/0xhustlerok) · 2026-07-23
+
+Kimi K3 在同一提示词对比中胜过 Fable 5：单文件游戏，变色龙给自己涂色融入墙面，躲避机器人的搜索。
+
+<details>
+<summary>Wandy3D 制作简报</summary>
+
+```text
+Build a single-file, playable hide-and-seek game in one self-contained HTML file. The player is a cartoon chameleon placed in front of a backdrop of colorful wall panels: red brick, a leafy bush, blue stripes, purple dots and yellow texture. In the hide phase, the chameleon moves with the keyboard to a spot, then switches to a paint phase where a small palette, brush-size slider and eyedropper let the player recolor its body to match the wall behind it. A timer counts down each phase. In the seek phase a robot searcher sweeps the room with a flashlight, and the player can hold a key to freeze and hold its breath. Score each round from the live colour match percentage, the hiding spot and the time bonus, and show a round summary card comparing the paint job with the actual background. Run three rounds, then show the final score. Use a bright, hand-drawn cartoon look with a title screen explaining the controls. Done means the whole loop works from start screen to final score with no errors.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/chameleon-hide-and-seek-game-where-you-paint-yourself-to-2080392777515311115?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/0xhustlerok/status/2080392777515311115)
+
+---
+
+### [带风力与灯光预设的程序化 3D 樱花树](https://wandy3d.com/zh/prompts/procedural-3d-cherry-blossom-tree-with-wind-and-lighting-2080178541979664741?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/procedural-3d-cherry-blossom-tree-with-wind-and-lighting-2080178541979664741?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-3d-cherry-blossom-tree-with-wind-and-lighting-2080178541979664741.webp" width="640" alt="带风力与灯光预设的程序化 3D 樱花树"></a>
+
+**Gemini 3.6 Flash** · 资产 · 作者 [zhod](https://x.com/zhodonx) · 2026-07-23
+
+对比测试中，Gemini 3.6 Flash 从零生成了枝繁叶茂的樱花树，带风力和灯光预设；Fable 5 的树冠则较稀疏。
+
+<details>
+<summary>提示词</summary>
+
+```text
+Build a 3D cherry blossom tree; give it no prebuilt tree libraries; the model has to generate the structure itself
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/procedural-3d-cherry-blossom-tree-with-wind-and-lighting-2080178541979664741?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/zhodonx/status/2080178541979664741)
+
+---
+
+### [WebGL2 实时黑洞光线追踪：引力透镜与吸积盘](https://wandy3d.com/zh/prompts/real-time-webgl2-black-hole-raytracer-with-lensing-and-2079590483727442205?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/real-time-webgl2-black-hole-raytracer-with-lensing-and-2079590483727442205?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/real-time-webgl2-black-hole-raytracer-with-lensing-and-2079590483727442205.webp" width="640" alt="WebGL2 实时黑洞光线追踪：引力透镜与吸积盘"></a>
+
+**Kimi K3** · 互动 · 作者 [Harsh](https://x.com/devloper_hs) · 2026-07-21
+
+Kimi K3 用原生 WebGL2 在单文件中实现了史瓦西黑洞：带引力透镜的发光吸积盘、环绕相机和可调滑块面板。
+
+<details>
+<summary>提示词</summary>
+
+```text
+Create a complete, self-contained single HTML file (no external libraries like Three.js) that implements a real-time geodesic raytracer for a Schwarzschild black hole inspired by Gargantua.
+
+Use raw WebGL2 with GLSL ES 3.00 in a single fragment shader. Implement accurate physics: null geodesic integration with 4th-order Runge-Kutta solver, event horizon, photon sphere, accretion disk with proper rendering, gravitational lensing, Doppler beaming, and gravitational redshift effects. Target stable 60 FPS performance.
+
+Include mouse-controlled camera orbiting/zooming, and a cyberpunk-style control panel with sliders for parameters (mass, spin, disk density, view angle, etc.). Add subtle particle effects for matter falling in and dynamic lighting/shadows.
+
+The output must be 100% complete, immediately runnable in a modern browser, with no black screen, NaNs, errors, or missing features. Prioritize numerical correctness, boundary handling, solver discipline, and physical accuracy above all. Verify and comment key physics equations in the code. Make it visually stunning and interactive like a premium physics demo/game.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/real-time-webgl2-black-hole-raytracer-with-lensing-and-2079590483727442205?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/devloper_hs/status/2079590483727442205)
+
+---
+
+### [用 Three.js 制作体素风足球进球庆祝动画](https://wandy3d.com/zh/prompts/voxel-soccer-goal-animation-with-celebration-particles-in-2079553757302710442?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/voxel-soccer-goal-animation-with-celebration-particles-in-2079553757302710442?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/voxel-soccer-goal-animation-with-celebration-particles-in-2079553757302710442.webp" width="640" alt="用 Three.js 制作体素风足球进球庆祝动画"></a>
+
+**Kimi K3** · 动画 · 作者 [Thành](https://x.com/Zmthanh) · 2026-07-21
+
+Kimi K3 在与 GLM-5.2 的对比中胜出:一条提示词生成体素球员过掉两名后卫,在彩色球场进球并撒出庆祝粒子。
+
+<details>
+<summary>提示词</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/voxel-soccer-goal-animation-with-celebration-particles-in-2079553757302710442?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/Zmthanh/status/2079553757302710442)
+
+---
+
+### [基于真实建筑数据,一条提示词在 Blender 中生成曼哈顿](https://wandy3d.com/zh/prompts/manhattan-built-in-blender-from-real-footprints-with-one-2079387760478073087?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/manhattan-built-in-blender-from-real-footprints-with-one-2079387760478073087?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/manhattan-built-in-blender-from-real-footprints-with-one-2079387760478073087.webp" width="640" alt="基于真实建筑数据,一条提示词在 Blender 中生成曼哈顿"></a>
+
+**GPT 5.6 Sol** · 场景 · 作者 [Martin Puli](https://x.com/MartinPulitano) · 2026-07-21
+
+GPT 5.6 Sol 通过 MCP 操控 Blender,用一句简短提示词生成按比例的曼哈顿,含中央公园与港口,并可飞行浏览。
+
+<details>
+<summary>提示词</summary>
+
+```text
+armá Nueva York
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/manhattan-built-in-blender-from-real-footprints-with-one-2079387760478073087?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/MartinPulitano/status/2079387760478073087)
+
+---
+
+### [用 Three.js 制作带记分牌与彩带的体素足球进球动画](https://wandy3d.com/zh/prompts/voxel-soccer-goal-animation-with-a-scoreboard-and-confetti-2079198084689723560?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/voxel-soccer-goal-animation-with-a-scoreboard-and-confetti-2079198084689723560?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/voxel-soccer-goal-animation-with-a-scoreboard-and-confetti-2079198084689723560.webp" width="640" alt="用 Three.js 制作带记分牌与彩带的体素足球进球动画"></a>
+
+**Qwen3.8-Max-Preview** · 动画 · 作者 [Thành](https://x.com/Zmthanh) · 2026-07-20
+
+对比实验:被评为胜者的 Qwen3.8-Max-Preview 与 Fable 5 用同一提示词各生成一段带 GOAL 字样的体素足球进球场景。
+
+<details>
+<summary>提示词</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/voxel-soccer-goal-animation-with-a-scoreboard-and-confetti-2079198084689723560?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/Zmthanh/status/2079198084689723560)
+
+---
+
+### [可在机舱内行走的 Three.js 客机查看器](https://wandy3d.com/zh/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132.webp" width="640" alt="可在机舱内行走的 Three.js 客机查看器"></a>
+
+**Claude Fable 5** · 互动 · 作者 [FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-19
+
+在 Claude Code 中,Claude Fable 5 把一句提示词变成可绕机外观察、也能走进摆满座椅客舱的客机体验。
+
+<details>
+<summary>提示词</summary>
+
+```text
+Generate in Three.js an experience allowing me to visualize a 3D airplane model and walk inside it.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/Oluwaphilemon1/status/2078806166122197132)
 
 ---
 

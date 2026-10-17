@@ -6,6 +6,27 @@
 
 [← 前へ](catalog.ja.7.md) · 8 ページ中 8 ページ目
 
+### [3Dミニゲーム3本：粘着ボール、カピバラ川下り、餃子のコンベア回避](https://wandy3d.com/ja/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400.webp" width="640" alt="3Dミニゲーム3本：粘着ボール、カピバラ川下り、餃子のコンベア回避"></a>
+
+**Claude Fable 5.1** · ゲーム · 作者 [Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01
+
+比較企画：Claude Fable 5.1と旧版に同じ3本のゲーム指示を与え、新版の方が低コストで完成しました。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build three small browser games, each as its own self-contained HTML file with a 3D look. Game one: a sticky ball rolling through a toy city that picks up everything in its path and grows, shown from a chase camera with a score and size readout. Game two: an endless-runner river course where a capybara surfs downstream, steering left and right around logs and buoys, with rings to pass through, a final stretch with a checkered finish line and a placement screen with a replay button. Game three: a dumpling dodging obstacles on an endless conveyor belt in a dim kitchen-like hall with hanging lamps, speeding up over time. Use bright, readable colours, simple keyboard or touch steering, a restart option, and a distance or timer HUD. Done means each game starts, scores and ends cleanly.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/atomicagent_io/status/2094895071304839400)
+
+---
+
 ### [滑走する旅客機と地上作業員がいるThree.js製の空港シーン](https://wandy3d.com/ja/prompts/procedural-three-js-airport-with-taxiing-planes-and-ground-2094893572617044439?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
 <a href="https://wandy3d.com/ja/prompts/procedural-three-js-airport-with-taxiing-planes-and-ground-2094893572617044439?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-three-js-airport-with-taxiing-planes-and-ground-2094893572617044439.webp" width="640" alt="滑走する旅客機と地上作業員がいるThree.js製の空港シーン"></a>
@@ -765,6 +786,285 @@ build an explorable Japanese suburban street in Three.js, full 3D, rendered like
 </details>
 
 [Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/explorable-anime-style-japanese-suburban-street-with-a-2080834581247435102?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/gmi_cloud/status/2080834581247435102)
+
+---
+
+### [砂漠マップとAIボット、スコープ付きライフルのThree.js製FPS（単一HTML）](https://wandy3d.com/ja/prompts/single-file-three-js-fps-with-a-desert-map-ai-bots-and-2080821527365218759?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/single-file-three-js-fps-with-a-desert-map-ai-bots-and-2080821527365218759?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/single-file-three-js-fps-with-a-desert-map-ai-bots-and-2080821527365218759.webp" width="640" alt="砂漠マップとAIボット、スコープ付きライフルのThree.js製FPS（単一HTML）"></a>
+
+**Kimi K3** · ゲーム · 作者 [FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25
+
+Kimi K3が単一HTMLでCounter-Strike風のブラウザFPSを作成。動画ではOpus 5版との比較も見られます。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a browser first-person shooter inspired by a classic competitive bomb-defusal map, as one self-contained HTML file using Three.js with no build step. Create a sandy desert level with tan brick walls, tunnels, a raised catwalk and a long open lane, using PBR materials. Give the player a rifle, a scoped sniper rifle, a submachine gun and a knife, each with firing, reloading and weapon switching. Add around ten AI bots that patrol, react to gunfire and advance on the player's position. Include headshot detection, a kill feed, a health and ammo HUD, a scope overlay and a two-minute round timer. Generate every sound procedurally with the Web Audio API so no audio files are needed. Controls: mouse look, WASD movement, click to fire, R to reload, number keys to switch weapons. Done means the page opens locally and plays a complete round from spawn to the timer ending.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/single-file-three-js-fps-with-a-desert-map-ai-bots-and-2080821527365218759?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/Oluwaphilemon1/status/2080821527365218759)
+
+---
+
+### [発砲ボタンと分解表示付きのThree.js手続き型銃モデル](https://wandy3d.com/ja/prompts/procedural-three-js-firearm-models-with-fire-button-and-2080757148078768504?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/procedural-three-js-firearm-models-with-fire-button-and-2080757148078768504?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-three-js-firearm-models-with-fire-button-and-2080757148078768504.webp" width="640" alt="発砲ボタンと分解表示付きのThree.js手続き型銃モデル"></a>
+
+**Claude Opus 5** · アセット · 作者 [thehype.](https://x.com/thehypedotnews) · 2026-07-24
+
+4モデル比較でClaude Opus 5がディテールで優位。音付きで発砲し、名前付きパーツに分解するThree.js製の銃です。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a single self-contained HTML file with Three.js that shows a fully procedural firearm model with no external assets. Model it at real-world scale from named reference stations: a carbine with a collapsible stock, quad rail with panel numbers, red-dot sight, foregrip and bipod, or a compact machine pistol or submachine gun with ribbed housing, threaded barrel and a translucent magazine. Add engraved markings on the sides. Use a dark studio with a narrow overhead light strip so black-on-black parts separate through different roughness values, not colour. Add a small fire button that plays a Web Audio gunshot, a muzzle flash, recoil and ejected brass. Add a disassemble toggle that explodes the model into labelled parts and rebuilds it smoothly. Orbit camera controls. Done means the model renders cleanly, fires, disassembles and reassembles without glitches, and the lettering reads correctly from both sides.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/procedural-three-js-firearm-models-with-fire-button-and-2080757148078768504?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/thehypedotnews/status/2080757148078768504)
+
+---
+
+### [1945年から2055年まで変化する街区をThree.jsで作る](https://wandy3d.com/ja/prompts/city-block-that-evolves-from-1945-to-2055-in-three-js-2080724552422924382?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/city-block-that-evolves-from-1945-to-2055-in-three-js-2080724552422924382?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/city-block-that-evolves-from-1945-to-2055-in-three-js-2080724552422924382.webp" width="640" alt="1945年から2055年まで変化する街区をThree.jsで作る"></a>
+
+**Claude Opus 5** · シーン · 作者 [Choblin](https://x.com/choblin29) · 2026-07-24
+
+Claude Opus 5が複数モデル比較で勝った例。店舗や車、照明が年代ごとに変わる、単一HTMLのThree.js街区です。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a single self-contained HTML file with Three.js that shows one city street block transforming across eras from 1945 to 2055. Add a timeline slider along the top that jumps between decades. Each era swaps the buildings, storefront signs, parked and moving cars, street furniture, trees and pedestrians, and changes the lighting mood and ambient sound effects. Use a stylized low-poly look with warm sepia tones for the post-war years, saturated neon signage for the mid-century, and clean glass and greenery for the modern and future eras. Include a small info card for the current era with a short description, plus controls for time of day, camera presets (street, aerial, free orbit) and toggles for effects. Let the user orbit with the mouse. Transitions between eras should animate smoothly rather than cut. Done means the block visibly evolves across all decades, the controls respond, and it runs by opening the file in a browser.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/city-block-that-evolves-from-1945-to-2055-in-three-js-2080724552422924382?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/choblin29/status/2080724552422924382)
+
+---
+
+### [ダ・ヴィンチ風の木製オーニソプターをThree.jsで羽ばたかせる](https://wandy3d.com/ja/prompts/da-vinci-style-wooden-ornithopter-with-flapping-wings-in-2080720533277319587?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/da-vinci-style-wooden-ornithopter-with-flapping-wings-in-2080720533277319587?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/da-vinci-style-wooden-ornithopter-with-flapping-wings-in-2080720533277319587.webp" width="640" alt="ダ・ヴィンチ風の木製オーニソプターをThree.jsで羽ばたかせる"></a>
+
+**Claude Opus 5** · アセット · 作者 [Harshith](https://x.com/HarshithLucky3) · 2026-07-24
+
+Claude Opus 5が1行のプロンプトから木造のオーニソプターを生成。リブ入りの翼が羽ばたき、周囲を回して眺められます。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+leonardo da vinci ornithopter in three js
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/da-vinci-style-wooden-ornithopter-with-flapping-wings-in-2080720533277319587?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/HarshithLucky3/status/2080720533277319587)
+
+---
+
+### [個性的な鳥と複数ステージを備えたAngry Birds風パチンコゲーム](https://wandy3d.com/ja/prompts/angry-birds-style-slingshot-game-with-unique-birds-and-many-2080624574883123541?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/angry-birds-style-slingshot-game-with-unique-birds-and-many-2080624574883123541?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/angry-birds-style-slingshot-game-with-unique-birds-and-many-2080624574883123541.webp" width="640" alt="個性的な鳥と複数ステージを備えたAngry Birds風パチンコゲーム"></a>
+
+**Claude Fable 5** · ゲーム · 作者 [Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24
+
+同じプロンプトで4モデルを比較した例。Claude Fable 5が遊べるパチンコゲームを作り、GPT 5.6 SolやKimi K3、Gemini 3.6 Flashを上回りました。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+Make an Angry Bird Clone with unique birds, multiple levels and mechanics.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/angry-birds-style-slingshot-game-with-unique-birds-and-many-2080624574883123541?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/BuildFastWithAI/status/2080624574883123541)
+
+---
+
+### [ガラス製真空チューブを走るリニア弾丸列車とHUDをThree.jsで作る](https://wandy3d.com/ja/prompts/maglev-bullet-train-in-a-glass-vacuum-tube-with-a-live-hud-2080454415400493332?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/maglev-bullet-train-in-a-glass-vacuum-tube-with-a-live-hud-2080454415400493332?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/maglev-bullet-train-in-a-glass-vacuum-tube-with-a-live-hud-2080454415400493332.webp" width="640" alt="ガラス製真空チューブを走るリニア弾丸列車とHUDをThree.jsで作る"></a>
+
+**Claude Fable 5** · シーン · 作者 [Pixel](https://x.com/Pixel_Neuron) · 2026-07-24
+
+GeminiとClaude Fable 5の比較で、Fable 5は速度や気圧、浮上ギャップを表示するHUD付きのThree.jsリニア走行シーンを作りました。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+A futuristic maglev bullet train speeding through a transparent glass vacuum tube.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/maglev-bullet-train-in-a-glass-vacuum-tube-with-a-live-hud-2080454415400493332?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/Pixel_Neuron/status/2080454415400493332)
+
+---
+
+### [壁の色に合わせて体を塗るカメレオンのかくれんぼゲーム](https://wandy3d.com/ja/prompts/chameleon-hide-and-seek-game-where-you-paint-yourself-to-2080392777515311115?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/chameleon-hide-and-seek-game-where-you-paint-yourself-to-2080392777515311115?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/chameleon-hide-and-seek-game-where-you-paint-yourself-to-2080392777515311115.webp" width="640" alt="壁の色に合わせて体を塗るカメレオンのかくれんぼゲーム"></a>
+
+**Kimi K3** · ゲーム · 作者 [Hustlerok](https://x.com/0xhustlerok) · 2026-07-23
+
+同じプロンプトでの比較でFable 5に勝ったKimi K3の作品。カメレオンが壁に合わせて色を塗り、ロボットから隠れる1ファイルのゲームです。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a single-file, playable hide-and-seek game in one self-contained HTML file. The player is a cartoon chameleon placed in front of a backdrop of colorful wall panels: red brick, a leafy bush, blue stripes, purple dots and yellow texture. In the hide phase, the chameleon moves with the keyboard to a spot, then switches to a paint phase where a small palette, brush-size slider and eyedropper let the player recolor its body to match the wall behind it. A timer counts down each phase. In the seek phase a robot searcher sweeps the room with a flashlight, and the player can hold a key to freeze and hold its breath. Score each round from the live colour match percentage, the hiding spot and the time bonus, and show a round summary card comparing the paint job with the actual background. Run three rounds, then show the final score. Use a bright, hand-drawn cartoon look with a title screen explaining the controls. Done means the whole loop works from start screen to final score with no errors.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/chameleon-hide-and-seek-game-where-you-paint-yourself-to-2080392777515311115?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/0xhustlerok/status/2080392777515311115)
+
+---
+
+### [風とライティング切替付きの手続き型3D桜の木](https://wandy3d.com/ja/prompts/procedural-3d-cherry-blossom-tree-with-wind-and-lighting-2080178541979664741?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/procedural-3d-cherry-blossom-tree-with-wind-and-lighting-2080178541979664741?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-3d-cherry-blossom-tree-with-wind-and-lighting-2080178541979664741.webp" width="640" alt="風とライティング切替付きの手続き型3D桜の木"></a>
+
+**Gemini 3.6 Flash** · アセット · 作者 [zhod](https://x.com/zhodonx) · 2026-07-23
+
+比較企画で、Gemini 3.6 Flashが桜の木をゼロから生成。風とライティングのプリセット付きで、Fable 5より花の密度が高い仕上がりでした。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+Build a 3D cherry blossom tree; give it no prebuilt tree libraries; the model has to generate the structure itself
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/procedural-3d-cherry-blossom-tree-with-wind-and-lighting-2080178541979664741?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/zhodonx/status/2080178541979664741)
+
+---
+
+### [WebGL2で動くブラックホールのレイトレーサー（重力レンズと降着円盤）](https://wandy3d.com/ja/prompts/real-time-webgl2-black-hole-raytracer-with-lensing-and-2079590483727442205?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/real-time-webgl2-black-hole-raytracer-with-lensing-and-2079590483727442205?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/real-time-webgl2-black-hole-raytracer-with-lensing-and-2079590483727442205.webp" width="640" alt="WebGL2で動くブラックホールのレイトレーサー（重力レンズと降着円盤）"></a>
+
+**Kimi K3** · インタラクティブ · 作者 [Harsh](https://x.com/devloper_hs) · 2026-07-21
+
+Kimi K3が生のWebGL2でシュワルツシルト・ブラックホールを1ファイルで実装。レンズ効果の円盤、周回カメラ、調整用スライダー付きです。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+Create a complete, self-contained single HTML file (no external libraries like Three.js) that implements a real-time geodesic raytracer for a Schwarzschild black hole inspired by Gargantua.
+
+Use raw WebGL2 with GLSL ES 3.00 in a single fragment shader. Implement accurate physics: null geodesic integration with 4th-order Runge-Kutta solver, event horizon, photon sphere, accretion disk with proper rendering, gravitational lensing, Doppler beaming, and gravitational redshift effects. Target stable 60 FPS performance.
+
+Include mouse-controlled camera orbiting/zooming, and a cyberpunk-style control panel with sliders for parameters (mass, spin, disk density, view angle, etc.). Add subtle particle effects for matter falling in and dynamic lighting/shadows.
+
+The output must be 100% complete, immediately runnable in a modern browser, with no black screen, NaNs, errors, or missing features. Prioritize numerical correctness, boundary handling, solver discipline, and physical accuracy above all. Verify and comment key physics equations in the code. Make it visually stunning and interactive like a premium physics demo/game.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/real-time-webgl2-black-hole-raytracer-with-lensing-and-2079590483727442205?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/devloper_hs/status/2079590483727442205)
+
+---
+
+### [Three.jsで作るボクセル風サッカーのゴール演出アニメーション](https://wandy3d.com/ja/prompts/voxel-soccer-goal-animation-with-celebration-particles-in-2079553757302710442?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/voxel-soccer-goal-animation-with-celebration-particles-in-2079553757302710442?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/voxel-soccer-goal-animation-with-celebration-particles-in-2079553757302710442.webp" width="640" alt="Three.jsで作るボクセル風サッカーのゴール演出アニメーション"></a>
+
+**Kimi K3** · アニメーション · 作者 [Thành](https://x.com/Zmthanh) · 2026-07-21
+
+Kimi K3がGLM-5.2との比較で勝利。1つのプロンプトで、ボクセルの選手が守備を2人かわし、カラフルなスタジアムでゴールを決めます。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/voxel-soccer-goal-animation-with-celebration-particles-in-2079553757302710442?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/Zmthanh/status/2079553757302710442)
+
+---
+
+### [実データを基にBlenderで一発生成したマンハッタンの3Dモデル](https://wandy3d.com/ja/prompts/manhattan-built-in-blender-from-real-footprints-with-one-2079387760478073087?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/manhattan-built-in-blender-from-real-footprints-with-one-2079387760478073087?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/manhattan-built-in-blender-from-real-footprints-with-one-2079387760478073087.webp" width="640" alt="実データを基にBlenderで一発生成したマンハッタンの3Dモデル"></a>
+
+**GPT 5.6 Sol** · シーン · 作者 [Martin Puli](https://x.com/MartinPulitano) · 2026-07-21
+
+GPT 5.6 SolがMCP経由でBlenderを操作し、短いプロンプトから実寸のマンハッタンを生成。セントラルパークや港も飛行して確認できます。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+armá Nueva York
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/manhattan-built-in-blender-from-real-footprints-with-one-2079387760478073087?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/MartinPulitano/status/2079387760478073087)
+
+---
+
+### [Three.jsで作るスコアボードと紙吹雪付きボクセルサッカーのゴール](https://wandy3d.com/ja/prompts/voxel-soccer-goal-animation-with-a-scoreboard-and-confetti-2079198084689723560?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/voxel-soccer-goal-animation-with-a-scoreboard-and-confetti-2079198084689723560?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/voxel-soccer-goal-animation-with-a-scoreboard-and-confetti-2079198084689723560.webp" width="640" alt="Three.jsで作るスコアボードと紙吹雪付きボクセルサッカーのゴール"></a>
+
+**Qwen3.8-Max-Preview** · アニメーション · 作者 [Thành](https://x.com/Zmthanh) · 2026-07-20
+
+比較企画:勝者とされたQwen3.8-Max-PreviewとFable 5が、同じプロンプトからGOAL表示付きのボクセルサッカー場面を生成しました。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/voxel-soccer-goal-animation-with-a-scoreboard-and-confetti-2079198084689723560?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/Zmthanh/status/2079198084689723560)
+
+---
+
+### [機内を歩ける旅客機ビューア(Three.js)](https://wandy3d.com/ja/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132.webp" width="640" alt="機内を歩ける旅客機ビューア(Three.js)"></a>
+
+**Claude Fable 5** · インタラクティブ · 作者 [FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-19
+
+Claude CodeでClaude Fable 5が1行のプロンプトから旅客機を生成。外観を回して眺め、座席が並ぶ客室内も歩けます。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+Generate in Three.js an experience allowing me to visualize a 3D airplane model and walk inside it.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/Oluwaphilemon1/status/2078806166122197132)
 
 ---
 

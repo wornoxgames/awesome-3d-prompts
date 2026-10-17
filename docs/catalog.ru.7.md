@@ -363,6 +363,27 @@ Build a 3D city street scene in Blender, driven through a Blender MCP connection
 
 ---
 
+### [Логово дракона с грудой золота: черновая сцена в Blender](https://wandy3d.com/ru/prompts/work-in-progress-dragon-lair-with-a-gold-hoard-built-in-2095149546187653547?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/work-in-progress-dragon-lair-with-a-gold-hoard-built-in-2095149546187653547?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/work-in-progress-dragon-lair-with-a-gold-hoard-built-in-2095149546187653547.webp" width="640" alt="Логово дракона с грудой золота: черновая сцена в Blender"></a>
+
+**Claude Fable 5.1** · Сцены · автор [Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02
+
+Claude Fable 5.1 вместе с Blender собрал каменное логово дракона при свете жаровен: кости на полу и гора монет на переднем плане.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a moody 3D dragon lair environment in Blender, scripted with Python so it can be rerun. The set is a large underground hall of weathered stone brick walls, square columns, stairs and rough cave rock overhead. Scatter props across the floor: skeleton bones, broken slabs, clay urns and iron braziers with live flames. In one corner heap a huge hoard of thousands of individual gold coins with a chalice, a sword and other treasure on top. Light the scene almost entirely with warm amber firelight and small glows, leaving deep shadows in the corners and a hint of a bright opening in the distance. Use physically based materials, soft depth of field and a slight film grain. Provide several camera angles: a wide hall view, a stair view looking down into the hall, and a close macro shot of the coins. Deliver the .py script plus rendered stills. Done means the hall reads clearly as a dragon's treasure room and the coin pile catches highlights.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/work-in-progress-dragon-lair-with-a-gold-hoard-built-in-2095149546187653547?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/majidmanzarpour/status/2095149546187653547)
+
+---
+
 ### [Многопользовательский мир парусных кораблей на Three.js](https://wandy3d.com/ru/prompts/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
 <a href="https://wandy3d.com/ru/prompts/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600.webp" width="640" alt="Многопользовательский мир парусных кораблей на Three.js"></a>
@@ -1038,27 +1059,6 @@ Build a large medieval voxel kingdom that runs in the browser, ideally as a sing
 </details>
 
 [Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/knowixbuilds/status/2094899477626720403)
-
----
-
-### [Три мини-игры в 3D: липкий шар, капибара на реке, пельмень на конвейере](https://wandy3d.com/ru/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ru/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400.webp" width="640" alt="Три мини-игры в 3D: липкий шар, капибара на реке, пельмень на конвейере"></a>
-
-**Claude Fable 5.1** · Игры · автор [Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01
-
-Сравнение: Claude Fable 5.1 и предыдущая версия получили одинаковые промпты для трёх игр, новая справилась дешевле.
-
-<details>
-<summary>Бриф от Wandy3D</summary>
-
-```text
-Build three small browser games, each as its own self-contained HTML file with a 3D look. Game one: a sticky ball rolling through a toy city that picks up everything in its path and grows, shown from a chase camera with a score and size readout. Game two: an endless-runner river course where a capybara surfs downstream, steering left and right around logs and buoys, with rings to pass through, a final stretch with a checkered finish line and a placement screen with a replay button. Game three: a dumpling dodging obstacles on an endless conveyor belt in a dim kitchen-like hall with hanging lamps, speeding up over time. Use bright, readable colours, simple keyboard or touch steering, a restart option, and a distance or timer HUD. Done means each game starts, scores and ends cleanly.
-```
-
-</details>
-
-[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/atomicagent_io/status/2094895071304839400)
 
 ---
 

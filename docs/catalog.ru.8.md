@@ -6,6 +6,27 @@
 
 [← Назад](catalog.ru.7.md) · страница 8 из 8
 
+### [Три мини-игры в 3D: липкий шар, капибара на реке, пельмень на конвейере](https://wandy3d.com/ru/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400.webp" width="640" alt="Три мини-игры в 3D: липкий шар, капибара на реке, пельмень на конвейере"></a>
+
+**Claude Fable 5.1** · Игры · автор [Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01
+
+Сравнение: Claude Fable 5.1 и предыдущая версия получили одинаковые промпты для трёх игр, новая справилась дешевле.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build three small browser games, each as its own self-contained HTML file with a 3D look. Game one: a sticky ball rolling through a toy city that picks up everything in its path and grows, shown from a chase camera with a score and size readout. Game two: an endless-runner river course where a capybara surfs downstream, steering left and right around logs and buoys, with rings to pass through, a final stretch with a checkered finish line and a placement screen with a replay button. Game three: a dumpling dodging obstacles on an endless conveyor belt in a dim kitchen-like hall with hanging lamps, speeding up over time. Use bright, readable colours, simple keyboard or touch steering, a restart option, and a distance or timer HUD. Done means each game starts, scores and ends cleanly.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/atomicagent_io/status/2094895071304839400)
+
+---
+
 ### [Процедурный аэропорт на Three.js с самолётами и наземными службами](https://wandy3d.com/ru/prompts/procedural-three-js-airport-with-taxiing-planes-and-ground-2094893572617044439?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
 <a href="https://wandy3d.com/ru/prompts/procedural-three-js-airport-with-taxiing-planes-and-ground-2094893572617044439?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-three-js-airport-with-taxiing-planes-and-ground-2094893572617044439.webp" width="640" alt="Процедурный аэропорт на Three.js с самолётами и наземными службами"></a>
@@ -765,6 +786,285 @@ build an explorable Japanese suburban street in Three.js, full 3D, rendered like
 </details>
 
 [Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/explorable-anime-style-japanese-suburban-street-with-a-2080834581247435102?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/gmi_cloud/status/2080834581247435102)
+
+---
+
+### [Шутер на Three.js в одном HTML: пустынная карта, боты и снайперский прицел](https://wandy3d.com/ru/prompts/single-file-three-js-fps-with-a-desert-map-ai-bots-and-2080821527365218759?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/single-file-three-js-fps-with-a-desert-map-ai-bots-and-2080821527365218759?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/single-file-three-js-fps-with-a-desert-map-ai-bots-and-2080821527365218759.webp" width="640" alt="Шутер на Three.js в одном HTML: пустынная карта, боты и снайперский прицел"></a>
+
+**Kimi K3** · Игры · автор [FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25
+
+Kimi K3 написал браузерный шутер в духе Counter-Strike в одном HTML-файле; в видео он сравнивается с версией Opus 5.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a browser first-person shooter inspired by a classic competitive bomb-defusal map, as one self-contained HTML file using Three.js with no build step. Create a sandy desert level with tan brick walls, tunnels, a raised catwalk and a long open lane, using PBR materials. Give the player a rifle, a scoped sniper rifle, a submachine gun and a knife, each with firing, reloading and weapon switching. Add around ten AI bots that patrol, react to gunfire and advance on the player's position. Include headshot detection, a kill feed, a health and ammo HUD, a scope overlay and a two-minute round timer. Generate every sound procedurally with the Web Audio API so no audio files are needed. Controls: mouse look, WASD movement, click to fire, R to reload, number keys to switch weapons. Done means the page opens locally and plays a complete round from spawn to the timer ending.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/single-file-three-js-fps-with-a-desert-map-ai-bots-and-2080821527365218759?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/Oluwaphilemon1/status/2080821527365218759)
+
+---
+
+### [Процедурные модели оружия на Three.js: выстрел и разборка на детали](https://wandy3d.com/ru/prompts/procedural-three-js-firearm-models-with-fire-button-and-2080757148078768504?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/procedural-three-js-firearm-models-with-fire-button-and-2080757148078768504?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-three-js-firearm-models-with-fire-button-and-2080757148078768504.webp" width="640" alt="Процедурные модели оружия на Three.js: выстрел и разборка на детали"></a>
+
+**Claude Opus 5** · Ассеты · автор [thehype.](https://x.com/thehypedotnews) · 2026-07-24
+
+В тесте четырёх моделей Claude Opus 5 выиграл по детализации: процедурное оружие на Three.js стреляет со звуком и разбирается на подписанные части.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a single self-contained HTML file with Three.js that shows a fully procedural firearm model with no external assets. Model it at real-world scale from named reference stations: a carbine with a collapsible stock, quad rail with panel numbers, red-dot sight, foregrip and bipod, or a compact machine pistol or submachine gun with ribbed housing, threaded barrel and a translucent magazine. Add engraved markings on the sides. Use a dark studio with a narrow overhead light strip so black-on-black parts separate through different roughness values, not colour. Add a small fire button that plays a Web Audio gunshot, a muzzle flash, recoil and ejected brass. Add a disassemble toggle that explodes the model into labelled parts and rebuilds it smoothly. Orbit camera controls. Done means the model renders cleanly, fires, disassembles and reassembles without glitches, and the lettering reads correctly from both sides.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/procedural-three-js-firearm-models-with-fire-button-and-2080757148078768504?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/thehypedotnews/status/2080757148078768504)
+
+---
+
+### [Городской квартал, меняющийся с 1945 по 2055 год, на Three.js](https://wandy3d.com/ru/prompts/city-block-that-evolves-from-1945-to-2055-in-three-js-2080724552422924382?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/city-block-that-evolves-from-1945-to-2055-in-three-js-2080724552422924382?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/city-block-that-evolves-from-1945-to-2055-in-three-js-2080724552422924382.webp" width="640" alt="Городской квартал, меняющийся с 1945 по 2055 год, на Three.js"></a>
+
+**Claude Opus 5** · Сцены · автор [Choblin](https://x.com/choblin29) · 2026-07-24
+
+Claude Opus 5 выиграл сравнение моделей: один HTML-файл на Three.js, где квартал меняет магазины, машины и свет по десятилетиям.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a single self-contained HTML file with Three.js that shows one city street block transforming across eras from 1945 to 2055. Add a timeline slider along the top that jumps between decades. Each era swaps the buildings, storefront signs, parked and moving cars, street furniture, trees and pedestrians, and changes the lighting mood and ambient sound effects. Use a stylized low-poly look with warm sepia tones for the post-war years, saturated neon signage for the mid-century, and clean glass and greenery for the modern and future eras. Include a small info card for the current era with a short description, plus controls for time of day, camera presets (street, aerial, free orbit) and toggles for effects. Let the user orbit with the mouse. Transitions between eras should animate smoothly rather than cut. Done means the block visibly evolves across all decades, the controls respond, and it runs by opening the file in a browser.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/city-block-that-evolves-from-1945-to-2055-in-three-js-2080724552422924382?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/choblin29/status/2080724552422924382)
+
+---
+
+### [Деревянный орнитоптер в духе да Винчи с машущими крыльями на Three.js](https://wandy3d.com/ru/prompts/da-vinci-style-wooden-ornithopter-with-flapping-wings-in-2080720533277319587?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/da-vinci-style-wooden-ornithopter-with-flapping-wings-in-2080720533277319587?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/da-vinci-style-wooden-ornithopter-with-flapping-wings-in-2080720533277319587.webp" width="640" alt="Деревянный орнитоптер в духе да Винчи с машущими крыльями на Three.js"></a>
+
+**Claude Opus 5** · Ассеты · автор [Harshith](https://x.com/HarshithLucky3) · 2026-07-24
+
+Claude Opus 5 собрал деревянный орнитоптер по однострочному промпту: ребристые крылья машут, а камеру можно вращать.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+leonardo da vinci ornithopter in three js
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/da-vinci-style-wooden-ornithopter-with-flapping-wings-in-2080720533277319587?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/HarshithLucky3/status/2080720533277319587)
+
+---
+
+### [Игра-рогатка в духе Angry Birds с разными птицами и уровнями](https://wandy3d.com/ru/prompts/angry-birds-style-slingshot-game-with-unique-birds-and-many-2080624574883123541?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/angry-birds-style-slingshot-game-with-unique-birds-and-many-2080624574883123541?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/angry-birds-style-slingshot-game-with-unique-birds-and-many-2080624574883123541.webp" width="640" alt="Игра-рогатка в духе Angry Birds с разными птицами и уровнями"></a>
+
+**Claude Fable 5** · Игры · автор [Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24
+
+Сравнение четырёх моделей на одном промпте: Claude Fable 5 сделал играбельную рогатку, обойдя GPT 5.6 Sol, Kimi K3 и Gemini 3.6 Flash.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+Make an Angry Bird Clone with unique birds, multiple levels and mechanics.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/angry-birds-style-slingshot-game-with-unique-birds-and-many-2080624574883123541?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/BuildFastWithAI/status/2080624574883123541)
+
+---
+
+### [Маглев в стеклянной вакуумной трубе с живым HUD на Three.js](https://wandy3d.com/ru/prompts/maglev-bullet-train-in-a-glass-vacuum-tube-with-a-live-hud-2080454415400493332?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/maglev-bullet-train-in-a-glass-vacuum-tube-with-a-live-hud-2080454415400493332?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/maglev-bullet-train-in-a-glass-vacuum-tube-with-a-live-hud-2080454415400493332.webp" width="640" alt="Маглев в стеклянной вакуумной трубе с живым HUD на Three.js"></a>
+
+**Claude Fable 5** · Сцены · автор [Pixel](https://x.com/Pixel_Neuron) · 2026-07-24
+
+В сравнении Gemini и Claude Fable 5 вторая модель добавила HUD со скоростью, давлением и зазором левитации в сцену с маглевом на Three.js.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+A futuristic maglev bullet train speeding through a transparent glass vacuum tube.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/maglev-bullet-train-in-a-glass-vacuum-tube-with-a-live-hud-2080454415400493332?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/Pixel_Neuron/status/2080454415400493332)
+
+---
+
+### [Игра в прятки: хамелеон перекрашивается под цвет стены](https://wandy3d.com/ru/prompts/chameleon-hide-and-seek-game-where-you-paint-yourself-to-2080392777515311115?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/chameleon-hide-and-seek-game-where-you-paint-yourself-to-2080392777515311115?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/chameleon-hide-and-seek-game-where-you-paint-yourself-to-2080392777515311115.webp" width="640" alt="Игра в прятки: хамелеон перекрашивается под цвет стены"></a>
+
+**Kimi K3** · Игры · автор [Hustlerok](https://x.com/0xhustlerok) · 2026-07-23
+
+Kimi K3 обошёл Fable 5 в тесте на одном промпте: игра в одном файле, где хамелеон маскируется под стену, а робот его ищет.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a single-file, playable hide-and-seek game in one self-contained HTML file. The player is a cartoon chameleon placed in front of a backdrop of colorful wall panels: red brick, a leafy bush, blue stripes, purple dots and yellow texture. In the hide phase, the chameleon moves with the keyboard to a spot, then switches to a paint phase where a small palette, brush-size slider and eyedropper let the player recolor its body to match the wall behind it. A timer counts down each phase. In the seek phase a robot searcher sweeps the room with a flashlight, and the player can hold a key to freeze and hold its breath. Score each round from the live colour match percentage, the hiding spot and the time bonus, and show a round summary card comparing the paint job with the actual background. Run three rounds, then show the final score. Use a bright, hand-drawn cartoon look with a title screen explaining the controls. Done means the whole loop works from start screen to final score with no errors.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/chameleon-hide-and-seek-game-where-you-paint-yourself-to-2080392777515311115?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/0xhustlerok/status/2080392777515311115)
+
+---
+
+### [Процедурная 3D-сакура с ветром и пресетами освещения](https://wandy3d.com/ru/prompts/procedural-3d-cherry-blossom-tree-with-wind-and-lighting-2080178541979664741?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/procedural-3d-cherry-blossom-tree-with-wind-and-lighting-2080178541979664741?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/procedural-3d-cherry-blossom-tree-with-wind-and-lighting-2080178541979664741.webp" width="640" alt="Процедурная 3D-сакура с ветром и пресетами освещения"></a>
+
+**Gemini 3.6 Flash** · Ассеты · автор [zhod](https://x.com/zhodonx) · 2026-07-23
+
+Сравнение: Gemini 3.6 Flash вырастил пышную вишню с нуля, с ветром и пресетами света, а у Fable 5 крона получилась реже.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+Build a 3D cherry blossom tree; give it no prebuilt tree libraries; the model has to generate the structure itself
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/procedural-3d-cherry-blossom-tree-with-wind-and-lighting-2080178541979664741?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/zhodonx/status/2080178541979664741)
+
+---
+
+### [Чёрная дыра в реальном времени на WebGL2: линзирование и аккреционный диск](https://wandy3d.com/ru/prompts/real-time-webgl2-black-hole-raytracer-with-lensing-and-2079590483727442205?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/real-time-webgl2-black-hole-raytracer-with-lensing-and-2079590483727442205?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/real-time-webgl2-black-hole-raytracer-with-lensing-and-2079590483727442205.webp" width="640" alt="Чёрная дыра в реальном времени на WebGL2: линзирование и аккреционный диск"></a>
+
+**Kimi K3** · Интерактив · автор [Harsh](https://x.com/devloper_hs) · 2026-07-21
+
+Kimi K3 написал в одном файле чёрную дыру Шварцшильда на чистом WebGL2: светящийся диск с линзированием, орбитальная камера и панель слайдеров.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+Create a complete, self-contained single HTML file (no external libraries like Three.js) that implements a real-time geodesic raytracer for a Schwarzschild black hole inspired by Gargantua.
+
+Use raw WebGL2 with GLSL ES 3.00 in a single fragment shader. Implement accurate physics: null geodesic integration with 4th-order Runge-Kutta solver, event horizon, photon sphere, accretion disk with proper rendering, gravitational lensing, Doppler beaming, and gravitational redshift effects. Target stable 60 FPS performance.
+
+Include mouse-controlled camera orbiting/zooming, and a cyberpunk-style control panel with sliders for parameters (mass, spin, disk density, view angle, etc.). Add subtle particle effects for matter falling in and dynamic lighting/shadows.
+
+The output must be 100% complete, immediately runnable in a modern browser, with no black screen, NaNs, errors, or missing features. Prioritize numerical correctness, boundary handling, solver discipline, and physical accuracy above all. Verify and comment key physics equations in the code. Make it visually stunning and interactive like a premium physics demo/game.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/real-time-webgl2-black-hole-raytracer-with-lensing-and-2079590483727442205?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/devloper_hs/status/2079590483727442205)
+
+---
+
+### [Воксельная анимация гола в футболе с частицами на Three.js](https://wandy3d.com/ru/prompts/voxel-soccer-goal-animation-with-celebration-particles-in-2079553757302710442?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/voxel-soccer-goal-animation-with-celebration-particles-in-2079553757302710442?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/voxel-soccer-goal-animation-with-celebration-particles-in-2079553757302710442.webp" width="640" alt="Воксельная анимация гола в футболе с частицами на Three.js"></a>
+
+**Kimi K3** · Анимация · автор [Thành](https://x.com/Zmthanh) · 2026-07-21
+
+Kimi K3 победил GLM-5.2 в сравнении: по одному промпту воксельный нападающий обводит двух защитников и забивает на яркой арене.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/voxel-soccer-goal-animation-with-celebration-particles-in-2079553757302710442?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/Zmthanh/status/2079553757302710442)
+
+---
+
+### [Манхэттен в Blender по реальным контурам зданий из одного промпта](https://wandy3d.com/ru/prompts/manhattan-built-in-blender-from-real-footprints-with-one-2079387760478073087?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/manhattan-built-in-blender-from-real-footprints-with-one-2079387760478073087?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/manhattan-built-in-blender-from-real-footprints-with-one-2079387760478073087.webp" width="640" alt="Манхэттен в Blender по реальным контурам зданий из одного промпта"></a>
+
+**GPT 5.6 Sol** · Сцены · автор [Martin Puli](https://x.com/MartinPulitano) · 2026-07-21
+
+GPT 5.6 Sol через Blender MCP собрал Манхэттен в масштабе по короткому промпту: Центральный парк, гавань и пролёт камеры над районами.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+armá Nueva York
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/manhattan-built-in-blender-from-real-footprints-with-one-2079387760478073087?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/MartinPulitano/status/2079387760478073087)
+
+---
+
+### [Воксельная анимация гола с табло и конфетти на Three.js](https://wandy3d.com/ru/prompts/voxel-soccer-goal-animation-with-a-scoreboard-and-confetti-2079198084689723560?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/voxel-soccer-goal-animation-with-a-scoreboard-and-confetti-2079198084689723560?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/voxel-soccer-goal-animation-with-a-scoreboard-and-confetti-2079198084689723560.webp" width="640" alt="Воксельная анимация гола с табло и конфетти на Three.js"></a>
+
+**Qwen3.8-Max-Preview** · Анимация · автор [Thành](https://x.com/Zmthanh) · 2026-07-20
+
+Сравнение: Qwen3.8-Max-Preview, названная победителем, и Fable 5 по одному промпту сделали воксельную сцену гола с баннером GOAL.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/voxel-soccer-goal-animation-with-a-scoreboard-and-confetti-2079198084689723560?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/Zmthanh/status/2079198084689723560)
+
+---
+
+### [Просмотр пассажирского самолёта на Three.js с прогулкой по салону](https://wandy3d.com/ru/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132.webp" width="640" alt="Просмотр пассажирского самолёта на Three.js с прогулкой по салону"></a>
+
+**Claude Fable 5** · Интерактив · автор [FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-19
+
+Claude Fable 5 в Claude Code по однострочному промпту собрал лайнер: его можно облететь снаружи и пройти по салону между рядами кресел.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+Generate in Three.js an experience allowing me to visualize a 3D airplane model and walk inside it.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/Oluwaphilemon1/status/2078806166122197132)
 
 ---
 

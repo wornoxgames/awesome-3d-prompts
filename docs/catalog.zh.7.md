@@ -363,6 +363,27 @@ Build a 3D city street scene in Blender, driven through a Blender MCP connection
 
 ---
 
+### [Blender 制作的巨龙巢穴半成品场景，带金币堆](https://wandy3d.com/zh/prompts/work-in-progress-dragon-lair-with-a-gold-hoard-built-in-2095149546187653547?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/work-in-progress-dragon-lair-with-a-gold-hoard-built-in-2095149546187653547?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/work-in-progress-dragon-lair-with-a-gold-hoard-built-in-2095149546187653547.webp" width="640" alt="Blender 制作的巨龙巢穴半成品场景，带金币堆"></a>
+
+**Claude Fable 5.1** · 场景 · 作者 [Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02
+
+Claude Fable 5.1 配合 Blender 做出火盆照明的石砌龙巢，地面散落骸骨，前景是一座金币山。
+
+<details>
+<summary>Wandy3D 制作简报</summary>
+
+```text
+Build a moody 3D dragon lair environment in Blender, scripted with Python so it can be rerun. The set is a large underground hall of weathered stone brick walls, square columns, stairs and rough cave rock overhead. Scatter props across the floor: skeleton bones, broken slabs, clay urns and iron braziers with live flames. In one corner heap a huge hoard of thousands of individual gold coins with a chalice, a sword and other treasure on top. Light the scene almost entirely with warm amber firelight and small glows, leaving deep shadows in the corners and a hint of a bright opening in the distance. Use physically based materials, soft depth of field and a slight film grain. Provide several camera angles: a wide hall view, a stair view looking down into the hall, and a close macro shot of the coins. Deliver the .py script plus rendered stills. Done means the hall reads clearly as a dragon's treasure room and the coin pile catches highlights.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/work-in-progress-dragon-lair-with-a-gold-hoard-built-in-2095149546187653547?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/majidmanzarpour/status/2095149546187653547)
+
+---
+
 ### [Three.js多人联机帆船航海世界](https://wandy3d.com/zh/prompts/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
 <a href="https://wandy3d.com/zh/prompts/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/multiplayer-pirate-ship-sailing-world-in-three-js-2095137561283010600.webp" width="640" alt="Three.js多人联机帆船航海世界"></a>
@@ -1038,27 +1059,6 @@ Build a large medieval voxel kingdom that runs in the browser, ideally as a sing
 </details>
 
 [在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/knowixbuilds/status/2094899477626720403)
-
----
-
-### [三个3D小游戏：粘球滚城、水豚漂流、饺子传送带闪避](https://wandy3d.com/zh/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/zh/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400.webp" width="640" alt="三个3D小游戏：粘球滚城、水豚漂流、饺子传送带闪避"></a>
-
-**Claude Fable 5.1** · 游戏 · 作者 [Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01
-
-对比测试：Claude Fable 5.1与上一版收到相同的三个游戏指令，新版完成时花费更低。
-
-<details>
-<summary>Wandy3D 制作简报</summary>
-
-```text
-Build three small browser games, each as its own self-contained HTML file with a 3D look. Game one: a sticky ball rolling through a toy city that picks up everything in its path and grows, shown from a chase camera with a score and size readout. Game two: an endless-runner river course where a capybara surfs downstream, steering left and right around logs and buoys, with rings to pass through, a final stretch with a checkered finish line and a placement screen with a replay button. Game three: a dumpling dodging obstacles on an endless conveyor belt in a dim kitchen-like hall with hanging lamps, speeding up over time. Use bright, readable colours, simple keyboard or touch steering, a restart option, and a distance or timer HUD. Done means each game starts, scores and ends cleanly.
-```
-
-</details>
-
-[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/atomicagent_io/status/2094895071304839400)
 
 ---
 
