@@ -4,7 +4,7 @@
 
 Бесплатные 3D-промпты для Claude, GPT и Kimi: игры, сцены, ассеты и анимация, у каждого показан результат. Подборка [Wandy3D](https://wandy3d.com/ru/prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts).
 
-400 промптов · моделей: 19 · категорий: 6 · обновлено 2026-10-19
+400 промптов · моделей: 19 · категорий: 6 · обновлено 2026-10-23
 
 [English](README.md) · **Русский** · [日本語](docs/catalog.ja.1.md) · [中文](docs/catalog.zh.1.md) · Весь каталог: [Каталог 1/8](docs/catalog.ru.1.md)
 
