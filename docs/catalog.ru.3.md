@@ -1,10 +1,36 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 3/8
+# Awesome 3D Prompts — Каталог 3/9
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Назад](catalog.ru.2.md) · страница 3 из 8 · [Дальше →](catalog.ru.4.md)
+[← Назад](catalog.ru.2.md) · страница 3 из 9 · [Дальше →](catalog.ru.4.md)
+
+### [Кот-кунгфуист в повязке отбивает руки: Blender-референс и видео](https://wandy3d.com/ru/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606.webp" width="640" alt="Кот-кунгфуист в повязке отбивает руки: Blender-референс и видео"></a>
+
+**GPT-6 Astra** · Анимация · автор [PixVerse](https://x.com/PixVerse) · 2026-09-19
+
+GPT-6 Astra через Blender выстроила тайминг боевых движений кота, и по нему получился фотореалистичный 10-секундный ролик во дворе храма.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
+A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
+Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
+ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
+Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
+NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/PixVerse/status/2101310387081908606)
+
+---
 
 ### [Интерактивный 3D-реактивный двигатель: разрез, рентген, разнесённый вид](https://wandy3d.com/ru/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1120,27 +1146,6 @@ Build a single-page web showcase for a 3D model of a traditional Chinese circula
 
 ---
 
-### [Low-poly деревня в северных горах: диорама на Three.js](https://wandy3d.com/ru/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ru/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502.webp" width="640" alt="Low-poly деревня в северных горах: диорама на Three.js"></a>
-
-**GPT-6 Astra** · Сцены · автор [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
-
-GPT-6 Astra собрала деревню в духе Skyrim на Three.js: срубовые дома, каменный мост, водяное колесо и река, плюс пресеты камеры.
-
-<details>
-<summary>Промпт</summary>
-
-```text
-img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。
-```
-
-</details>
-
-[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/TaroKichijo/status/2097167383576383502)
-
----
-
-[← Назад](catalog.ru.2.md) · страница 3 из 8 · [Дальше →](catalog.ru.4.md)
+[← Назад](catalog.ru.2.md) · страница 3 из 9 · [Дальше →](catalog.ru.4.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

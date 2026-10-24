@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 6/8
+# Awesome 3D Prompts — Каталог 6/9
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Назад](catalog.ru.5.md) · страница 6 из 8 · [Дальше →](catalog.ru.7.md)
+[← Назад](catalog.ru.5.md) · страница 6 из 9 · [Дальше →](catalog.ru.7.md)
+
+### [Интерактивное 3D-портфолио с персонажем из Blender и глобусом](https://wandy3d.com/ru/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704.webp" width="640" alt="Интерактивное 3D-портфолио с персонажем из Blender и глобусом"></a>
+
+**GPT-6 Astra** · Интерактив · автор [Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04
+
+GPT-6 Astra собрал WebGL-портфолио: персонаж из Blender по фото и вращающийся глобус с маркерами выступлений по всему миру.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build an interactive 3D personal portfolio website with an editorial look: warm cream background, large serif name heading, small navigation list and quiet sans-serif details. Place a stylized 3D cartoon character, modeled in Blender from a reference photo and exported for the web, in the hero area, with a gentle idle motion that follows the cursor. Add a second section called a speaking orbit: a slowly revolving Earth globe in soft green and white tones with markers for talk locations around the world. Selecting or cycling through a marker updates a side panel with the city, event title, a short description and a link. Use WebGL, for example Three.js, and keep transitions smooth between hero and globe. Deliver a runnable web project plus the exported character model. It is done when the character renders cleanly, the globe rotates, and every marker updates the panel correctly.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/HowDevelop/status/2096023793772998704)
+
+---
 
 ### [Живописный шутер 5 на 5 от первого лица в мире постимпрессионизма](https://wandy3d.com/ru/prompts/painterly-5v5-first-person-shooter-in-a-post-impressionist-2096013280519016608?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1036,27 +1057,6 @@ Build a full 3D reconstruction of a house from a single reference image, working
 
 ---
 
-### [Научно-фантастический шутер от первого лица 10 на 10 с летающими кораблями](https://wandy3d.com/ru/prompts/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ru/prompts/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024.webp" width="640" alt="Научно-фантастический шутер от первого лица 10 на 10 с летающими кораблями"></a>
-
-**GPT-6 Astra** · Игры · автор [Thomas Jørgensen](https://x.com/Thomas_jorgen) · 2026-09-03
-
-GPT-6 Astra вместе с конструктором игр собрал командный FPS на чужой планете: неоновая винтовка, враги и десантный корабль, которым можно управлять.
-
-<details>
-<summary>Бриф от Wandy3D</summary>
-
-```text
-Build a team-based first-person sci-fi shooter for 10v10 matches. Set it on a large alien landscape: grassy plains, rocky mesas, a coastline, ruined stone towers and a huge ringed planet and glowing beams in a dusk sky. The player holds a chunky dark rifle with neon green accents, with a HUD showing ammo, health and a shield bar, and enemy troopers with floating name tags. Add at least one flyable dropship that can lift off and cruise over land and sea. Use warm sunset lighting, soft fog and a teal, orange and violet palette. Deliver it as a playable game project with WASD and mouse look, shooting, reloading, bot teammates and opponents, respawns and a simple score. Done means a full match can be played from spawn to finish, and the ship can be boarded and flown around the map.
-```
-
-</details>
-
-[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/Thomas_jorgen/status/2095598026916049024)
-
----
-
-[← Назад](catalog.ru.5.md) · страница 6 из 8 · [Дальше →](catalog.ru.7.md)
+[← Назад](catalog.ru.5.md) · страница 6 из 9 · [Дальше →](catalog.ru.7.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

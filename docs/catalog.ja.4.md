@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — カタログ 4/8
+# Awesome 3D Prompts — カタログ 4/9
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · **日本語** · [中文](catalog.zh.1.md)
 
-[← 前へ](catalog.ja.3.md) · 8 ページ中 4 ページ目 · [次へ →](catalog.ja.5.md)
+[← 前へ](catalog.ja.3.md) · 9 ページ中 4 ページ目 · [次へ →](catalog.ja.5.md)
+
+### [Three.jsで作る北欧風の山村ローポリジオラマ](https://wandy3d.com/ja/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502.webp" width="640" alt="Three.jsで作る北欧風の山村ローポリジオラマ"></a>
+
+**GPT-6 Astra** · シーン · 作者 [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
+
+GPT-6 AstraがSkyrim風の村をThree.jsで生成。丸太小屋、石橋、水車、川があり、カメラ切り替えで見て回れます。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/TaroKichijo/status/2097167383576383502)
+
+---
 
 ### [Blenderで作る花屋のエクスプローデッドビュー・アニメーション](https://wandy3d.com/ja/prompts/exploded-view-animation-of-a-pastel-japanese-flower-shop-in-2097153139795468365?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1241,27 +1262,6 @@ Build a ten-second cinematic render of a dragon using Blender in headless mode, 
 
 ---
 
-### [リスボンのコメルシオ広場をBlenderで再現しカメラが飛ぶシーン](https://wandy3d.com/ja/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ja/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021.webp" width="640" alt="リスボンのコメルシオ広場をBlenderで再現しカメラが飛ぶシーン"></a>
-
-**GPT-6 Astra** · シーン · 作者 [Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
-
-GPT-6 Astraが1回の指示でBlenderにリスボンの海辺の広場を構築。アーケード、凱旋門、銅像、川、飛行カメラまで含みます。
-
-<details>
-<summary>Wandy3D による制作ブリーフ</summary>
-
-```text
-Build a Blender scene, delivered as a Python script, that recreates a grand riverside European plaza in Lisbon. Model a huge open square with pale paving and light line patterns, bordered on three sides by long yellow arcaded buildings with terracotta roofs, and a monumental white triumphal arch in the middle of the far side. Place a bronze equestrian statue on a stepped stone pedestal with railings at the center. Open the fourth side to a wide river with a quay, a small sailboat and a distant green shoreline. Add dense red-roofed city blocks behind the buildings, street lamps, a tram and many tiny pedestrians. Use physically based materials, soft late-afternoon sun and a cloudy sky. Animate a slow camera flight that starts high above the square and descends toward the statue, then turns to look over the water. Done means a rendered 30 second sequence with believable architecture, lighting and scale.
-```
-
-</details>
-
-[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/goncalo_canhoto/status/2096298425914450021)
-
----
-
-[← 前へ](catalog.ja.3.md) · 8 ページ中 4 ページ目 · [次へ →](catalog.ja.5.md)
+[← 前へ](catalog.ja.3.md) · 9 ページ中 4 ページ目 · [次へ →](catalog.ja.5.md)
 
 プロンプト・動画・画像の権利は各作者に帰属します（[RIGHTS.md](../RIGHTS.md)）。編集テキストは [CC BY 4.0](../LICENSE) です。結果が見える良いプロンプトを知っていますか？[提案する](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。作者の方で掲載内容の修正・削除をご希望の場合は[こちら](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

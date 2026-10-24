@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Catalog 8/8
+# Awesome 3D Prompts — Catalog 8/9
 
 [← Awesome 3D Prompts](../README.md) · **English** · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Previous](catalog.en.7.md) · page 8 of 8
+[← Previous](catalog.en.7.md) · page 8 of 9 · [Next →](catalog.en.9.md)
+
+### [Destructible medieval voxel kingdom with NPCs and a dragon](https://wandy3d.com/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403.webp" width="640" alt="Destructible medieval voxel kingdom with NPCs and a dragon"></a>
+
+**Claude Fable 5.1** · Scenes · by [Knowix](https://x.com/knowixbuilds) · 2026-09-01
+
+Claude Fable 5.1 generated a huge voxel kingdom with a walled castle city, working NPCs, siege gear and destructible buildings you can fly over.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build a large medieval voxel kingdom that runs in the browser, ideally as a single self-contained HTML file with a WebGL engine such as Three.js. Generate a terrain of grass, farmland patches in yellow and green, a winding river and a snowy mountain range on the horizon. At the centre place a walled castle city in concentric rings, with a keep, a church with a spire, and hundreds of houses with red, blue and yellow roofs; every building should have a purpose and an interior. Populate it with soldiers and townsfolk who have jobs and react to an invasion, include siege equipment, a fire-breathing dragon and voxel-level destruction. Add a free-flying camera that can move through the streets and rise over the whole map, plus a small side panel of settings sliders. Aim for millions of voxels at a smooth frame rate. Done means the kingdom loads, the camera can roam freely, characters move around, and buildings can be destroyed.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/knowixbuilds/status/2094899477626720403)
+
+---
 
 ### [Three small 3D games: sticky ball, capybara river surf, dumpling dodge](https://wandy3d.com/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1047,27 +1068,6 @@ Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer an
 
 ---
 
-### [Three.js airliner viewer with a walkable passenger cabin](https://wandy3d.com/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132.webp" width="640" alt="Three.js airliner viewer with a walkable passenger cabin"></a>
-
-**Claude Fable 5** · Interactive · by [FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-19
-
-Claude Fable 5, run in Claude Code, turned a one-line prompt into an airliner you can orbit outside and then walk through, seat rows included.
-
-<details>
-<summary>Prompt</summary>
-
-```text
-Generate in Three.js an experience allowing me to visualize a 3D airplane model and walk inside it.
-```
-
-</details>
-
-[View on Wandy3D ↗](https://wandy3d.com/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/Oluwaphilemon1/status/2078806166122197132)
-
----
-
-[← Previous](catalog.en.7.md) · page 8 of 8
+[← Previous](catalog.en.7.md) · page 8 of 9 · [Next →](catalog.en.9.md)
 
 Prompts, videos and images belong to their authors ([RIGHTS.md](../RIGHTS.md)). Our editorial text is [CC BY 4.0](../LICENSE). Know a great prompt with a visible result? [Suggest it](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Are you an author and want an entry changed or removed? [Tell us](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

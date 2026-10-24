@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — カタログ 5/8
+# Awesome 3D Prompts — カタログ 5/9
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · **日本語** · [中文](catalog.zh.1.md)
 
-[← 前へ](catalog.ja.4.md) · 8 ページ中 5 ページ目 · [次へ →](catalog.ja.6.md)
+[← 前へ](catalog.ja.4.md) · 9 ページ中 5 ページ目 · [次へ →](catalog.ja.6.md)
+
+### [リスボンのコメルシオ広場をBlenderで再現しカメラが飛ぶシーン](https://wandy3d.com/ja/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021.webp" width="640" alt="リスボンのコメルシオ広場をBlenderで再現しカメラが飛ぶシーン"></a>
+
+**GPT-6 Astra** · シーン · 作者 [Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
+
+GPT-6 Astraが1回の指示でBlenderにリスボンの海辺の広場を構築。アーケード、凱旋門、銅像、川、飛行カメラまで含みます。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a Blender scene, delivered as a Python script, that recreates a grand riverside European plaza in Lisbon. Model a huge open square with pale paving and light line patterns, bordered on three sides by long yellow arcaded buildings with terracotta roofs, and a monumental white triumphal arch in the middle of the far side. Place a bronze equestrian statue on a stepped stone pedestal with railings at the center. Open the fourth side to a wide river with a quay, a small sailboat and a distant green shoreline. Add dense red-roofed city blocks behind the buildings, street lamps, a tram and many tiny pedestrians. Use physically based materials, soft late-afternoon sun and a cloudy sky. Animate a slow camera flight that starts high above the square and descends toward the statue, then turns to look over the water. Done means a rendered 30 second sequence with believable architecture, lighting and scale.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/goncalo_canhoto/status/2096298425914450021)
+
+---
 
 ### [発光クラゲが泳ぐ3DランディングページをNext.jsとThree.jsで](https://wandy3d.com/ja/prompts/bioluminescent-jellyfish-3d-landing-page-with-next-js-and-2096269057544831175?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1065,27 +1086,6 @@ Build an explorable 3D recreation of the Taj Mahal that runs in the browser. Use
 
 ---
 
-### [Blenderキャラと講演マップ地球儀を備えた3Dポートフォリオ](https://wandy3d.com/ja/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ja/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704.webp" width="640" alt="Blenderキャラと講演マップ地球儀を備えた3Dポートフォリオ"></a>
-
-**GPT-6 Astra** · インタラクティブ · 作者 [Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04
-
-GPT-6 Astraが作ったWebGLポートフォリオ。写真から作ったBlenderキャラと、世界中の登壇先を示す回転する地球儀が見どころ。
-
-<details>
-<summary>Wandy3D による制作ブリーフ</summary>
-
-```text
-Build an interactive 3D personal portfolio website with an editorial look: warm cream background, large serif name heading, small navigation list and quiet sans-serif details. Place a stylized 3D cartoon character, modeled in Blender from a reference photo and exported for the web, in the hero area, with a gentle idle motion that follows the cursor. Add a second section called a speaking orbit: a slowly revolving Earth globe in soft green and white tones with markers for talk locations around the world. Selecting or cycling through a marker updates a side panel with the city, event title, a short description and a link. Use WebGL, for example Three.js, and keep transitions smooth between hero and globe. Deliver a runnable web project plus the exported character model. It is done when the character renders cleanly, the globe rotates, and every marker updates the panel correctly.
-```
-
-</details>
-
-[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/HowDevelop/status/2096023793772998704)
-
----
-
-[← 前へ](catalog.ja.4.md) · 8 ページ中 5 ページ目 · [次へ →](catalog.ja.6.md)
+[← 前へ](catalog.ja.4.md) · 9 ページ中 5 ページ目 · [次へ →](catalog.ja.6.md)
 
 プロンプト・動画・画像の権利は各作者に帰属します（[RIGHTS.md](../RIGHTS.md)）。編集テキストは [CC BY 4.0](../LICENSE) です。結果が見える良いプロンプトを知っていますか？[提案する](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。作者の方で掲載内容の修正・削除をご希望の場合は[こちら](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

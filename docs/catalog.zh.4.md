@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — 目录 4/8
+# Awesome 3D Prompts — 目录 4/9
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · **中文**
 
-[← 上一页](catalog.zh.3.md) · 第 4 页，共 8 页 · [下一页 →](catalog.zh.5.md)
+[← 上一页](catalog.zh.3.md) · 第 4 页，共 9 页 · [下一页 →](catalog.zh.5.md)
+
+### [用 Three.js 制作的低多边形北欧山村全景](https://wandy3d.com/zh/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502.webp" width="640" alt="用 Three.js 制作的低多边形北欧山村全景"></a>
+
+**GPT-6 Astra** · 场景 · 作者 [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
+
+GPT-6 Astra 用 Three.js 生成了类似 Skyrim 的山村：木屋、石桥、水车和河流，还带有可切换的镜头预设。
+
+<details>
+<summary>提示词</summary>
+
+```text
+img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/TaroKichijo/status/2097167383576383502)
+
+---
 
 ### [用 Blender 制作的日式花店爆炸视图动画](https://wandy3d.com/zh/prompts/exploded-view-animation-of-a-pastel-japanese-flower-shop-in-2097153139795468365?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1241,27 +1262,6 @@ Build a ten-second cinematic render of a dragon using Blender in headless mode, 
 
 ---
 
-### [用Blender还原里斯本商业广场并带镜头飞越](https://wandy3d.com/zh/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/zh/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021.webp" width="640" alt="用Blender还原里斯本商业广场并带镜头飞越"></a>
-
-**GPT-6 Astra** · 场景 · 作者 [Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
-
-GPT-6 Astra一次性在Blender中建出里斯本滨水广场：拱廊、凯旋门、雕像、河流，还有飞行镜头。
-
-<details>
-<summary>Wandy3D 制作简报</summary>
-
-```text
-Build a Blender scene, delivered as a Python script, that recreates a grand riverside European plaza in Lisbon. Model a huge open square with pale paving and light line patterns, bordered on three sides by long yellow arcaded buildings with terracotta roofs, and a monumental white triumphal arch in the middle of the far side. Place a bronze equestrian statue on a stepped stone pedestal with railings at the center. Open the fourth side to a wide river with a quay, a small sailboat and a distant green shoreline. Add dense red-roofed city blocks behind the buildings, street lamps, a tram and many tiny pedestrians. Use physically based materials, soft late-afternoon sun and a cloudy sky. Animate a slow camera flight that starts high above the square and descends toward the statue, then turns to look over the water. Done means a rendered 30 second sequence with believable architecture, lighting and scale.
-```
-
-</details>
-
-[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/goncalo_canhoto/status/2096298425914450021)
-
----
-
-[← 上一页](catalog.zh.3.md) · 第 4 页，共 8 页 · [下一页 →](catalog.zh.5.md)
+[← 上一页](catalog.zh.3.md) · 第 4 页，共 9 页 · [下一页 →](catalog.zh.5.md)
 
 提示词、视频和图片的权利归原作者所有（[RIGHTS.md](../RIGHTS.md)）。我们撰写的文字采用 [CC BY 4.0](../LICENSE) 许可。知道有成果展示的好提示词？[推荐给我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。如果你是作者并希望修改或删除条目，请[联系我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

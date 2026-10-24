@@ -1,10 +1,36 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — カタログ 3/8
+# Awesome 3D Prompts — カタログ 3/9
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · **日本語** · [中文](catalog.zh.1.md)
 
-[← 前へ](catalog.ja.2.md) · 8 ページ中 3 ページ目 · [次へ →](catalog.ja.4.md)
+[← 前へ](catalog.ja.2.md) · 9 ページ中 3 ページ目 · [次へ →](catalog.ja.4.md)
+
+### [はちまき猫が手を受け流すカンフー動画、Blenderモーション参照付き](https://wandy3d.com/ja/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606.webp" width="640" alt="はちまき猫が手を受け流すカンフー動画、Blenderモーション参照付き"></a>
+
+**GPT-6 Astra** · アニメーション · 作者 [PixVerse](https://x.com/PixVerse) · 2026-09-19
+
+GPT-6 AstraがBlenderで猫の武術の動きとタイミングを組み、それを基に寺の中庭を舞台にした実写風10秒動画が作られました。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
+A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
+Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
+ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
+Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
+NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/PixVerse/status/2101310387081908606)
+
+---
 
 ### [断面・X線・分解表示を備えたインタラクティブ3Dジェットエンジン](https://wandy3d.com/ja/prompts/interactive-3d-jet-engine-with-cutaway-x-ray-and-exploded-2101272224435253432?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1120,27 +1146,6 @@ Build a single-page web showcase for a 3D model of a traditional Chinese circula
 
 ---
 
-### [Three.jsで作る北欧風の山村ローポリジオラマ](https://wandy3d.com/ja/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ja/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502.webp" width="640" alt="Three.jsで作る北欧風の山村ローポリジオラマ"></a>
-
-**GPT-6 Astra** · シーン · 作者 [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
-
-GPT-6 AstraがSkyrim風の村をThree.jsで生成。丸太小屋、石橋、水車、川があり、カメラ切り替えで見て回れます。
-
-<details>
-<summary>プロンプト</summary>
-
-```text
-img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。
-```
-
-</details>
-
-[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/TaroKichijo/status/2097167383576383502)
-
----
-
-[← 前へ](catalog.ja.2.md) · 8 ページ中 3 ページ目 · [次へ →](catalog.ja.4.md)
+[← 前へ](catalog.ja.2.md) · 9 ページ中 3 ページ目 · [次へ →](catalog.ja.4.md)
 
 プロンプト・動画・画像の権利は各作者に帰属します（[RIGHTS.md](../RIGHTS.md)）。編集テキストは [CC BY 4.0](../LICENSE) です。結果が見える良いプロンプトを知っていますか？[提案する](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。作者の方で掲載内容の修正・削除をご希望の場合は[こちら](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

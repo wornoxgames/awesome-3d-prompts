@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — 目录 5/8
+# Awesome 3D Prompts — 目录 5/9
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · **中文**
 
-[← 上一页](catalog.zh.4.md) · 第 5 页，共 8 页 · [下一页 →](catalog.zh.6.md)
+[← 上一页](catalog.zh.4.md) · 第 5 页，共 9 页 · [下一页 →](catalog.zh.6.md)
+
+### [用Blender还原里斯本商业广场并带镜头飞越](https://wandy3d.com/zh/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021.webp" width="640" alt="用Blender还原里斯本商业广场并带镜头飞越"></a>
+
+**GPT-6 Astra** · 场景 · 作者 [Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
+
+GPT-6 Astra一次性在Blender中建出里斯本滨水广场：拱廊、凯旋门、雕像、河流，还有飞行镜头。
+
+<details>
+<summary>Wandy3D 制作简报</summary>
+
+```text
+Build a Blender scene, delivered as a Python script, that recreates a grand riverside European plaza in Lisbon. Model a huge open square with pale paving and light line patterns, bordered on three sides by long yellow arcaded buildings with terracotta roofs, and a monumental white triumphal arch in the middle of the far side. Place a bronze equestrian statue on a stepped stone pedestal with railings at the center. Open the fourth side to a wide river with a quay, a small sailboat and a distant green shoreline. Add dense red-roofed city blocks behind the buildings, street lamps, a tram and many tiny pedestrians. Use physically based materials, soft late-afternoon sun and a cloudy sky. Animate a slow camera flight that starts high above the square and descends toward the statue, then turns to look over the water. Done means a rendered 30 second sequence with believable architecture, lighting and scale.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/goncalo_canhoto/status/2096298425914450021)
+
+---
 
 ### [用Next.js和Three.js做的发光水母3D落地页](https://wandy3d.com/zh/prompts/bioluminescent-jellyfish-3d-landing-page-with-next-js-and-2096269057544831175?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1065,27 +1086,6 @@ Build an explorable 3D recreation of the Taj Mahal that runs in the browser. Use
 
 ---
 
-### [带 Blender 角色和演讲地球仪的交互式3D作品集](https://wandy3d.com/zh/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/zh/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704.webp" width="640" alt="带 Blender 角色和演讲地球仪的交互式3D作品集"></a>
-
-**GPT-6 Astra** · 互动 · 作者 [Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04
-
-GPT-6 Astra 做出了 WebGL 作品集:由照片生成的 Blender 角色,加上标记全球演讲地点的旋转地球仪。
-
-<details>
-<summary>Wandy3D 制作简报</summary>
-
-```text
-Build an interactive 3D personal portfolio website with an editorial look: warm cream background, large serif name heading, small navigation list and quiet sans-serif details. Place a stylized 3D cartoon character, modeled in Blender from a reference photo and exported for the web, in the hero area, with a gentle idle motion that follows the cursor. Add a second section called a speaking orbit: a slowly revolving Earth globe in soft green and white tones with markers for talk locations around the world. Selecting or cycling through a marker updates a side panel with the city, event title, a short description and a link. Use WebGL, for example Three.js, and keep transitions smooth between hero and globe. Deliver a runnable web project plus the exported character model. It is done when the character renders cleanly, the globe rotates, and every marker updates the panel correctly.
-```
-
-</details>
-
-[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/HowDevelop/status/2096023793772998704)
-
----
-
-[← 上一页](catalog.zh.4.md) · 第 5 页，共 8 页 · [下一页 →](catalog.zh.6.md)
+[← 上一页](catalog.zh.4.md) · 第 5 页，共 9 页 · [下一页 →](catalog.zh.6.md)
 
 提示词、视频和图片的权利归原作者所有（[RIGHTS.md](../RIGHTS.md)）。我们撰写的文字采用 [CC BY 4.0](../LICENSE) 许可。知道有成果展示的好提示词？[推荐给我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。如果你是作者并希望修改或删除条目，请[联系我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 1/8
+# Awesome 3D Prompts — Каталог 1/9
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-страница 1 из 8 · [Дальше →](catalog.ru.2.md)
+страница 1 из 9 · [Дальше →](catalog.ru.2.md)
+
+### [Интерактивный 3D-вертолёт: взлёт, посадка, сборка и разбор на детали](https://wandy3d.com/ru/prompts/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963.webp" width="640" alt="Интерактивный 3D-вертолёт: взлёт, посадка, сборка и разбор на детали"></a>
+
+**Kimi K3.1** · Интерактив · автор [Lumina](https://x.com/LuminaBench) · 2026-10-22
+
+Сравнение: Kimi K3.1 и Qwen 4 получили один промпт и сделали приложения с 3D-вертолётом: полёт, сборка и взрыв-схема деталей.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build an interactive 3D helicopter showcase as a polished single-page web app. Show a detailed light helicopter in white, grey and red on a circular helipad against a warm off-white background. Add a clean editorial layout with large headline text that changes as the user moves through sections, and a side panel listing the helicopter's parts. Include animated takeoff and landing, with rotors spinning and the craft lifting off the pad. Add an assembly view where the parts fly in and fit together, and an exploded view that separates the fuselage, rotors, skids, cockpit and instruments so each can be inspected, with a close-up of the cockpit interior. Provide orbit camera control and simple buttons to switch between flight, assembly and exploded modes. Use WebGL, for example Three.js, with soft shadows and subtle lighting. Deliver a runnable project or one self-contained HTML file. Done means all three modes work smoothly and the parts list matches the visible components.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/LuminaBench/status/2113217029675085963)
+
+---
 
 ### [Одно фото — 3D-модель: UI-моушн с AI-сферой](https://wandy3d.com/ru/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1424,27 +1445,6 @@ Implement code to be able to navigate in a pagoda in 3D.
 
 ---
 
-### [Пушистая морская свинка в Blender по одной короткой просьбе](https://wandy3d.com/ru/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ru/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544.webp" width="640" alt="Пушистая морская свинка в Blender по одной короткой просьбе"></a>
-
-**GPT-6 Astra** · Ассеты · автор [かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-GPT-6 Astra через Codex смоделировал в Blender бело-рыжую морскую свинку с шерстью без референсов, по одной короткой фразе.
-
-<details>
-<summary>Промпт</summary>
-
-```text
-Blenderでモルモットを作って
-```
-
-</details>
-
-[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/kayokojoe/status/2103482826519986544)
-
----
-
-страница 1 из 8 · [Дальше →](catalog.ru.2.md)
+страница 1 из 9 · [Дальше →](catalog.ru.2.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

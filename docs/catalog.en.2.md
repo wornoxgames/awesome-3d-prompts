@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Catalog 2/8
+# Awesome 3D Prompts — Catalog 2/9
 
 [← Awesome 3D Prompts](../README.md) · **English** · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Previous](catalog.en.1.md) · page 2 of 8 · [Next →](catalog.en.3.md)
+[← Previous](catalog.en.1.md) · page 2 of 9 · [Next →](catalog.en.3.md)
+
+### [Fluffy guinea pig modeled in Blender from a single short request](https://wandy3d.com/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544.webp" width="640" alt="Fluffy guinea pig modeled in Blender from a single short request"></a>
+
+**GPT-6 Astra** · Assets · by [かよこ](https://x.com/kayokojoe) · 2026-09-25
+
+GPT-6 Astra, run through Codex, modeled a furry white and brown guinea pig in Blender with no reference photos, only a one-line request.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Blenderでモルモットを作って
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/kayokojoe/status/2103482826519986544)
+
+---
 
 ### [Walkable anime cherry blossom town with shops, shrine and trains](https://wandy3d.com/prompts/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1749,32 +1770,6 @@ GPT-6 Astra, tested against Fable 5.1, built a white self-driving SUV with roof 
 
 ---
 
-### [Kung-fu cat in a headband parrying hands, Blender motion reference to video](https://wandy3d.com/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606.webp" width="640" alt="Kung-fu cat in a headband parrying hands, Blender motion reference to video"></a>
-
-**GPT-6 Astra** · Animation · by [PixVerse](https://x.com/PixVerse) · 2026-09-19
-
-GPT-6 Astra drove Blender to block out a cat's martial-arts timing, which then guided a photoreal 10-second temple-courtyard clip.
-
-<details>
-<summary>Prompt</summary>
-
-```text
-Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
-A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
-Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
-ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
-Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
-NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
-```
-
-</details>
-
-[View on Wandy3D ↗](https://wandy3d.com/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/PixVerse/status/2101310387081908606)
-
----
-
-[← Previous](catalog.en.1.md) · page 2 of 8 · [Next →](catalog.en.3.md)
+[← Previous](catalog.en.1.md) · page 2 of 9 · [Next →](catalog.en.3.md)
 
 Prompts, videos and images belong to their authors ([RIGHTS.md](../RIGHTS.md)). Our editorial text is [CC BY 4.0](../LICENSE). Know a great prompt with a visible result? [Suggest it](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Are you an author and want an entry changed or removed? [Tell us](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

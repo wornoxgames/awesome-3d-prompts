@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — カタログ 1/8
+# Awesome 3D Prompts — カタログ 1/9
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · **日本語** · [中文](catalog.zh.1.md)
 
-8 ページ中 1 ページ目 · [次へ →](catalog.ja.2.md)
+9 ページ中 1 ページ目 · [次へ →](catalog.ja.2.md)
+
+### [離着陸・組立・分解表示を備えたインタラクティブ3Dヘリコプター](https://wandy3d.com/ja/prompts/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963.webp" width="640" alt="離着陸・組立・分解表示を備えたインタラクティブ3Dヘリコプター"></a>
+
+**Kimi K3.1** · インタラクティブ · 作者 [Lumina](https://x.com/LuminaBench) · 2026-10-22
+
+比較例です。Kimi K3.1とQwen 4に同じプロンプトを与え、飛行・組立・分解表示を持つ3Dヘリコプターアプリがそれぞれ生成されました。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build an interactive 3D helicopter showcase as a polished single-page web app. Show a detailed light helicopter in white, grey and red on a circular helipad against a warm off-white background. Add a clean editorial layout with large headline text that changes as the user moves through sections, and a side panel listing the helicopter's parts. Include animated takeoff and landing, with rotors spinning and the craft lifting off the pad. Add an assembly view where the parts fly in and fit together, and an exploded view that separates the fuselage, rotors, skids, cockpit and instruments so each can be inspected, with a close-up of the cockpit interior. Provide orbit camera control and simple buttons to switch between flight, assembly and exploded modes. Use WebGL, for example Three.js, with soft shadows and subtle lighting. Deliver a runnable project or one self-contained HTML file. Done means all three modes work smoothly and the parts list matches the visible components.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/LuminaBench/status/2113217029675085963)
+
+---
 
 ### [写真1枚が3Dモデルに：AIオーブのUIモーション](https://wandy3d.com/ja/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1424,27 +1445,6 @@ Implement code to be able to navigate in a pagoda in 3D.
 
 ---
 
-### [一言の依頼でBlenderに作らせたふわふわモルモット](https://wandy3d.com/ja/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ja/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544.webp" width="640" alt="一言の依頼でBlenderに作らせたふわふわモルモット"></a>
-
-**GPT-6 Astra** · アセット · 作者 [かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-CodexのGPT-6 Astraが、参考写真なしでBlender上に白と茶色の毛並みのモルモットをモデリングしました。
-
-<details>
-<summary>プロンプト</summary>
-
-```text
-Blenderでモルモットを作って
-```
-
-</details>
-
-[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/kayokojoe/status/2103482826519986544)
-
----
-
-8 ページ中 1 ページ目 · [次へ →](catalog.ja.2.md)
+9 ページ中 1 ページ目 · [次へ →](catalog.ja.2.md)
 
 プロンプト・動画・画像の権利は各作者に帰属します（[RIGHTS.md](../RIGHTS.md)）。編集テキストは [CC BY 4.0](../LICENSE) です。結果が見える良いプロンプトを知っていますか？[提案する](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。作者の方で掲載内容の修正・削除をご希望の場合は[こちら](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

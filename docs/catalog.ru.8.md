@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 8/8
+# Awesome 3D Prompts — Каталог 8/9
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Назад](catalog.ru.7.md) · страница 8 из 8
+[← Назад](catalog.ru.7.md) · страница 8 из 9 · [Дальше →](catalog.ru.9.md)
+
+### [Разрушаемое воксельное средневековое королевство с NPC и драконом](https://wandy3d.com/ru/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403.webp" width="640" alt="Разрушаемое воксельное средневековое королевство с NPC и драконом"></a>
+
+**Claude Fable 5.1** · Сцены · автор [Knowix](https://x.com/knowixbuilds) · 2026-09-01
+
+Claude Fable 5.1 создал огромное воксельное королевство: город-крепость, NPC с работой, осадные машины и разрушаемые здания.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a large medieval voxel kingdom that runs in the browser, ideally as a single self-contained HTML file with a WebGL engine such as Three.js. Generate a terrain of grass, farmland patches in yellow and green, a winding river and a snowy mountain range on the horizon. At the centre place a walled castle city in concentric rings, with a keep, a church with a spire, and hundreds of houses with red, blue and yellow roofs; every building should have a purpose and an interior. Populate it with soldiers and townsfolk who have jobs and react to an invasion, include siege equipment, a fire-breathing dragon and voxel-level destruction. Add a free-flying camera that can move through the streets and rise over the whole map, plus a small side panel of settings sliders. Aim for millions of voxels at a smooth frame rate. Done means the kingdom loads, the camera can roam freely, characters move around, and buildings can be destroyed.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/knowixbuilds/status/2094899477626720403)
+
+---
 
 ### [Три мини-игры в 3D: липкий шар, капибара на реке, пельмень на конвейере](https://wandy3d.com/ru/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1047,27 +1068,6 @@ Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer an
 
 ---
 
-### [Просмотр пассажирского самолёта на Three.js с прогулкой по салону](https://wandy3d.com/ru/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ru/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132.webp" width="640" alt="Просмотр пассажирского самолёта на Three.js с прогулкой по салону"></a>
-
-**Claude Fable 5** · Интерактив · автор [FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-19
-
-Claude Fable 5 в Claude Code по однострочному промпту собрал лайнер: его можно облететь снаружи и пройти по салону между рядами кресел.
-
-<details>
-<summary>Промпт</summary>
-
-```text
-Generate in Three.js an experience allowing me to visualize a 3D airplane model and walk inside it.
-```
-
-</details>
-
-[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/Oluwaphilemon1/status/2078806166122197132)
-
----
-
-[← Назад](catalog.ru.7.md) · страница 8 из 8
+[← Назад](catalog.ru.7.md) · страница 8 из 9 · [Дальше →](catalog.ru.9.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

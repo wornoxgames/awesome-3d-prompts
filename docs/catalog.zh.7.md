@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — 目录 7/8
+# Awesome 3D Prompts — 目录 7/9
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · **中文**
 
-[← 上一页](catalog.zh.6.md) · 第 7 页，共 8 页 · [下一页 →](catalog.zh.8.md)
+[← 上一页](catalog.zh.6.md) · 第 7 页，共 9 页 · [下一页 →](catalog.zh.8.md)
+
+### [支持驾驶运输机的10对10科幻第一人称射击游戏](https://wandy3d.com/zh/prompts/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024.webp" width="640" alt="支持驾驶运输机的10对10科幻第一人称射击游戏"></a>
+
+**GPT-6 Astra** · 游戏 · 作者 [Thomas Jørgensen](https://x.com/Thomas_jorgen) · 2026-09-03
+
+GPT-6 Astra搭配游戏制作工具,生成了异星战场上的团队FPS:霓虹步枪、敌方士兵,还有可驾驶的运输机。
+
+<details>
+<summary>Wandy3D 制作简报</summary>
+
+```text
+Build a team-based first-person sci-fi shooter for 10v10 matches. Set it on a large alien landscape: grassy plains, rocky mesas, a coastline, ruined stone towers and a huge ringed planet and glowing beams in a dusk sky. The player holds a chunky dark rifle with neon green accents, with a HUD showing ammo, health and a shield bar, and enemy troopers with floating name tags. Add at least one flyable dropship that can lift off and cruise over land and sea. Use warm sunset lighting, soft fog and a teal, orange and violet palette. Deliver it as a playable game project with WASD and mouse look, shooting, reloading, bot teammates and opponents, respawns and a simple score. Done means a full match can be played from spawn to finish, and the ship can be boarded and flown around the map.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/Thomas_jorgen/status/2095598026916049024)
+
+---
 
 ### [带合成、村庄和农田的第一人称体素生存游戏](https://wandy3d.com/zh/prompts/first-person-voxel-survival-game-with-crafting-villages-and-2095597137849446688?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1041,27 +1062,6 @@ Build an autumn floating voxel island scene that runs in the browser. Show a lar
 
 ---
 
-### [带NPC和巨龙的可破坏体素中世纪王国](https://wandy3d.com/zh/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/zh/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403.webp" width="640" alt="带NPC和巨龙的可破坏体素中世纪王国"></a>
-
-**Claude Fable 5.1** · 场景 · 作者 [Knowix](https://x.com/knowixbuilds) · 2026-09-01
-
-Claude Fable 5.1生成了一座巨大的体素王国：城墙城市、有职业的NPC、攻城器械，建筑还可被摧毁。
-
-<details>
-<summary>Wandy3D 制作简报</summary>
-
-```text
-Build a large medieval voxel kingdom that runs in the browser, ideally as a single self-contained HTML file with a WebGL engine such as Three.js. Generate a terrain of grass, farmland patches in yellow and green, a winding river and a snowy mountain range on the horizon. At the centre place a walled castle city in concentric rings, with a keep, a church with a spire, and hundreds of houses with red, blue and yellow roofs; every building should have a purpose and an interior. Populate it with soldiers and townsfolk who have jobs and react to an invasion, include siege equipment, a fire-breathing dragon and voxel-level destruction. Add a free-flying camera that can move through the streets and rise over the whole map, plus a small side panel of settings sliders. Aim for millions of voxels at a smooth frame rate. Done means the kingdom loads, the camera can roam freely, characters move around, and buildings can be destroyed.
-```
-
-</details>
-
-[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/knowixbuilds/status/2094899477626720403)
-
----
-
-[← 上一页](catalog.zh.6.md) · 第 7 页，共 8 页 · [下一页 →](catalog.zh.8.md)
+[← 上一页](catalog.zh.6.md) · 第 7 页，共 9 页 · [下一页 →](catalog.zh.8.md)
 
 提示词、视频和图片的权利归原作者所有（[RIGHTS.md](../RIGHTS.md)）。我们撰写的文字采用 [CC BY 4.0](../LICENSE) 许可。知道有成果展示的好提示词？[推荐给我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。如果你是作者并希望修改或删除条目，请[联系我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Catalog 4/8
+# Awesome 3D Prompts — Catalog 4/9
 
 [← Awesome 3D Prompts](../README.md) · **English** · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Previous](catalog.en.3.md) · page 4 of 8 · [Next →](catalog.en.5.md)
+[← Previous](catalog.en.3.md) · page 4 of 9 · [Next →](catalog.en.5.md)
+
+### [Low-poly Nordic mountain village diorama in Three.js](https://wandy3d.com/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502.webp" width="640" alt="Low-poly Nordic mountain village diorama in Three.js"></a>
+
+**GPT-6 Astra** · Scenes · by [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
+
+GPT-6 Astra generated a Skyrim-style village in Three.js: timber houses, a stone bridge, a water wheel and a river, with camera presets to explore it.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/TaroKichijo/status/2097167383576383502)
+
+---
 
 ### [Exploded-view animation of a pastel Japanese flower shop in Blender](https://wandy3d.com/prompts/exploded-view-animation-of-a-pastel-japanese-flower-shop-in-2097153139795468365?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1241,27 +1262,6 @@ Build a ten-second cinematic render of a dragon using Blender in headless mode, 
 
 ---
 
-### [Lisbon Terreiro do Paço square recreated in Blender with camera flight](https://wandy3d.com/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021.webp" width="640" alt="Lisbon Terreiro do Paço square recreated in Blender with camera flight"></a>
-
-**GPT-6 Astra** · Scenes · by [Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
-
-GPT-6 Astra modeled a full Lisbon waterfront plaza in Blender in one shot: arcades, triumphal arch, statue, river and a flying camera.
-
-<details>
-<summary>Build brief by Wandy3D</summary>
-
-```text
-Build a Blender scene, delivered as a Python script, that recreates a grand riverside European plaza in Lisbon. Model a huge open square with pale paving and light line patterns, bordered on three sides by long yellow arcaded buildings with terracotta roofs, and a monumental white triumphal arch in the middle of the far side. Place a bronze equestrian statue on a stepped stone pedestal with railings at the center. Open the fourth side to a wide river with a quay, a small sailboat and a distant green shoreline. Add dense red-roofed city blocks behind the buildings, street lamps, a tram and many tiny pedestrians. Use physically based materials, soft late-afternoon sun and a cloudy sky. Animate a slow camera flight that starts high above the square and descends toward the statue, then turns to look over the water. Done means a rendered 30 second sequence with believable architecture, lighting and scale.
-```
-
-</details>
-
-[View on Wandy3D ↗](https://wandy3d.com/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/goncalo_canhoto/status/2096298425914450021)
-
----
-
-[← Previous](catalog.en.3.md) · page 4 of 8 · [Next →](catalog.en.5.md)
+[← Previous](catalog.en.3.md) · page 4 of 9 · [Next →](catalog.en.5.md)
 
 Prompts, videos and images belong to their authors ([RIGHTS.md](../RIGHTS.md)). Our editorial text is [CC BY 4.0](../LICENSE). Know a great prompt with a visible result? [Suggest it](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Are you an author and want an entry changed or removed? [Tell us](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

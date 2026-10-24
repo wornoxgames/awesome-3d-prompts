@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — カタログ 2/8
+# Awesome 3D Prompts — カタログ 2/9
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · **日本語** · [中文](catalog.zh.1.md)
 
-[← 前へ](catalog.ja.1.md) · 8 ページ中 2 ページ目 · [次へ →](catalog.ja.3.md)
+[← 前へ](catalog.ja.1.md) · 9 ページ中 2 ページ目 · [次へ →](catalog.ja.3.md)
+
+### [一言の依頼でBlenderに作らせたふわふわモルモット](https://wandy3d.com/ja/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544.webp" width="640" alt="一言の依頼でBlenderに作らせたふわふわモルモット"></a>
+
+**GPT-6 Astra** · アセット · 作者 [かよこ](https://x.com/kayokojoe) · 2026-09-25
+
+CodexのGPT-6 Astraが、参考写真なしでBlender上に白と茶色の毛並みのモルモットをモデリングしました。
+
+<details>
+<summary>プロンプト</summary>
+
+```text
+Blenderでモルモットを作って
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/kayokojoe/status/2103482826519986544)
+
+---
 
 ### [歩ける桜の街：商店街、神社、電車が走るアニメ調のタウン](https://wandy3d.com/ja/prompts/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1749,32 +1770,6 @@ Fable 5.1と比較されたGPT-6 Astraが、屋根にライダーを載せた白
 
 ---
 
-### [はちまき猫が手を受け流すカンフー動画、Blenderモーション参照付き](https://wandy3d.com/ja/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ja/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606.webp" width="640" alt="はちまき猫が手を受け流すカンフー動画、Blenderモーション参照付き"></a>
-
-**GPT-6 Astra** · アニメーション · 作者 [PixVerse](https://x.com/PixVerse) · 2026-09-19
-
-GPT-6 AstraがBlenderで猫の武術の動きとタイミングを組み、それを基に寺の中庭を舞台にした実写風10秒動画が作られました。
-
-<details>
-<summary>プロンプト</summary>
-
-```text
-Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
-A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
-Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
-ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
-Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
-NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
-```
-
-</details>
-
-[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/PixVerse/status/2101310387081908606)
-
----
-
-[← 前へ](catalog.ja.1.md) · 8 ページ中 2 ページ目 · [次へ →](catalog.ja.3.md)
+[← 前へ](catalog.ja.1.md) · 9 ページ中 2 ページ目 · [次へ →](catalog.ja.3.md)
 
 プロンプト・動画・画像の権利は各作者に帰属します（[RIGHTS.md](../RIGHTS.md)）。編集テキストは [CC BY 4.0](../LICENSE) です。結果が見える良いプロンプトを知っていますか？[提案する](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。作者の方で掲載内容の修正・削除をご希望の場合は[こちら](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

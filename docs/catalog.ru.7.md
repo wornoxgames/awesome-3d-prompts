@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 7/8
+# Awesome 3D Prompts — Каталог 7/9
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Назад](catalog.ru.6.md) · страница 7 из 8 · [Дальше →](catalog.ru.8.md)
+[← Назад](catalog.ru.6.md) · страница 7 из 9 · [Дальше →](catalog.ru.8.md)
+
+### [Научно-фантастический шутер от первого лица 10 на 10 с летающими кораблями](https://wandy3d.com/ru/prompts/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024.webp" width="640" alt="Научно-фантастический шутер от первого лица 10 на 10 с летающими кораблями"></a>
+
+**GPT-6 Astra** · Игры · автор [Thomas Jørgensen](https://x.com/Thomas_jorgen) · 2026-09-03
+
+GPT-6 Astra вместе с конструктором игр собрал командный FPS на чужой планете: неоновая винтовка, враги и десантный корабль, которым можно управлять.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a team-based first-person sci-fi shooter for 10v10 matches. Set it on a large alien landscape: grassy plains, rocky mesas, a coastline, ruined stone towers and a huge ringed planet and glowing beams in a dusk sky. The player holds a chunky dark rifle with neon green accents, with a HUD showing ammo, health and a shield bar, and enemy troopers with floating name tags. Add at least one flyable dropship that can lift off and cruise over land and sea. Use warm sunset lighting, soft fog and a teal, orange and violet palette. Deliver it as a playable game project with WASD and mouse look, shooting, reloading, bot teammates and opponents, respawns and a simple score. Done means a full match can be played from spawn to finish, and the ship can be boarded and flown around the map.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/Thomas_jorgen/status/2095598026916049024)
+
+---
 
 ### [Воксельная игра на выживание от первого лица с крафтом, деревнями и фермой](https://wandy3d.com/ru/prompts/first-person-voxel-survival-game-with-crafting-villages-and-2095597137849446688?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1041,27 +1062,6 @@ Build an autumn floating voxel island scene that runs in the browser. Show a lar
 
 ---
 
-### [Разрушаемое воксельное средневековое королевство с NPC и драконом](https://wandy3d.com/ru/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ru/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403.webp" width="640" alt="Разрушаемое воксельное средневековое королевство с NPC и драконом"></a>
-
-**Claude Fable 5.1** · Сцены · автор [Knowix](https://x.com/knowixbuilds) · 2026-09-01
-
-Claude Fable 5.1 создал огромное воксельное королевство: город-крепость, NPC с работой, осадные машины и разрушаемые здания.
-
-<details>
-<summary>Бриф от Wandy3D</summary>
-
-```text
-Build a large medieval voxel kingdom that runs in the browser, ideally as a single self-contained HTML file with a WebGL engine such as Three.js. Generate a terrain of grass, farmland patches in yellow and green, a winding river and a snowy mountain range on the horizon. At the centre place a walled castle city in concentric rings, with a keep, a church with a spire, and hundreds of houses with red, blue and yellow roofs; every building should have a purpose and an interior. Populate it with soldiers and townsfolk who have jobs and react to an invasion, include siege equipment, a fire-breathing dragon and voxel-level destruction. Add a free-flying camera that can move through the streets and rise over the whole map, plus a small side panel of settings sliders. Aim for millions of voxels at a smooth frame rate. Done means the kingdom loads, the camera can roam freely, characters move around, and buildings can be destroyed.
-```
-
-</details>
-
-[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/knowixbuilds/status/2094899477626720403)
-
----
-
-[← Назад](catalog.ru.6.md) · страница 7 из 8 · [Дальше →](catalog.ru.8.md)
+[← Назад](catalog.ru.6.md) · страница 7 из 9 · [Дальше →](catalog.ru.8.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

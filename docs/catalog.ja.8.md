@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — カタログ 8/8
+# Awesome 3D Prompts — カタログ 8/9
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · **日本語** · [中文](catalog.zh.1.md)
 
-[← 前へ](catalog.ja.7.md) · 8 ページ中 8 ページ目
+[← 前へ](catalog.ja.7.md) · 9 ページ中 8 ページ目 · [次へ →](catalog.ja.9.md)
+
+### [NPCとドラゴンのいる破壊可能なボクセル中世王国](https://wandy3d.com/ja/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ja/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403.webp" width="640" alt="NPCとドラゴンのいる破壊可能なボクセル中世王国"></a>
+
+**Claude Fable 5.1** · シーン · 作者 [Knowix](https://x.com/knowixbuilds) · 2026-09-01
+
+Claude Fable 5.1が、城壁都市、働くNPC、攻城兵器、壊せる建物を備えた巨大なボクセル王国を生成しました。
+
+<details>
+<summary>Wandy3D による制作ブリーフ</summary>
+
+```text
+Build a large medieval voxel kingdom that runs in the browser, ideally as a single self-contained HTML file with a WebGL engine such as Three.js. Generate a terrain of grass, farmland patches in yellow and green, a winding river and a snowy mountain range on the horizon. At the centre place a walled castle city in concentric rings, with a keep, a church with a spire, and hundreds of houses with red, blue and yellow roofs; every building should have a purpose and an interior. Populate it with soldiers and townsfolk who have jobs and react to an invasion, include siege equipment, a fire-breathing dragon and voxel-level destruction. Add a free-flying camera that can move through the streets and rise over the whole map, plus a small side panel of settings sliders. Aim for millions of voxels at a smooth frame rate. Done means the kingdom loads, the camera can roam freely, characters move around, and buildings can be destroyed.
+```
+
+</details>
+
+[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/destructible-medieval-voxel-kingdom-with-npcs-and-a-dragon-2094899477626720403?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/knowixbuilds/status/2094899477626720403)
+
+---
 
 ### [3Dミニゲーム3本：粘着ボール、カピバラ川下り、餃子のコンベア回避](https://wandy3d.com/ja/prompts/three-small-3d-games-sticky-ball-capybara-river-surf-2094895071304839400?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1047,27 +1068,6 @@ Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer an
 
 ---
 
-### [機内を歩ける旅客機ビューア(Three.js)](https://wandy3d.com/ja/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ja/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132.webp" width="640" alt="機内を歩ける旅客機ビューア(Three.js)"></a>
-
-**Claude Fable 5** · インタラクティブ · 作者 [FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-19
-
-Claude CodeでClaude Fable 5が1行のプロンプトから旅客機を生成。外観を回して眺め、座席が並ぶ客室内も歩けます。
-
-<details>
-<summary>プロンプト</summary>
-
-```text
-Generate in Three.js an experience allowing me to visualize a 3D airplane model and walk inside it.
-```
-
-</details>
-
-[Wandy3D で見る ↗](https://wandy3d.com/ja/prompts/three-js-airliner-viewer-with-a-walkable-passenger-cabin-2078806166122197132?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [元の投稿](https://x.com/Oluwaphilemon1/status/2078806166122197132)
-
----
-
-[← 前へ](catalog.ja.7.md) · 8 ページ中 8 ページ目
+[← 前へ](catalog.ja.7.md) · 9 ページ中 8 ページ目 · [次へ →](catalog.ja.9.md)
 
 プロンプト・動画・画像の権利は各作者に帰属します（[RIGHTS.md](../RIGHTS.md)）。編集テキストは [CC BY 4.0](../LICENSE) です。結果が見える良いプロンプトを知っていますか？[提案する](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。作者の方で掲載内容の修正・削除をご希望の場合は[こちら](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

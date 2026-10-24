@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — 目录 6/8
+# Awesome 3D Prompts — 目录 6/9
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · **中文**
 
-[← 上一页](catalog.zh.5.md) · 第 6 页，共 8 页 · [下一页 →](catalog.zh.7.md)
+[← 上一页](catalog.zh.5.md) · 第 6 页，共 9 页 · [下一页 →](catalog.zh.7.md)
+
+### [带 Blender 角色和演讲地球仪的交互式3D作品集](https://wandy3d.com/zh/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704.webp" width="640" alt="带 Blender 角色和演讲地球仪的交互式3D作品集"></a>
+
+**GPT-6 Astra** · 互动 · 作者 [Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04
+
+GPT-6 Astra 做出了 WebGL 作品集:由照片生成的 Blender 角色,加上标记全球演讲地点的旋转地球仪。
+
+<details>
+<summary>Wandy3D 制作简报</summary>
+
+```text
+Build an interactive 3D personal portfolio website with an editorial look: warm cream background, large serif name heading, small navigation list and quiet sans-serif details. Place a stylized 3D cartoon character, modeled in Blender from a reference photo and exported for the web, in the hero area, with a gentle idle motion that follows the cursor. Add a second section called a speaking orbit: a slowly revolving Earth globe in soft green and white tones with markers for talk locations around the world. Selecting or cycling through a marker updates a side panel with the city, event title, a short description and a link. Use WebGL, for example Three.js, and keep transitions smooth between hero and globe. Deliver a runnable web project plus the exported character model. It is done when the character renders cleanly, the globe rotates, and every marker updates the panel correctly.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/HowDevelop/status/2096023793772998704)
+
+---
 
 ### [后印象派画风的5v5第一人称射击游戏](https://wandy3d.com/zh/prompts/painterly-5v5-first-person-shooter-in-a-post-impressionist-2096013280519016608?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1036,27 +1057,6 @@ Build a full 3D reconstruction of a house from a single reference image, working
 
 ---
 
-### [支持驾驶运输机的10对10科幻第一人称射击游戏](https://wandy3d.com/zh/prompts/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/zh/prompts/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024.webp" width="640" alt="支持驾驶运输机的10对10科幻第一人称射击游戏"></a>
-
-**GPT-6 Astra** · 游戏 · 作者 [Thomas Jørgensen](https://x.com/Thomas_jorgen) · 2026-09-03
-
-GPT-6 Astra搭配游戏制作工具,生成了异星战场上的团队FPS:霓虹步枪、敌方士兵,还有可驾驶的运输机。
-
-<details>
-<summary>Wandy3D 制作简报</summary>
-
-```text
-Build a team-based first-person sci-fi shooter for 10v10 matches. Set it on a large alien landscape: grassy plains, rocky mesas, a coastline, ruined stone towers and a huge ringed planet and glowing beams in a dusk sky. The player holds a chunky dark rifle with neon green accents, with a HUD showing ammo, health and a shield bar, and enemy troopers with floating name tags. Add at least one flyable dropship that can lift off and cruise over land and sea. Use warm sunset lighting, soft fog and a teal, orange and violet palette. Deliver it as a playable game project with WASD and mouse look, shooting, reloading, bot teammates and opponents, respawns and a simple score. Done means a full match can be played from spawn to finish, and the ship can be boarded and flown around the map.
-```
-
-</details>
-
-[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/10v10-sci-fi-first-person-shooter-with-flyable-dropships-2095598026916049024?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/Thomas_jorgen/status/2095598026916049024)
-
----
-
-[← 上一页](catalog.zh.5.md) · 第 6 页，共 8 页 · [下一页 →](catalog.zh.7.md)
+[← 上一页](catalog.zh.5.md) · 第 6 页，共 9 页 · [下一页 →](catalog.zh.7.md)
 
 提示词、视频和图片的权利归原作者所有（[RIGHTS.md](../RIGHTS.md)）。我们撰写的文字采用 [CC BY 4.0](../LICENSE) 许可。知道有成果展示的好提示词？[推荐给我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。如果你是作者并希望修改或删除条目，请[联系我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

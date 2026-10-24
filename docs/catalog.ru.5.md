@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 5/8
+# Awesome 3D Prompts — Каталог 5/9
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Назад](catalog.ru.4.md) · страница 5 из 8 · [Дальше →](catalog.ru.6.md)
+[← Назад](catalog.ru.4.md) · страница 5 из 9 · [Дальше →](catalog.ru.6.md)
+
+### [Площадь Терейру-ду-Пасу в Лиссабоне в Blender с пролётом камеры](https://wandy3d.com/ru/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021.webp" width="640" alt="Площадь Терейру-ду-Пасу в Лиссабоне в Blender с пролётом камеры"></a>
+
+**GPT-6 Astra** · Сцены · автор [Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
+
+GPT-6 Astra с одного захода смоделировал в Blender набережную площадь Лиссабона: аркады, триумфальная арка, статуя, река и пролёт камеры.
+
+<details>
+<summary>Бриф от Wandy3D</summary>
+
+```text
+Build a Blender scene, delivered as a Python script, that recreates a grand riverside European plaza in Lisbon. Model a huge open square with pale paving and light line patterns, bordered on three sides by long yellow arcaded buildings with terracotta roofs, and a monumental white triumphal arch in the middle of the far side. Place a bronze equestrian statue on a stepped stone pedestal with railings at the center. Open the fourth side to a wide river with a quay, a small sailboat and a distant green shoreline. Add dense red-roofed city blocks behind the buildings, street lamps, a tram and many tiny pedestrians. Use physically based materials, soft late-afternoon sun and a cloudy sky. Animate a slow camera flight that starts high above the square and descends toward the statue, then turns to look over the water. Done means a rendered 30 second sequence with believable architecture, lighting and scale.
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/goncalo_canhoto/status/2096298425914450021)
+
+---
 
 ### [3D-лендинг с биолюминесцентной медузой на Next.js и Three.js](https://wandy3d.com/ru/prompts/bioluminescent-jellyfish-3d-landing-page-with-next-js-and-2096269057544831175?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1065,27 +1086,6 @@ Build an explorable 3D recreation of the Taj Mahal that runs in the browser. Use
 
 ---
 
-### [Интерактивное 3D-портфолио с персонажем из Blender и глобусом](https://wandy3d.com/ru/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ru/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704.webp" width="640" alt="Интерактивное 3D-портфолио с персонажем из Blender и глобусом"></a>
-
-**GPT-6 Astra** · Интерактив · автор [Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04
-
-GPT-6 Astra собрал WebGL-портфолио: персонаж из Blender по фото и вращающийся глобус с маркерами выступлений по всему миру.
-
-<details>
-<summary>Бриф от Wandy3D</summary>
-
-```text
-Build an interactive 3D personal portfolio website with an editorial look: warm cream background, large serif name heading, small navigation list and quiet sans-serif details. Place a stylized 3D cartoon character, modeled in Blender from a reference photo and exported for the web, in the hero area, with a gentle idle motion that follows the cursor. Add a second section called a speaking orbit: a slowly revolving Earth globe in soft green and white tones with markers for talk locations around the world. Selecting or cycling through a marker updates a side panel with the city, event title, a short description and a link. Use WebGL, for example Three.js, and keep transitions smooth between hero and globe. Deliver a runnable web project plus the exported character model. It is done when the character renders cleanly, the globe rotates, and every marker updates the panel correctly.
-```
-
-</details>
-
-[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/interactive-3d-portfolio-with-a-blender-character-and-talk-2096023793772998704?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/HowDevelop/status/2096023793772998704)
-
----
-
-[← Назад](catalog.ru.4.md) · страница 5 из 8 · [Дальше →](catalog.ru.6.md)
+[← Назад](catalog.ru.4.md) · страница 5 из 9 · [Дальше →](catalog.ru.6.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

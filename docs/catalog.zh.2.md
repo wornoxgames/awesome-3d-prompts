@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — 目录 2/8
+# Awesome 3D Prompts — 目录 2/9
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · **中文**
 
-[← 上一页](catalog.zh.1.md) · 第 2 页，共 8 页 · [下一页 →](catalog.zh.3.md)
+[← 上一页](catalog.zh.1.md) · 第 2 页，共 9 页 · [下一页 →](catalog.zh.3.md)
+
+### [一句话在Blender中生成的毛茸茸豚鼠](https://wandy3d.com/zh/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544.webp" width="640" alt="一句话在Blender中生成的毛茸茸豚鼠"></a>
+
+**GPT-6 Astra** · 资产 · 作者 [かよこ](https://x.com/kayokojoe) · 2026-09-25
+
+GPT-6 Astra通过Codex，在没有参考照片的情况下于Blender中建出了白棕相间的毛绒豚鼠。
+
+<details>
+<summary>提示词</summary>
+
+```text
+Blenderでモルモットを作って
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/kayokojoe/status/2103482826519986544)
+
+---
 
 ### [可漫步的动漫樱花小镇：商店街、神社与列车](https://wandy3d.com/zh/prompts/walkable-anime-cherry-blossom-town-with-shops-shrine-and-2103480085319942353?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1749,32 +1770,6 @@ GPT-6 Astra（与 Fable 5.1 对比测试）用 Three.js 做出带车顶激光雷
 
 ---
 
-### [戴头带的功夫猫格挡人手：Blender 动作参考生成视频](https://wandy3d.com/zh/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/zh/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606.webp" width="640" alt="戴头带的功夫猫格挡人手：Blender 动作参考生成视频"></a>
-
-**GPT-6 Astra** · 动画 · 作者 [PixVerse](https://x.com/PixVerse) · 2026-09-19
-
-GPT-6 Astra 通过 Blender 搭出猫咪武术动作的节奏，再据此生成寺院庭院里写实风格的 10 秒短片。
-
-<details>
-<summary>提示词</summary>
-
-```text
-Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
-A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
-Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
-ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
-Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
-NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
-```
-
-</details>
-
-[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/kung-fu-cat-in-a-headband-parrying-hands-blender-motion-2101310387081908606?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/PixVerse/status/2101310387081908606)
-
----
-
-[← 上一页](catalog.zh.1.md) · 第 2 页，共 8 页 · [下一页 →](catalog.zh.3.md)
+[← 上一页](catalog.zh.1.md) · 第 2 页，共 9 页 · [下一页 →](catalog.zh.3.md)
 
 提示词、视频和图片的权利归原作者所有（[RIGHTS.md](../RIGHTS.md)）。我们撰写的文字采用 [CC BY 4.0](../LICENSE) 许可。知道有成果展示的好提示词？[推荐给我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。如果你是作者并希望修改或删除条目，请[联系我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

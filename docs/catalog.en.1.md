@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Catalog 1/8
+# Awesome 3D Prompts — Catalog 1/9
 
 [← Awesome 3D Prompts](../README.md) · **English** · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-page 1 of 8 · [Next →](catalog.en.2.md)
+page 1 of 9 · [Next →](catalog.en.2.md)
+
+### [Interactive 3D helicopter with takeoff, assembly and exploded views](https://wandy3d.com/prompts/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/prompts/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963.webp" width="640" alt="Interactive 3D helicopter with takeoff, assembly and exploded views"></a>
+
+**Kimi K3.1** · Interactive · by [Lumina](https://x.com/LuminaBench) · 2026-10-22
+
+A comparison run: Kimi K3.1 and Qwen 4 got the same prompt and each produced a 3D helicopter app with flight, assembly and exploded-parts modes.
+
+<details>
+<summary>Build brief by Wandy3D</summary>
+
+```text
+Build an interactive 3D helicopter showcase as a polished single-page web app. Show a detailed light helicopter in white, grey and red on a circular helipad against a warm off-white background. Add a clean editorial layout with large headline text that changes as the user moves through sections, and a side panel listing the helicopter's parts. Include animated takeoff and landing, with rotors spinning and the craft lifting off the pad. Add an assembly view where the parts fly in and fit together, and an exploded view that separates the fuselage, rotors, skids, cockpit and instruments so each can be inspected, with a close-up of the cockpit interior. Provide orbit camera control and simple buttons to switch between flight, assembly and exploded modes. Use WebGL, for example Three.js, with soft shadows and subtle lighting. Deliver a runnable project or one self-contained HTML file. Done means all three modes work smoothly and the parts list matches the visible components.
+```
+
+</details>
+
+[View on Wandy3D ↗](https://wandy3d.com/prompts/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/LuminaBench/status/2113217029675085963)
+
+---
 
 ### [One photo to a 3D model: an AI orb UI motion loop](https://wandy3d.com/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1424,27 +1445,6 @@ Implement code to be able to navigate in a pagoda in 3D.
 
 ---
 
-### [Fluffy guinea pig modeled in Blender from a single short request](https://wandy3d.com/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544.webp" width="640" alt="Fluffy guinea pig modeled in Blender from a single short request"></a>
-
-**GPT-6 Astra** · Assets · by [かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-GPT-6 Astra, run through Codex, modeled a furry white and brown guinea pig in Blender with no reference photos, only a one-line request.
-
-<details>
-<summary>Prompt</summary>
-
-```text
-Blenderでモルモットを作って
-```
-
-</details>
-
-[View on Wandy3D ↗](https://wandy3d.com/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Original post](https://x.com/kayokojoe/status/2103482826519986544)
-
----
-
-page 1 of 8 · [Next →](catalog.en.2.md)
+page 1 of 9 · [Next →](catalog.en.2.md)
 
 Prompts, videos and images belong to their authors ([RIGHTS.md](../RIGHTS.md)). Our editorial text is [CC BY 4.0](../LICENSE). Know a great prompt with a visible result? [Suggest it](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Are you an author and want an entry changed or removed? [Tell us](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).

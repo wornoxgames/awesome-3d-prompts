@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — 目录 1/8
+# Awesome 3D Prompts — 目录 1/9
 
 [← Awesome 3D Prompts](../README.md) · [English](catalog.en.1.md) · [Русский](catalog.ru.1.md) · [日本語](catalog.ja.1.md) · **中文**
 
-第 1 页，共 8 页 · [下一页 →](catalog.zh.2.md)
+第 1 页，共 9 页 · [下一页 →](catalog.zh.2.md)
+
+### [带起降、组装与爆炸视图的交互式3D直升机](https://wandy3d.com/zh/prompts/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/zh/prompts/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963.webp" width="640" alt="带起降、组装与爆炸视图的交互式3D直升机"></a>
+
+**Kimi K3.1** · 互动 · 作者 [Lumina](https://x.com/LuminaBench) · 2026-10-22
+
+这是一次对比：Kimi K3.1 与 Qwen 4 使用同一提示词，各自生成了带飞行、组装和零件爆炸视图的3D直升机应用。
+
+<details>
+<summary>Wandy3D 制作简报</summary>
+
+```text
+Build an interactive 3D helicopter showcase as a polished single-page web app. Show a detailed light helicopter in white, grey and red on a circular helipad against a warm off-white background. Add a clean editorial layout with large headline text that changes as the user moves through sections, and a side panel listing the helicopter's parts. Include animated takeoff and landing, with rotors spinning and the craft lifting off the pad. Add an assembly view where the parts fly in and fit together, and an exploded view that separates the fuselage, rotors, skids, cockpit and instruments so each can be inspected, with a close-up of the cockpit interior. Provide orbit camera control and simple buttons to switch between flight, assembly and exploded modes. Use WebGL, for example Three.js, with soft shadows and subtle lighting. Deliver a runnable project or one self-contained HTML file. Done means all three modes work smoothly and the parts list matches the visible components.
+```
+
+</details>
+
+[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/interactive-3d-helicopter-with-takeoff-assembly-and-exploded-2113217029675085963?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/LuminaBench/status/2113217029675085963)
+
+---
 
 ### [一张照片变成3D模型：AI光球UI动效](https://wandy3d.com/zh/prompts/wandy-orb-photo-to-3d-ui-motion?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1424,27 +1445,6 @@ Implement code to be able to navigate in a pagoda in 3D.
 
 ---
 
-### [一句话在Blender中生成的毛茸茸豚鼠](https://wandy3d.com/zh/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/zh/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544.webp" width="640" alt="一句话在Blender中生成的毛茸茸豚鼠"></a>
-
-**GPT-6 Astra** · 资产 · 作者 [かよこ](https://x.com/kayokojoe) · 2026-09-25
-
-GPT-6 Astra通过Codex，在没有参考照片的情况下于Blender中建出了白棕相间的毛绒豚鼠。
-
-<details>
-<summary>提示词</summary>
-
-```text
-Blenderでモルモットを作って
-```
-
-</details>
-
-[在 Wandy3D 查看 ↗](https://wandy3d.com/zh/prompts/fluffy-guinea-pig-modeled-in-blender-from-a-single-short-2103482826519986544?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [原帖](https://x.com/kayokojoe/status/2103482826519986544)
-
----
-
-第 1 页，共 8 页 · [下一页 →](catalog.zh.2.md)
+第 1 页，共 9 页 · [下一页 →](catalog.zh.2.md)
 
 提示词、视频和图片的权利归原作者所有（[RIGHTS.md](../RIGHTS.md)）。我们撰写的文字采用 [CC BY 4.0](../LICENSE) 许可。知道有成果展示的好提示词？[推荐给我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md)。如果你是作者并希望修改或删除条目，请[联系我们](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md)。

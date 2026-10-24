@@ -1,10 +1,31 @@
 <!-- Generated file: edits are overwritten. -->
 
-# Awesome 3D Prompts — Каталог 4/8
+# Awesome 3D Prompts — Каталог 4/9
 
 [← Awesome 3D Prompts](../README.ru.md) · [English](catalog.en.1.md) · **Русский** · [日本語](catalog.ja.1.md) · [中文](catalog.zh.1.md)
 
-[← Назад](catalog.ru.3.md) · страница 4 из 8 · [Дальше →](catalog.ru.5.md)
+[← Назад](catalog.ru.3.md) · страница 4 из 9 · [Дальше →](catalog.ru.5.md)
+
+### [Low-poly деревня в северных горах: диорама на Three.js](https://wandy3d.com/ru/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
+
+<a href="https://wandy3d.com/ru/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502.webp" width="640" alt="Low-poly деревня в северных горах: диорама на Three.js"></a>
+
+**GPT-6 Astra** · Сцены · автор [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08
+
+GPT-6 Astra собрала деревню в духе Skyrim на Three.js: срубовые дома, каменный мост, водяное колесо и река, плюс пресеты камеры.
+
+<details>
+<summary>Промпт</summary>
+
+```text
+img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。
+```
+
+</details>
+
+[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/low-poly-nordic-mountain-village-diorama-in-three-js-2097167383576383502?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/TaroKichijo/status/2097167383576383502)
+
+---
 
 ### [Взрыв-схема японского цветочного магазина в Blender: анимация](https://wandy3d.com/ru/prompts/exploded-view-animation-of-a-pastel-japanese-flower-shop-in-2097153139795468365?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
 
@@ -1241,27 +1262,6 @@ Build a ten-second cinematic render of a dragon using Blender in headless mode, 
 
 ---
 
-### [Площадь Терейру-ду-Пасу в Лиссабоне в Blender с пролётом камеры](https://wandy3d.com/ru/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts)
-
-<a href="https://wandy3d.com/ru/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts"><img src="../assets/previews/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021.webp" width="640" alt="Площадь Терейру-ду-Пасу в Лиссабоне в Blender с пролётом камеры"></a>
-
-**GPT-6 Astra** · Сцены · автор [Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05
-
-GPT-6 Astra с одного захода смоделировал в Blender набережную площадь Лиссабона: аркады, триумфальная арка, статуя, река и пролёт камеры.
-
-<details>
-<summary>Бриф от Wandy3D</summary>
-
-```text
-Build a Blender scene, delivered as a Python script, that recreates a grand riverside European plaza in Lisbon. Model a huge open square with pale paving and light line patterns, bordered on three sides by long yellow arcaded buildings with terracotta roofs, and a monumental white triumphal arch in the middle of the far side. Place a bronze equestrian statue on a stepped stone pedestal with railings at the center. Open the fourth side to a wide river with a quay, a small sailboat and a distant green shoreline. Add dense red-roofed city blocks behind the buildings, street lamps, a tram and many tiny pedestrians. Use physically based materials, soft late-afternoon sun and a cloudy sky. Animate a slow camera flight that starts high above the square and descends toward the statue, then turns to look over the water. Done means a rendered 30 second sequence with believable architecture, lighting and scale.
-```
-
-</details>
-
-[Открыть на Wandy3D ↗](https://wandy3d.com/ru/prompts/lisbon-terreiro-do-paco-square-recreated-in-blender-with-2096298425914450021?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts) · [Исходный пост](https://x.com/goncalo_canhoto/status/2096298425914450021)
-
----
-
-[← Назад](catalog.ru.3.md) · страница 4 из 8 · [Дальше →](catalog.ru.5.md)
+[← Назад](catalog.ru.3.md) · страница 4 из 9 · [Дальше →](catalog.ru.5.md)
 
 Промпты, видео и картинки принадлежат их авторам ([RIGHTS.md](../RIGHTS.md)). Наши тексты — [CC BY 4.0](../LICENSE). Знаете хороший промпт с видимым результатом? [Предложите его](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=suggest.md). Вы автор и хотите изменить или убрать запись? [Напишите нам](https://github.com/wornoxgames/awesome-3d-prompts/issues/new?template=removal.md).
