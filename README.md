@@ -4,7 +4,7 @@
 
 Free 3D prompts for Claude, GPT and Kimi — games, scenes, assets and animation, each with its result. Curated by [Wandy3D](https://wandy3d.com/prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_3d_prompts).
 
-401 prompts · 20 models · 6 categories · updated 2026-10-27
+401 prompts · 20 models · 6 categories · updated 2026-10-28
 
 **English** · [Русский](README.ru.md) · [日本語](docs/catalog.ja.1.md) · [中文](docs/catalog.zh.1.md) · Full catalog: [Catalog 1/9](docs/catalog.en.1.md)
 
